@@ -3,6 +3,146 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20263307",
+      "title": "도그 스타: 마지막 희망",
+      "titleEn": "The Dog Stars",
+      "titleOriginal": "",
+      "openedAt": "2026-08-26",
+      "audienceAcc": 14732,
+      "genres": [
+        "액션",
+        "SF"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260826",
+      "lastSeenAt": "20260901",
+      "days": 5,
+      "bestRank": 7,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 118,
+      "directors": [
+        "리들리 스콧"
+      ],
+      "cast": [
+        "제이콥 엘로디",
+        "조슈 브롤린",
+        "마가렛 퀄리",
+        "앨리슨 제니",
+        "가이 피어스"
+      ],
+      "producers": [],
+      "distributors": [
+        "월트디즈니컴퍼니코리아 유한책임회사"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20263307.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "인류를 휩쓴 대재앙으로 문명이 무너지고 폐허가 된 세상. 임신한 아내를 잃은 파일럿 힉은 반려견 재스퍼와 함께 살아남기 위해 매일 목숨을 건 사투를 벌이고, 생존을 위해서는 누군가를 죽여야만 하는 냉혹한 현실 속에서 점점 삶의 희망마저 잃어간다. 어느 날, 다른 구역에서 들려온 의문의 라디오 무전은 힉에게 새로운 땅과 삶에 대한 희망을 안겨준다. 유일한 이웃인 뱅리의 염세적인 만류에도 불구하고 무전의 발신지를 찾아 길을 떠난 힉은 다른 구역의 생존자 시마와 팝스를 만나 오랜만에 인간다운 온기와 희망을 되찾는다. 그러나 평화도 잠시, 야만적인 생존자들의 위협이 그들을 덮치고 힉과 동료들은 살아남기 위한 마지막 사투에 뛰어든다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1384216,
+      "score": 6.6,
+      "scoreBy": "TMDB",
+      "voteCount": 294,
+      "showing": false
+    },
+    {
+      "movieCd": "20255484",
+      "title": "오케이 마담2",
+      "titleEn": "OK! MADAM: BON VOYAGE",
+      "titleOriginal": "",
+      "openedAt": "2026-08-12",
+      "audienceAcc": 337976,
+      "genres": [
+        "액션",
+        "코미디"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260824",
+      "lastSeenAt": "20260901",
+      "days": 8,
+      "bestRank": 5,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 108,
+      "directors": [
+        "이철하"
+      ],
+      "cast": [
+        "엄정화",
+        "박성웅",
+        "이상윤",
+        "배정남",
+        "박진주",
+        "려운"
+      ],
+      "producers": [
+        "올픽처스 주식회사"
+      ],
+      "distributors": [
+        "씨지브이 픽처스"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20255484.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "사춘기 딸과의 전쟁, 허세 충만 백수 남편, 꽈배기집 폐업 위기까지. 지긋지긋한 현생을 견뎌오던 미영에게 초호화 크루즈 결혼식 초대장이 도착한다. “우리, 진짜 여행 가자!” 화려한 크루즈 여행을 만끽하던 것도 잠시. 범죄 조직의 리더 안야의 등장에 수백명이 탑승한 크루즈는 순식간에 사상 초유의 납치 사건 현장이 되어버린다. 도망칠 곳 없는 푸른 바다 한복판, 다시 한번 각성한 전직 레전드 요원 미영은 이제 가족을 구하고 세상을 지켜야 할 위험한 작전에 뛰어든다!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1307247,
+      "score": 5.5,
+      "scoreBy": "TMDB",
+      "voteCount": 2,
+      "showing": false
+    },
+    {
+      "movieCd": "20264035",
+      "title": "인시디어스: 그들이 넘어왔다",
+      "titleEn": "Insidious: Out of the Further",
+      "titleOriginal": "",
+      "openedAt": "2026-08-20",
+      "audienceAcc": 154456,
+      "genres": [
+        "공포(호러)",
+        "미스터리",
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260824",
+      "lastSeenAt": "20260901",
+      "days": 9,
+      "bestRank": 3,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 105,
+      "directors": [
+        "제이콥 체이스"
+      ],
+      "cast": [
+        "브랜든 페레아",
+        "로라 고든",
+        "린 샤예"
+      ],
+      "producers": [],
+      "distributors": [
+        "소니픽쳐스엔터테인먼트코리아주식회사극장배급지점"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264035.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "사후세계의 악령들로부터 딸과 일상을 지키기 위해 사투를 벌이는 이야기",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1291595,
+      "score": 6.5,
+      "scoreBy": "TMDB",
+      "voteCount": 167,
+      "showing": false
+    },
+    {
       "movieCd": "20265388",
       "title": "고스트밴드",
       "titleEn": "GHOST BAND",
