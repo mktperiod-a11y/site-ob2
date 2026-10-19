@@ -3,7 +3,7 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
   "updatedAt": "2026-10-19",
-  "latestDt": "20261018",
+  "latestDt": "20261019",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 1828907,
+      "audienceAcc": 1853137,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261018",
-      "days": 22,
+      "lastSeenAt": "20261019",
+      "days": 23,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 146248,
+      "audienceDay": 24230,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3249172,
+      "audienceAcc": 3265447,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261018",
-      "days": 28,
+      "lastSeenAt": "20261019",
+      "days": 29,
       "bestRank": 1,
       "rank": 2,
-      "audienceDay": 56420,
+      "audienceDay": 16275,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -105,7 +105,7 @@
       "titleEn": "The Odyssey",
       "titleOriginal": "",
       "openedAt": "2026-08-05",
-      "audienceAcc": 12267664,
+      "audienceAcc": 12275556,
       "genres": [
         "액션",
         "드라마",
@@ -113,11 +113,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20260824",
-      "lastSeenAt": "20261018",
-      "days": 55,
+      "lastSeenAt": "20261019",
+      "days": 56,
       "bestRank": 1,
       "rank": 4,
-      "audienceDay": 19949,
+      "audienceDay": 7892,
       "runtime": 172,
       "directors": [
         "크리스토퍼 놀란"
@@ -153,18 +153,18 @@
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 1911190,
+      "audienceAcc": 1924908,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261018",
-      "days": 30,
+      "lastSeenAt": "20261019",
+      "days": 31,
       "bestRank": 1,
       "rank": 3,
-      "audienceDay": 36249,
+      "audienceDay": 13718,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,17 +202,17 @@
       "titleEn": "Look Back",
       "titleOriginal": "",
       "openedAt": "2026-10-08",
-      "audienceAcc": 105345,
+      "audienceAcc": 107924,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261008",
-      "lastSeenAt": "20261018",
-      "days": 11,
+      "lastSeenAt": "20261019",
+      "days": 12,
       "bestRank": 4,
-      "rank": 6,
-      "audienceDay": 8622,
+      "rank": 7,
+      "audienceDay": 2579,
       "runtime": 100,
       "directors": [
         "고레에다 히로카즈"
@@ -241,71 +241,22 @@
       "showing": true
     },
     {
-      "movieCd": "20224573",
-      "title": "부활남: 더 레드",
-      "titleEn": "REAWAKENED MAN",
-      "titleOriginal": "",
-      "openedAt": "2026-09-30",
-      "audienceAcc": 326734,
-      "genres": [
-        "액션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260918",
-      "lastSeenAt": "20261018",
-      "days": 18,
-      "bestRank": 4,
-      "rank": 10,
-      "audienceDay": 3396,
-      "runtime": 101,
-      "directors": [
-        "백"
-      ],
-      "cast": [
-        "구교환",
-        "신승호",
-        "강기영",
-        "김시아",
-        "김성령"
-      ],
-      "producers": [
-        "씨제이이엔엠스튜디오스(주)용필름지점",
-        "주식회사 슈퍼픽션",
-        "주식회사 와이랩"
-      ],
-      "distributors": [
-        "롯데컬처웍스(주)롯데엔터테인먼트"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20224573.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "근거 없는 자신감이 유일한 스펙인 취준생 ‘석환’이 죽은 뒤 72시간이면 부활하는 능력을 갖고 있다는 걸 알게 된 후 의문의 추격을 당하며 펼쳐지는 이야기",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 961214,
-      "score": 5,
-      "scoreBy": "TMDB",
-      "voteCount": 1,
-      "showing": true
-    },
-    {
       "movieCd": "20266263",
       "title": "전자오락수호대",
       "titleEn": "Guardians of the Video Game",
       "titleOriginal": "",
       "openedAt": "2026-10-14",
-      "audienceAcc": 42647,
+      "audienceAcc": 44611,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20261014",
-      "lastSeenAt": "20261018",
-      "days": 5,
+      "lastSeenAt": "20261019",
+      "days": 6,
       "bestRank": 4,
-      "rank": 7,
-      "audienceDay": 7046,
+      "rank": 8,
+      "audienceDay": 1964,
       "runtime": 110,
       "directors": [
         "엄영식"
@@ -337,18 +288,18 @@
       "titleEn": "Whalefall",
       "titleOriginal": "",
       "openedAt": "2026-10-14",
-      "audienceAcc": 56363,
+      "audienceAcc": 60336,
       "genres": [
         "어드벤처",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261014",
-      "lastSeenAt": "20261018",
-      "days": 5,
+      "lastSeenAt": "20261019",
+      "days": 6,
       "bestRank": 5,
       "rank": 5,
-      "audienceDay": 13897,
+      "audienceDay": 3973,
       "runtime": 105,
       "directors": [
         "브라이언 더필드"
@@ -379,6 +330,187 @@
       "showing": true
     },
     {
+      "movieCd": "20266610",
+      "title": "입에 대한 앙케트",
+      "titleEn": "The Mouths",
+      "titleOriginal": "",
+      "openedAt": "2026-10-07",
+      "audienceAcc": 78814,
+      "genres": [
+        "공포(호러)"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261007",
+      "lastSeenAt": "20261019",
+      "days": 12,
+      "bestRank": 5,
+      "rank": 9,
+      "audienceDay": 1700,
+      "runtime": 88,
+      "directors": [
+        "시미즈 다카시"
+      ],
+      "cast": [
+        "츠나 케이토",
+        "요시카와 아이미"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)바이포엠스튜디오"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20266610.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "“그날 밤, 무슨 일이 있었는지 말씀드릴게요” 심령 명소로 유명한 묘지. 그곳에 저주받은 나무가 있다는 괴담에 이끌려 ‘쇼타’ 일행은 담력 시험에 나선다. 그리고 다음 날, 일행 중 한 명이 흔적도 없이 사라진다. 그날 이후, 남겨진 친구들의 주변에서 알 수 없는 일들이 하나둘씩 벌어지기 시작하는데… 사라진 한 명, 남겨진 5명의 증언. 증언이 쌓일수록 섬뜩한 진실이 드러난다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1587473,
+      "score": 7,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "showing": true
+    },
+    {
+      "movieCd": "20267571",
+      "title": "클레이페이스",
+      "titleEn": "Clayface",
+      "titleOriginal": "",
+      "openedAt": "2026-10-21",
+      "audienceAcc": 3528,
+      "genres": [
+        "공포(호러)",
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261019",
+      "lastSeenAt": "20261019",
+      "days": 1,
+      "bestRank": 6,
+      "rank": 6,
+      "audienceDay": 3528,
+      "runtime": 108,
+      "directors": [
+        "제임스 왓킨스"
+      ],
+      "cast": [
+        "톰 리스 해리스",
+        "나오미 애키",
+        "다비드 덴칙"
+      ],
+      "producers": [],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "청소년관람불가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "할리우드의 주연 배우로 유명 영화제 수상을 눈 앞에 두며 꿈을 이루기 직전인 ‘맷 헤이건’. 그러나 한 순간의 실수로 범죄 조직의 타겟이 되어 얼굴이 처참하게 훼손되며 그의 빛나던 인생은 하루 아침에 비극으로 뒤바뀐다. 커리어도, 사람들도 모두 잃은 ‘맷’은 과학자 ‘닥터 케이틀린’의 미완성 최첨단 나노 기술에 마지막 희망을 걸고 기적적으로 예전의 얼굴을 되찾는 데 성공하지만 기쁨도 잠시 그의 몸에는 인간의 형체마저 무너뜨리는 끔찍한 변화가 시작된다. 또한 자신을 공격한 범죄 조직에 연루된 자들의 정체를 알게 되자 걷잡을 수 없는 분노에 사로잡힌 ‘맷’은 자신의 모든 것을 빼앗아간 이들을 향한 처절한 복수에 나서는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1400940,
+      "score": 8.3,
+      "scoreBy": "TMDB",
+      "voteCount": 8,
+      "poster": "assets/posters/20267571.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20231795",
+      "title": "수능, 출제의 비밀",
+      "titleEn": "Ugly Duckling Ms. Maeng",
+      "titleOriginal": "",
+      "openedAt": "2026-10-28",
+      "audienceAcc": 1555,
+      "genres": [
+        "코미디"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261019",
+      "lastSeenAt": "20261019",
+      "days": 1,
+      "bestRank": 10,
+      "rank": 10,
+      "audienceDay": 1555,
+      "runtime": 99,
+      "directors": [
+        "이용재"
+      ],
+      "cast": [
+        "이선빈",
+        "유재명",
+        "김영민",
+        "전석호",
+        "김경민",
+        "이진희"
+      ],
+      "producers": [
+        "(주)조이래빗"
+      ],
+      "distributors": [
+        "(주)바이포엠스튜디오",
+        "(주)바른손이앤에이"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "수능 D-DAY, 정답은 이미 정해져 있다? 그 정답을 만드는 사람들이 지금 이 방에 모였습니다. 대한민국 최고의 수능 출제 전문가 전원. 외부 차단 40일, 중도 이탈 불가. 오탈자도 시비도 없는 전국의 모든 지원자들에게 ‘공정한’ 문제 출제. 적중률 100%, 본인들이 직접 출제하니까. 40일간의 미션, “문제없는 문제”를 만들어라!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1083624,
+      "poster": "assets/posters/20231795.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20224573",
+      "title": "부활남: 더 레드",
+      "titleEn": "REAWAKENED MAN",
+      "titleOriginal": "",
+      "openedAt": "2026-09-30",
+      "audienceAcc": 326734,
+      "genres": [
+        "액션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260918",
+      "lastSeenAt": "20261018",
+      "days": 18,
+      "bestRank": 4,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 101,
+      "directors": [
+        "백"
+      ],
+      "cast": [
+        "구교환",
+        "신승호",
+        "강기영",
+        "김시아",
+        "김성령"
+      ],
+      "producers": [
+        "씨제이이엔엠스튜디오스(주)용필름지점",
+        "주식회사 슈퍼픽션",
+        "주식회사 와이랩"
+      ],
+      "distributors": [
+        "롯데컬처웍스(주)롯데엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20224573.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "근거 없는 자신감이 유일한 스펙인 취준생 ‘석환’이 죽은 뒤 72시간이면 부활하는 능력을 갖고 있다는 걸 알게 된 후 의문의 추격을 당하며 펼쳐지는 이야기",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 961214,
+      "score": 5,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "showing": false
+    },
+    {
       "movieCd": "20263410",
       "title": "스트리트 파이터",
       "titleEn": "Street Fighter",
@@ -393,8 +525,8 @@
       "lastSeenAt": "20261018",
       "days": 5,
       "bestRank": 5,
-      "rank": 8,
-      "audienceDay": 5462,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 119,
       "directors": [
         "키타오 사쿠라이"
@@ -421,49 +553,7 @@
       "score": 6,
       "scoreBy": "TMDB",
       "voteCount": 7,
-      "showing": true
-    },
-    {
-      "movieCd": "20266610",
-      "title": "입에 대한 앙케트",
-      "titleEn": "The Mouths",
-      "titleOriginal": "",
-      "openedAt": "2026-10-07",
-      "audienceAcc": 77114,
-      "genres": [
-        "공포(호러)"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261007",
-      "lastSeenAt": "20261018",
-      "days": 11,
-      "bestRank": 5,
-      "rank": 9,
-      "audienceDay": 4961,
-      "runtime": 88,
-      "directors": [
-        "시미즈 다카시"
-      ],
-      "cast": [
-        "츠나 케이토",
-        "요시카와 아이미"
-      ],
-      "producers": [],
-      "distributors": [
-        "(주)바이포엠스튜디오"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20266610.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "“그날 밤, 무슨 일이 있었는지 말씀드릴게요” 심령 명소로 유명한 묘지. 그곳에 저주받은 나무가 있다는 괴담에 이끌려 ‘쇼타’ 일행은 담력 시험에 나선다. 그리고 다음 날, 일행 중 한 명이 흔적도 없이 사라진다. 그날 이후, 남겨진 친구들의 주변에서 알 수 없는 일들이 하나둘씩 벌어지기 시작하는데… 사라진 한 명, 남겨진 5명의 증언. 증언이 쌓일수록 섬뜩한 진실이 드러난다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1587473,
-      "score": 7,
-      "scoreBy": "TMDB",
-      "voteCount": 1,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20264775",
