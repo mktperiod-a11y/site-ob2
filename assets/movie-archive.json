@@ -3,6 +3,50 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20167922",
+      "title": "핵소 고지",
+      "titleEn": "Hacksaw Ridge",
+      "titleOriginal": "",
+      "openedAt": "2017-02-22",
+      "audienceAcc": 181576,
+      "genres": [
+        "드라마",
+        "전쟁"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260902",
+      "lastSeenAt": "20260902",
+      "days": 1,
+      "bestRank": 9,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 138,
+      "directors": [
+        "멜 깁슨"
+      ],
+      "cast": [
+        "앤드류 가필드",
+        "샘 워싱턴",
+        "휴고 위빙"
+      ],
+      "producers": [],
+      "distributors": [
+        "판씨네마(주)"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20167922.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "비폭력주의자인 도스는 전쟁으로부터 조국과 소중한 사람들을 지키기 위해 총을 들지 않아도 되는 의무병으로 육군에 자진 입대한다. 총을 들 수 없다는 이유로 필수 훈련 중 하나인 총기 훈련 마저 거부한 도스는 동료 병사들과 군 전체의 비난과 조롱을 받게 된다. 결국 군사재판까지 받게 되지만 끝까지 자신의 신념을 굽히지 않은 도스에게 군 상부는 오키나와 전투에 총기 없이 의무병으로 참전할 것을 허락하는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 324786,
+      "score": 8.2,
+      "scoreBy": "TMDB",
+      "voteCount": 15335,
+      "showing": false
+    },
+    {
       "movieCd": "20263307",
       "title": "도그 스타: 마지막 희망",
       "titleEn": "The Dog Stars",
@@ -45,8 +89,7 @@
       "tmdbId": 1384216,
       "score": 6.6,
       "scoreBy": "TMDB",
-      "voteCount": 294,
-      "showing": false
+      "voteCount": 294
     },
     {
       "movieCd": "20255484",
@@ -94,8 +137,7 @@
       "tmdbId": 1307247,
       "score": 5.5,
       "scoreBy": "TMDB",
-      "voteCount": 2,
-      "showing": false
+      "voteCount": 2
     },
     {
       "movieCd": "20264035",
@@ -139,8 +181,7 @@
       "tmdbId": 1291595,
       "score": 6.5,
       "scoreBy": "TMDB",
-      "voteCount": 167,
-      "showing": false
+      "voteCount": 167
     },
     {
       "movieCd": "20265388",
