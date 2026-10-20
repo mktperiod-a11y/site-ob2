@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-10-19",
-  "latestDt": "20261019",
+  "updatedAt": "2026-10-20",
+  "latestDt": "20261020",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 1853137,
+      "audienceAcc": 1875605,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261019",
-      "days": 23,
+      "lastSeenAt": "20261020",
+      "days": 24,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 24230,
+      "audienceDay": 22469,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3265447,
+      "audienceAcc": 3281577,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261019",
-      "days": 29,
+      "lastSeenAt": "20261020",
+      "days": 30,
       "bestRank": 1,
       "rank": 2,
-      "audienceDay": 16275,
+      "audienceDay": 16131,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -105,7 +105,7 @@
       "titleEn": "The Odyssey",
       "titleOriginal": "",
       "openedAt": "2026-08-05",
-      "audienceAcc": 12275556,
+      "audienceAcc": 12284708,
       "genres": [
         "액션",
         "드라마",
@@ -113,11 +113,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20260824",
-      "lastSeenAt": "20261019",
-      "days": 56,
+      "lastSeenAt": "20261020",
+      "days": 57,
       "bestRank": 1,
       "rank": 4,
-      "audienceDay": 7892,
+      "audienceDay": 9152,
       "runtime": 172,
       "directors": [
         "크리스토퍼 놀란"
@@ -148,23 +148,72 @@
       "showing": true
     },
     {
+      "movieCd": "20256308",
+      "title": "인턴",
+      "titleEn": "The Intern",
+      "titleOriginal": "",
+      "openedAt": "2026-09-16",
+      "audienceAcc": 897813,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260904",
+      "lastSeenAt": "20261020",
+      "days": 31,
+      "bestRank": 1,
+      "rank": 6,
+      "audienceDay": 4047,
+      "runtime": 132,
+      "directors": [
+        "김도영"
+      ],
+      "cast": [
+        "최민식",
+        "한소희",
+        "김준한",
+        "류혜영",
+        "김금순",
+        "박예니"
+      ],
+      "producers": [
+        "앤솔로지스튜디오(주)",
+        "워너브러더스 코리아(주)"
+      ],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20256308.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 607833,
+      "score": 7,
+      "scoreBy": "TMDB",
+      "voteCount": 3,
+      "showing": true
+    },
+    {
       "movieCd": "20256161",
       "title": "타짜: 벨제붑의 노래",
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 1924908,
+      "audienceAcc": 1936714,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261019",
-      "days": 31,
+      "lastSeenAt": "20261020",
+      "days": 32,
       "bestRank": 1,
       "rank": 3,
-      "audienceDay": 13718,
+      "audienceDay": 11808,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,17 +251,17 @@
       "titleEn": "Look Back",
       "titleOriginal": "",
       "openedAt": "2026-10-08",
-      "audienceAcc": 107924,
+      "audienceAcc": 110736,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261008",
-      "lastSeenAt": "20261019",
-      "days": 12,
+      "lastSeenAt": "20261020",
+      "days": 13,
       "bestRank": 4,
       "rank": 7,
-      "audienceDay": 2579,
+      "audienceDay": 2812,
       "runtime": 100,
       "directors": [
         "고레에다 히로카즈"
@@ -246,17 +295,17 @@
       "titleEn": "Guardians of the Video Game",
       "titleOriginal": "",
       "openedAt": "2026-10-14",
-      "audienceAcc": 44611,
+      "audienceAcc": 46881,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20261014",
-      "lastSeenAt": "20261019",
-      "days": 6,
+      "lastSeenAt": "20261020",
+      "days": 7,
       "bestRank": 4,
       "rank": 8,
-      "audienceDay": 1964,
+      "audienceDay": 2270,
       "runtime": 110,
       "directors": [
         "엄영식"
@@ -288,18 +337,18 @@
       "titleEn": "Whalefall",
       "titleOriginal": "",
       "openedAt": "2026-10-14",
-      "audienceAcc": 60336,
+      "audienceAcc": 64790,
       "genres": [
         "어드벤처",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261014",
-      "lastSeenAt": "20261019",
-      "days": 6,
+      "lastSeenAt": "20261020",
+      "days": 7,
       "bestRank": 5,
       "rank": 5,
-      "audienceDay": 3973,
+      "audienceDay": 4458,
       "runtime": 105,
       "directors": [
         "브라이언 더필드"
@@ -330,6 +379,96 @@
       "showing": true
     },
     {
+      "movieCd": "20263410",
+      "title": "스트리트 파이터",
+      "titleEn": "Street Fighter",
+      "titleOriginal": "",
+      "openedAt": "2026-10-14",
+      "audienceAcc": 38613,
+      "genres": [
+        "액션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261014",
+      "lastSeenAt": "20261020",
+      "days": 6,
+      "bestRank": 5,
+      "rank": 9,
+      "audienceDay": 2171,
+      "runtime": 119,
+      "directors": [
+        "키타오 사쿠라이"
+      ],
+      "cast": [
+        "앤드류 코지",
+        "노아 센티네오",
+        "칼리나 리앙",
+        "제이슨 모모아",
+        "데이비드 다스트말치안"
+      ],
+      "producers": [],
+      "distributors": [
+        "롯데컬처웍스(주)롯데엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20263410.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "1993년, 숙명의 라이벌 류와 켄은 미스터리한 여성 춘리의 제안으로 세계 최강의 파이터들이 모인 '월드 워리어 토너먼트'에 참여하게 된다. 라운드가 거듭될수록 두 사람은 목숨을 건 배틀 로얄 속에 숨겨진 거대한 음모의 실체를 마주하게 되는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1153576,
+      "score": 6,
+      "scoreBy": "TMDB",
+      "voteCount": 7,
+      "showing": true
+    },
+    {
+      "movieCd": "20264775",
+      "title": "디거",
+      "titleEn": "Digger",
+      "titleOriginal": "",
+      "openedAt": "2026-10-03",
+      "audienceAcc": 91779,
+      "genres": [
+        "코미디",
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261003",
+      "lastSeenAt": "20261020",
+      "days": 13,
+      "bestRank": 6,
+      "rank": 10,
+      "audienceDay": 1971,
+      "runtime": 128,
+      "directors": [
+        "알레한드로 곤잘레스 이냐리투"
+      ],
+      "cast": [
+        "톰 크루즈",
+        "산드라 휠러",
+        "존 굿맨",
+        "제시 플레먼스"
+      ],
+      "producers": [],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264775.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "\"끝까지 파거나, 죽거나! 전 세계를 뒤흔든 대재앙. ‘디거 록웰’의 삽 끝에서 시작된 이야기를 확인하라!\" 3대째 석유 재벌로 살아온 ‘디거 록웰’은 최소한의 손실, 최대한의 이익을 추구하며 돈이 되는 일이라면 무엇이든 마다하지 않는다. 그러던 어느 날, 그린란드의 빙하 시추 시설에서 작은 균열이 발견되지만 ‘디거’는 대수롭지 않은 문제라 여기고 넘긴다. 하지만 사소하게 여겼던 균열은 걷잡을 수 없이 커지며 전 세계를 날려버릴 거대한 재난으로 번져가고 결국 ‘디거’는 초유의 사태를 해결하기 위해 직접 나서는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1248832,
+      "score": 7.4,
+      "scoreBy": "TMDB",
+      "voteCount": 109,
+      "showing": true
+    },
+    {
       "movieCd": "20266610",
       "title": "입에 대한 앙케트",
       "titleEn": "The Mouths",
@@ -344,8 +483,8 @@
       "lastSeenAt": "20261019",
       "days": 12,
       "bestRank": 5,
-      "rank": 9,
-      "audienceDay": 1700,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 88,
       "directors": [
         "시미즈 다카시"
@@ -369,7 +508,7 @@
       "score": 7,
       "scoreBy": "TMDB",
       "voteCount": 1,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20267571",
@@ -387,8 +526,8 @@
       "lastSeenAt": "20261019",
       "days": 1,
       "bestRank": 6,
-      "rank": 6,
-      "audienceDay": 3528,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -405,15 +544,15 @@
       "rating": "청소년관람불가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20267571.webp",
+      "posterCredit": "TMDB",
       "synopsis": "할리우드의 주연 배우로 유명 영화제 수상을 눈 앞에 두며 꿈을 이루기 직전인 ‘맷 헤이건’. 그러나 한 순간의 실수로 범죄 조직의 타겟이 되어 얼굴이 처참하게 훼손되며 그의 빛나던 인생은 하루 아침에 비극으로 뒤바뀐다. 커리어도, 사람들도 모두 잃은 ‘맷’은 과학자 ‘닥터 케이틀린’의 미완성 최첨단 나노 기술에 마지막 희망을 걸고 기적적으로 예전의 얼굴을 되찾는 데 성공하지만 기쁨도 잠시 그의 몸에는 인간의 형체마저 무너뜨리는 끔찍한 변화가 시작된다. 또한 자신을 공격한 범죄 조직에 연루된 자들의 정체를 알게 되자 걷잡을 수 없는 분노에 사로잡힌 ‘맷’은 자신의 모든 것을 빼앗아간 이들을 향한 처절한 복수에 나서는데...",
       "synopsisCredit": "TMDB",
       "tmdbId": 1400940,
       "score": 8.3,
       "scoreBy": "TMDB",
       "voteCount": 8,
-      "poster": "assets/posters/20267571.webp",
-      "posterCredit": "TMDB"
+      "showing": false
     },
     {
       "movieCd": "20231795",
@@ -430,8 +569,8 @@
       "lastSeenAt": "20261019",
       "days": 1,
       "bestRank": 10,
-      "rank": 10,
-      "audienceDay": 1555,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 99,
       "directors": [
         "이용재"
@@ -454,12 +593,15 @@
       "rating": "12세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20231795.webp",
+      "posterCredit": "TMDB",
       "synopsis": "수능 D-DAY, 정답은 이미 정해져 있다? 그 정답을 만드는 사람들이 지금 이 방에 모였습니다. 대한민국 최고의 수능 출제 전문가 전원. 외부 차단 40일, 중도 이탈 불가. 오탈자도 시비도 없는 전국의 모든 지원자들에게 ‘공정한’ 문제 출제. 적중률 100%, 본인들이 직접 출제하니까. 40일간의 미션, “문제없는 문제”를 만들어라!",
       "synopsisCredit": "TMDB",
       "tmdbId": 1083624,
-      "poster": "assets/posters/20231795.webp",
-      "posterCredit": "TMDB"
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": false
     },
     {
       "movieCd": "20224573",
@@ -508,145 +650,6 @@
       "score": 5,
       "scoreBy": "TMDB",
       "voteCount": 1,
-      "showing": false
-    },
-    {
-      "movieCd": "20263410",
-      "title": "스트리트 파이터",
-      "titleEn": "Street Fighter",
-      "titleOriginal": "",
-      "openedAt": "2026-10-14",
-      "audienceAcc": 34920,
-      "genres": [
-        "액션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261014",
-      "lastSeenAt": "20261018",
-      "days": 5,
-      "bestRank": 5,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 119,
-      "directors": [
-        "키타오 사쿠라이"
-      ],
-      "cast": [
-        "앤드류 코지",
-        "노아 센티네오",
-        "칼리나 리앙",
-        "제이슨 모모아",
-        "데이비드 다스트말치안"
-      ],
-      "producers": [],
-      "distributors": [
-        "롯데컬처웍스(주)롯데엔터테인먼트"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20263410.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "1993년, 숙명의 라이벌 류와 켄은 미스터리한 여성 춘리의 제안으로 세계 최강의 파이터들이 모인 '월드 워리어 토너먼트'에 참여하게 된다. 라운드가 거듭될수록 두 사람은 목숨을 건 배틀 로얄 속에 숨겨진 거대한 음모의 실체를 마주하게 되는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1153576,
-      "score": 6,
-      "scoreBy": "TMDB",
-      "voteCount": 7,
-      "showing": false
-    },
-    {
-      "movieCd": "20264775",
-      "title": "디거",
-      "titleEn": "Digger",
-      "titleOriginal": "",
-      "openedAt": "2026-10-03",
-      "audienceAcc": 85321,
-      "genres": [
-        "코미디",
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261003",
-      "lastSeenAt": "20261017",
-      "days": 12,
-      "bestRank": 6,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 128,
-      "directors": [
-        "알레한드로 곤잘레스 이냐리투"
-      ],
-      "cast": [
-        "톰 크루즈",
-        "산드라 휠러",
-        "존 굿맨",
-        "제시 플레먼스"
-      ],
-      "producers": [],
-      "distributors": [
-        "워너브러더스 코리아(주)"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20264775.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "\"끝까지 파거나, 죽거나! 전 세계를 뒤흔든 대재앙. ‘디거 록웰’의 삽 끝에서 시작된 이야기를 확인하라!\" 3대째 석유 재벌로 살아온 ‘디거 록웰’은 최소한의 손실, 최대한의 이익을 추구하며 돈이 되는 일이라면 무엇이든 마다하지 않는다. 그러던 어느 날, 그린란드의 빙하 시추 시설에서 작은 균열이 발견되지만 ‘디거’는 대수롭지 않은 문제라 여기고 넘긴다. 하지만 사소하게 여겼던 균열은 걷잡을 수 없이 커지며 전 세계를 날려버릴 거대한 재난으로 번져가고 결국 ‘디거’는 초유의 사태를 해결하기 위해 직접 나서는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1248832,
-      "score": 7.4,
-      "scoreBy": "TMDB",
-      "voteCount": 109,
-      "showing": false
-    },
-    {
-      "movieCd": "20256308",
-      "title": "인턴",
-      "titleEn": "The Intern",
-      "titleOriginal": "",
-      "openedAt": "2026-09-16",
-      "audienceAcc": 890324,
-      "genres": [
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260904",
-      "lastSeenAt": "20261016",
-      "days": 30,
-      "bestRank": 1,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 132,
-      "directors": [
-        "김도영"
-      ],
-      "cast": [
-        "최민식",
-        "한소희",
-        "김준한",
-        "류혜영",
-        "김금순",
-        "박예니"
-      ],
-      "producers": [
-        "앤솔로지스튜디오(주)",
-        "워너브러더스 코리아(주)"
-      ],
-      "distributors": [
-        "워너브러더스 코리아(주)"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20256308.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 607833,
-      "score": 7,
-      "scoreBy": "TMDB",
-      "voteCount": 3,
       "showing": false
     },
     {
