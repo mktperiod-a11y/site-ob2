@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-10-21",
-  "latestDt": "20261021",
+  "updatedAt": "2026-10-22",
+  "latestDt": "20261022",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 1904591,
+      "audienceAcc": 1927843,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261021",
-      "days": 25,
+      "lastSeenAt": "20261022",
+      "days": 26,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 28984,
+      "audienceDay": 23252,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3295125,
+      "audienceAcc": 3306269,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261021",
-      "days": 31,
+      "lastSeenAt": "20261022",
+      "days": 32,
       "bestRank": 1,
-      "rank": 4,
-      "audienceDay": 13531,
+      "rank": 3,
+      "audienceDay": 11139,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -105,7 +105,7 @@
       "titleEn": "The Odyssey",
       "titleOriginal": "",
       "openedAt": "2026-08-05",
-      "audienceAcc": 12288343,
+      "audienceAcc": 12291025,
       "genres": [
         "액션",
         "드라마",
@@ -113,11 +113,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20260824",
-      "lastSeenAt": "20261021",
-      "days": 58,
+      "lastSeenAt": "20261022",
+      "days": 59,
       "bestRank": 1,
       "rank": 8,
-      "audienceDay": 3639,
+      "audienceDay": 2685,
       "runtime": 172,
       "directors": [
         "크리스토퍼 놀란"
@@ -148,72 +148,23 @@
       "showing": true
     },
     {
-      "movieCd": "20256308",
-      "title": "인턴",
-      "titleEn": "The Intern",
-      "titleOriginal": "",
-      "openedAt": "2026-09-16",
-      "audienceAcc": 900304,
-      "genres": [
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260904",
-      "lastSeenAt": "20261021",
-      "days": 32,
-      "bestRank": 1,
-      "rank": 10,
-      "audienceDay": 2491,
-      "runtime": 132,
-      "directors": [
-        "김도영"
-      ],
-      "cast": [
-        "최민식",
-        "한소희",
-        "김준한",
-        "류혜영",
-        "김금순",
-        "박예니"
-      ],
-      "producers": [
-        "앤솔로지스튜디오(주)",
-        "워너브러더스 코리아(주)"
-      ],
-      "distributors": [
-        "워너브러더스 코리아(주)"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20256308.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 607833,
-      "score": 7,
-      "scoreBy": "TMDB",
-      "voteCount": 3,
-      "showing": true
-    },
-    {
       "movieCd": "20256161",
       "title": "타짜: 벨제붑의 노래",
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 1944970,
+      "audienceAcc": 1952559,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261021",
-      "days": 33,
+      "lastSeenAt": "20261022",
+      "days": 34,
       "bestRank": 1,
-      "rank": 5,
-      "audienceDay": 8249,
+      "rank": 6,
+      "audienceDay": 7587,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -251,18 +202,18 @@
       "titleEn": "PARADISE LOST",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 23973,
+      "audienceAcc": 38167,
       "genres": [
         "스릴러",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261021",
-      "days": 1,
+      "lastSeenAt": "20261022",
+      "days": 2,
       "bestRank": 2,
       "rank": 2,
-      "audienceDay": 20611,
+      "audienceDay": 14180,
       "runtime": 100,
       "directors": [
         "연상호"
@@ -280,15 +231,15 @@
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20250053.webp",
+      "posterCredit": "TMDB",
       "synopsis": "9년 전 캠핑스쿨 버스 실종 사건으로 아들을 잃은 류소영은 '낙원의 아이들'이라는 AI 프로그램을 통해 어린 시절의 아들과 만나며 하루하루를 버텨낸다. 그러던 어느 날 죽은 줄로만 알았던 아들 류선우가 9년 만에 집으로 돌아온다. 기적 같은 생존 소식에 세상은 들썩이지만 흉터로 가득한 몸과 서늘한 눈빛, 무엇보다 자신이 기억하는 순수했던 아들의 흔적을 어디에서도 찾을 수 없는 낯선 모습에 소영은 불안감을 느낀다. 소영과 선우, 그리고 AI로 생성된 어린 시절의 선우까지 기묘하고 불편한 동거가 시작되고 소영은 점점 드러나는 아들의 실체에 충격을 받는데...",
       "synopsisCredit": "TMDB",
       "tmdbId": 1584855,
       "score": 8,
       "scoreBy": "TMDB",
       "voteCount": 1,
-      "poster": "assets/posters/20250053.webp",
-      "posterCredit": "TMDB"
+      "showing": true
     },
     {
       "movieCd": "20267571",
@@ -296,18 +247,18 @@
       "titleEn": "Clayface",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 18835,
+      "audienceAcc": 28907,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261021",
-      "days": 2,
+      "lastSeenAt": "20261022",
+      "days": 3,
       "bestRank": 3,
-      "rank": 3,
-      "audienceDay": 14660,
+      "rank": 4,
+      "audienceDay": 10068,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -335,153 +286,22 @@
       "showing": true
     },
     {
-      "movieCd": "20266189",
-      "title": "여전히 찬란하게",
-      "titleEn": "STILL SHINING",
-      "titleOriginal": "",
-      "openedAt": "2026-10-21",
-      "audienceAcc": 12880,
-      "genres": [
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261021",
-      "lastSeenAt": "20261021",
-      "days": 1,
-      "bestRank": 6,
-      "rank": 6,
-      "audienceDay": 7582,
-      "runtime": 117,
-      "directors": [
-        "송일곤"
-      ],
-      "cast": [
-        "김혜자",
-        "박서경",
-        "최주은",
-        "문성현",
-        "차미경",
-        "조성하"
-      ],
-      "producers": [
-        "페이지원필름(주)"
-      ],
-      "distributors": [
-        "메가박스중앙(주) 플러스엠 엔터테인먼트"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "showing": true,
-      "synopsis": "“내일 너랑 서울 갈 생각하니까 심장이 막 콩닥거린다” 오랫동안 찾아 헤매던 단짝 ‘정임’과 마침내 다시 만난 ‘순옥’은 어릴 적 시골 마을에서부터 함께 염원하던 노래자랑 참가를 위해 서울행을 결심한다. 설렘도 잠시, ‘순옥'은 ‘정임’이 자신의 이름도, 꿈도, 함께했던 시간들까지도 조금씩 잊어간다는 것을 알게 된다. ‘순옥’은 사라져가는 기억을 붙잡듯 자꾸만 그 시절 이야기를 꺼내기 시작한다. “이제 우리 몸에 새겼으니까는 우리는 항시 함께 있는기다 이 말이다” 1942년, 빼어난 노래 실력을 가진 소녀 ‘정임'과 언제나 옆에서 열렬히 응원하는 소녀 ‘순옥'. 서로의 팔에 둘만의 증표를 새긴 두 소녀는 서울에서 노래하고 돈도 벌자는 꿈을 나누며 영원한 우정을 약속한다. 한편, 마을에는 공장 취직을 빌미로 소녀들을 잡아간다는 흉흉한 소문이 들려오고 두 사람은 다가오는 위협을 피해 숨을 곳을 찾는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1652642,
-      "score": 10,
-      "scoreBy": "TMDB",
-      "voteCount": 1,
-      "poster": "assets/posters/20266189.webp",
-      "posterCredit": "TMDB"
-    },
-    {
-      "movieCd": "20246036",
-      "title": "킬링타임",
-      "titleEn": "Killing Time",
-      "titleOriginal": "",
-      "openedAt": "2026-10-21",
-      "audienceAcc": 5421,
-      "genres": [
-        "공포(호러)",
-        "스릴러"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261021",
-      "lastSeenAt": "20261021",
-      "days": 1,
-      "bestRank": 7,
-      "rank": 7,
-      "audienceDay": 3858,
-      "runtime": 83,
-      "directors": [
-        "장준엽"
-      ],
-      "cast": [
-        "류혜영",
-        "남윤수"
-      ],
-      "producers": [
-        "에스엘엘중앙(주)",
-        "(주)영화사 안다미로"
-      ],
-      "distributors": [
-        "주식회사 더타이틀"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "showing": true,
-      "synopsis": "인터넷 방송 중 발생한 사망 사고로 나락에 떨어진 몰카 크루 ‘킬링타임’. 방송을 그만두고 자숙하던 ‘킬링타임’의 스트리머 ‘연우’는 ‘주원’의 제안으로 새로운 콘텐츠 촬영을 위해 폐병원을 찾는다. 하지만 촬영이 시작되자 정체불명의 존재가 크루들을 위협하고 더는 물러설 곳이 없던 크루들은 이제 반대로 생존을 위해 달려야 한다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1376681,
-      "poster": "assets/posters/20246036.webp",
-      "posterCredit": "TMDB"
-    },
-    {
-      "movieCd": "20266423",
-      "title": "레위기",
-      "titleEn": "Leviticus",
-      "titleOriginal": "",
-      "openedAt": "2026-10-21",
-      "audienceAcc": 3487,
-      "genres": [
-        "공포(호러)",
-        "멜로/로맨스"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261021",
-      "lastSeenAt": "20261021",
-      "days": 1,
-      "bestRank": 9,
-      "rank": 9,
-      "audienceDay": 2502,
-      "runtime": 88,
-      "directors": [
-        "애드리언 치아렐라"
-      ],
-      "cast": [],
-      "producers": [],
-      "distributors": [
-        "(주)레드아이스 엔터테인먼트"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "showing": true,
-      "synopsis": "두 십대 소년은 자신이 가장 욕망하는 사람의 모습으로 변하는 폭력적인 존재로부터 도망쳐야 한다. 그리고 그 존재는, 서로의 모습을 하고 있다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1564614,
-      "score": 6.8,
-      "scoreBy": "TMDB",
-      "voteCount": 608,
-      "poster": "assets/posters/20266423.webp",
-      "posterCredit": "TMDB"
-    },
-    {
       "movieCd": "20265062",
       "title": "룩백",
       "titleEn": "Look Back",
       "titleOriginal": "",
       "openedAt": "2026-10-08",
-      "audienceAcc": 110736,
+      "audienceAcc": 115427,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261008",
-      "lastSeenAt": "20261020",
-      "days": 13,
+      "lastSeenAt": "20261022",
+      "days": 14,
       "bestRank": 4,
-      "rank": null,
-      "audienceDay": null,
+      "rank": 10,
+      "audienceDay": 2373,
       "runtime": 100,
       "directors": [
         "고레에다 히로카즈"
@@ -507,6 +327,236 @@
       "score": 8,
       "scoreBy": "TMDB",
       "voteCount": 14,
+      "showing": true
+    },
+    {
+      "movieCd": "20264015",
+      "title": "베러티",
+      "titleEn": "Verity",
+      "titleOriginal": "",
+      "openedAt": "2026-10-22",
+      "audienceAcc": 8777,
+      "genres": [
+        "범죄",
+        "드라마",
+        "미스터리",
+        "멜로/로맨스",
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261022",
+      "lastSeenAt": "20261022",
+      "days": 1,
+      "bestRank": 5,
+      "rank": 5,
+      "audienceDay": 8621,
+      "runtime": 116,
+      "directors": [
+        "마이클 쇼월터"
+      ],
+      "cast": [
+        "앤 해서웨이",
+        "다코타 존슨",
+        "조쉬 하트넷"
+      ],
+      "producers": [],
+      "distributors": [
+        "소니픽쳐스엔터테인먼트코리아주식회사극장배급지점"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "어머니를 암으로 떠나보내고 생활고에 허덕이던 무명 소설가 로웬 애슐리에게 믿기 힘든 제안이 찾아온다. 베스트셀러 작가 베리티 크로포드의 남편 제레미가 사고로 집필을 이어갈 수 없게 된 아내를 대신해 인기 시리즈의 남은 세 권을 완성해 달라고 의뢰한 것. 자료를 정리하기 위해 크로포드 저택에 머물게 된 로웬은 침대에 누운 채 아무 반응도 없는 베리티의 서재에서 미완성 자전적 원고 하나를 발견한다. 그 안에는 한 여자의 소름 끼치는 고백과 입에 담기 어려운 비밀이 빼곡히 적혀 있다. 아무도 몰라야 할 글을 읽어버린 로웬은 점점 제레미에게 이끌리고, 저택 안에서 벌어지는 설명할 수 없는 일들과 함께 진실과 조작의 경계가 허물어지는 위험한 심리전에 갇혀가는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1283515,
+      "score": 6.4,
+      "scoreBy": "TMDB",
+      "voteCount": 240,
+      "poster": "assets/posters/20264015.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20266189",
+      "title": "여전히 찬란하게",
+      "titleEn": "STILL SHINING",
+      "titleOriginal": "",
+      "openedAt": "2026-10-21",
+      "audienceAcc": 19351,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261021",
+      "lastSeenAt": "20261022",
+      "days": 2,
+      "bestRank": 6,
+      "rank": 7,
+      "audienceDay": 6387,
+      "runtime": 117,
+      "directors": [
+        "송일곤"
+      ],
+      "cast": [
+        "김혜자",
+        "박서경",
+        "최주은",
+        "문성현",
+        "차미경",
+        "조성하"
+      ],
+      "producers": [
+        "페이지원필름(주)"
+      ],
+      "distributors": [
+        "메가박스중앙(주) 플러스엠 엔터테인먼트"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20266189.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "“내일 너랑 서울 갈 생각하니까 심장이 막 콩닥거린다” 오랫동안 찾아 헤매던 단짝 ‘정임’과 마침내 다시 만난 ‘순옥’은 어릴 적 시골 마을에서부터 함께 염원하던 노래자랑 참가를 위해 서울행을 결심한다. 설렘도 잠시, ‘순옥'은 ‘정임’이 자신의 이름도, 꿈도, 함께했던 시간들까지도 조금씩 잊어간다는 것을 알게 된다. ‘순옥’은 사라져가는 기억을 붙잡듯 자꾸만 그 시절 이야기를 꺼내기 시작한다. “이제 우리 몸에 새겼으니까는 우리는 항시 함께 있는기다 이 말이다” 1942년, 빼어난 노래 실력을 가진 소녀 ‘정임'과 언제나 옆에서 열렬히 응원하는 소녀 ‘순옥'. 서로의 팔에 둘만의 증표를 새긴 두 소녀는 서울에서 노래하고 돈도 벌자는 꿈을 나누며 영원한 우정을 약속한다. 한편, 마을에는 공장 취직을 빌미로 소녀들을 잡아간다는 흉흉한 소문이 들려오고 두 사람은 다가오는 위협을 피해 숨을 곳을 찾는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1652642,
+      "score": 10,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "showing": true
+    },
+    {
+      "movieCd": "20246036",
+      "title": "킬링타임",
+      "titleEn": "Killing Time",
+      "titleOriginal": "",
+      "openedAt": "2026-10-21",
+      "audienceAcc": 7877,
+      "genres": [
+        "공포(호러)",
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261021",
+      "lastSeenAt": "20261022",
+      "days": 2,
+      "bestRank": 7,
+      "rank": 9,
+      "audienceDay": 2456,
+      "runtime": 83,
+      "directors": [
+        "장준엽"
+      ],
+      "cast": [
+        "류혜영",
+        "남윤수"
+      ],
+      "producers": [
+        "에스엘엘중앙(주)",
+        "(주)영화사 안다미로"
+      ],
+      "distributors": [
+        "주식회사 더타이틀"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20246036.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "인터넷 방송 중 발생한 사망 사고로 나락에 떨어진 몰카 크루 ‘킬링타임’. 방송을 그만두고 자숙하던 ‘킬링타임’의 스트리머 ‘연우’는 ‘주원’의 제안으로 새로운 콘텐츠 촬영을 위해 폐병원을 찾는다. 하지만 촬영이 시작되자 정체불명의 존재가 크루들을 위협하고 더는 물러설 곳이 없던 크루들은 이제 반대로 생존을 위해 달려야 한다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1376681,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
+      "movieCd": "20256308",
+      "title": "인턴",
+      "titleEn": "The Intern",
+      "titleOriginal": "",
+      "openedAt": "2026-09-16",
+      "audienceAcc": 900304,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260904",
+      "lastSeenAt": "20261021",
+      "days": 32,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 132,
+      "directors": [
+        "김도영"
+      ],
+      "cast": [
+        "최민식",
+        "한소희",
+        "김준한",
+        "류혜영",
+        "김금순",
+        "박예니"
+      ],
+      "producers": [
+        "앤솔로지스튜디오(주)",
+        "워너브러더스 코리아(주)"
+      ],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20256308.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 607833,
+      "score": 7,
+      "scoreBy": "TMDB",
+      "voteCount": 3,
+      "showing": false
+    },
+    {
+      "movieCd": "20266423",
+      "title": "레위기",
+      "titleEn": "Leviticus",
+      "titleOriginal": "",
+      "openedAt": "2026-10-21",
+      "audienceAcc": 3487,
+      "genres": [
+        "공포(호러)",
+        "멜로/로맨스"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261021",
+      "lastSeenAt": "20261021",
+      "days": 1,
+      "bestRank": 9,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 88,
+      "directors": [
+        "애드리언 치아렐라"
+      ],
+      "cast": [],
+      "producers": [],
+      "distributors": [
+        "(주)레드아이스 엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20266423.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "두 십대 소년은 자신이 가장 욕망하는 사람의 모습으로 변하는 폭력적인 존재로부터 도망쳐야 한다. 그리고 그 존재는, 서로의 모습을 하고 있다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1564614,
+      "score": 6.8,
+      "scoreBy": "TMDB",
+      "voteCount": 608,
       "showing": false
     },
     {
@@ -2200,58 +2250,6 @@
       "score": 7.4,
       "scoreBy": "TMDB",
       "voteCount": 21,
-      "showing": false
-    },
-    {
-      "movieCd": "20127108",
-      "title": "모모와 다락방의 수상한 요괴들",
-      "titleEn": "A Letter to Momo",
-      "titleOriginal": "",
-      "openedAt": "2012-07-05",
-      "audienceAcc": 310413,
-      "genres": [
-        "애니메이션",
-        "드라마",
-        "가족",
-        "판타지"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260902",
-      "lastSeenAt": "20260906",
-      "days": 3,
-      "bestRank": 8,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 120,
-      "directors": [
-        "오키우라 히로유키"
-      ],
-      "cast": [
-        "미야마 카렌",
-        "유카",
-        "이선",
-        "김준현",
-        "양상국",
-        "안윤상"
-      ],
-      "producers": [
-        "프로덕션 I.G."
-      ],
-      "distributors": [
-        "(주)라이브러리컴퍼니",
-        "타임스토리그룹(주)"
-      ],
-      "rating": "전체관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20127108.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "우리집 다락방에 요괴가 산다?!  엄마를 따라 작은 섬 시오지마로 이사 온 11살 도시 소녀 모모. 이사온 첫날, 모모는 다락방에서 오래된 그림책 한 권을 발견한다. 그날 이후, 다락방에서 이상한 소리가 들리는가 하면, 냉장고 속 간식이 사라지고, 급기야 그림책 속 요괴들이 모모의 눈앞에 나타나는데…  내 눈에만 보이는 사고뭉치 요괴 3인방~!  모모 덕에 봉인된 그림책에서 나왔다며 자신들을 소개하는 이와, 카와, 마메! 외모와는 다르게 은근 소심하고 먹보에 어리바리하기까지. 자칭 수호신이라며 큰 소리치지만 사고투성인 요괴 3인방과 웃지 못할 한집살이를 시작한 모모에게 어느 날 예상치 못한 위기가 찾아오는데……  도시 소녀 모모에게 찾아온 수상한 요괴 3인방! 그들의 초특급 모험이 시작된다!",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 100271,
-      "score": 7.4,
-      "scoreBy": "TMDB",
-      "voteCount": 416,
       "showing": false
     }
   ]

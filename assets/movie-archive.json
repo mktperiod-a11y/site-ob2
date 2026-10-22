@@ -3,6 +3,58 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20127108",
+      "title": "모모와 다락방의 수상한 요괴들",
+      "titleEn": "A Letter to Momo",
+      "titleOriginal": "",
+      "openedAt": "2012-07-05",
+      "audienceAcc": 310413,
+      "genres": [
+        "애니메이션",
+        "드라마",
+        "가족",
+        "판타지"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260902",
+      "lastSeenAt": "20260906",
+      "days": 3,
+      "bestRank": 8,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 120,
+      "directors": [
+        "오키우라 히로유키"
+      ],
+      "cast": [
+        "미야마 카렌",
+        "유카",
+        "이선",
+        "김준현",
+        "양상국",
+        "안윤상"
+      ],
+      "producers": [
+        "프로덕션 I.G."
+      ],
+      "distributors": [
+        "(주)라이브러리컴퍼니",
+        "타임스토리그룹(주)"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20127108.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "우리집 다락방에 요괴가 산다?!  엄마를 따라 작은 섬 시오지마로 이사 온 11살 도시 소녀 모모. 이사온 첫날, 모모는 다락방에서 오래된 그림책 한 권을 발견한다. 그날 이후, 다락방에서 이상한 소리가 들리는가 하면, 냉장고 속 간식이 사라지고, 급기야 그림책 속 요괴들이 모모의 눈앞에 나타나는데…  내 눈에만 보이는 사고뭉치 요괴 3인방~!  모모 덕에 봉인된 그림책에서 나왔다며 자신들을 소개하는 이와, 카와, 마메! 외모와는 다르게 은근 소심하고 먹보에 어리바리하기까지. 자칭 수호신이라며 큰 소리치지만 사고투성인 요괴 3인방과 웃지 못할 한집살이를 시작한 모모에게 어느 날 예상치 못한 위기가 찾아오는데……  도시 소녀 모모에게 찾아온 수상한 요괴 3인방! 그들의 초특급 모험이 시작된다!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 100271,
+      "score": 7.4,
+      "scoreBy": "TMDB",
+      "voteCount": 416,
+      "showing": false
+    },
+    {
       "movieCd": "20167922",
       "title": "핵소 고지",
       "titleEn": "Hacksaw Ridge",
