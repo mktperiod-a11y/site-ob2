@@ -26,6 +26,8 @@ jobs:
           ref: main
       - id: pages
         uses: actions/configure-pages@v5
+      - name: 제외 웹하드 검사
+        run: node scripts/check-blocked.mjs
       - name: 사이트 파일 모으기
         env:
           SITE_URL: ${{ steps.pages.outputs.base_url }}
@@ -35,7 +37,7 @@ jobs:
           [ -n "$site" ] || { echo "Pages 설정에서 사이트 주소를 받지 못했습니다"; exit 1; }
           mkdir _site
           git ls-files -z \
-            | grep -zvE '^(\.github|\.claude|\.agents|scripts)/|^(package\.json|package-lock\.json|skills-lock\.json|\.gitignore)$' \
+            | grep -zvE '^(\.github|\.claude|\.agents|scripts)/|^(package\.json|package-lock\.json|skills-lock\.json|\.gitignore|CLAUDE\.md)$' \
             | xargs -0 cp --parents -t _site
           grep -rlZ 'https://site-url.invalid/' _site | xargs -0 -r sed -i "s#https://site-url.invalid/#${site}/#g"
           if grep -rlq 'site-url.invalid' _site; then echo "사이트 주소가 바뀌지 않은 파일이 있습니다"; exit 1; fi
