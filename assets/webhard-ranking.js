@@ -6,14 +6,12 @@
 
   const ACTIVE = [
     "ondisk", "kdisk", "wedisk", "filejo", "filenori",
-    "filebogo", "applefile", "filestar", "filesun",
+    "filebogo", "yesfile", "filestar", "filesun",
   ];
 
   const RESERVE = {
-    yesfile: true,
     filecookie: true,
     bigfile: true,
-    pdpop: true,
   };
 
   const ALL = [
@@ -76,15 +74,6 @@
       url: "go/filebogo/",
       home: "https://www.filebogo.com/",
     },
-    applefile: {
-      id: "applefile",
-      name: "애플파일",
-      description: "통합검색·정액제 이용",
-      logo: "logos/applefile.png",
-      logoK: 0.464,
-      url: "go/applefile/",
-      home: "https://www.applefile.com/",
-    },
     filestar: {
       id: "filestar",
       name: "파일스타",
@@ -131,19 +120,10 @@
       url: "go/bigfile/",
       home: "https://bigfile.co.kr/",
     },
-    pdpop: {
-      id: "pdpop",
-      name: "피디팝",
-      description: "인기콘텐츠 · 전용 프로그램",
-      logo: "logos/pdpop.png",
-      logoK: 0.547,
-      url: "go/pdpop/",
-      home: "https://new.pdpop.com/",
-    },
   };
 
   const DISPLAY_LIMIT = Math.min(10, ALL.length);
-  const TOP4_ELIGIBLE = ALL.filter((id) => id !== "pdpop");
+  const TOP4_ELIGIBLE = [...ALL];
   const DAY_MS = 24 * 60 * 60 * 1000;
   const SLOT_MS = 7 * DAY_MS;
   const WEEK_OFFSET_MS = 4 * DAY_MS;

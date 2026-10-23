@@ -18,12 +18,6 @@
       "note": "공식 홈페이지 상단(웹) 로고. 여백만 깎아 assets/logos/에 둠"
     },
     {
-      "name": "애플파일",
-      "file": "applefile.png",
-      "source": "https://www.applefile.com/img/common/logo_applefile.png",
-      "note": "공식 홈페이지 상단(웹) 로고. 여백만 깎아 assets/logos/에 둠"
-    },
-    {
       "name": "예스파일",
       "file": "yesfile.png",
       "source": "https://www.yesfile.com/img/main/top_logo.png",
