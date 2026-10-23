@@ -6,6 +6,8 @@ const BLOCKED = [
   ["파일캐스트", "filecast"],
   ["파일이즈", "fileis"],
   ["애플파일", "applefile"],
+  ["스마트파일", "smartfile"],
+  ["피디팝", "pdpop"],
 ];
 const SKIP = new Set(["scripts/check-blocked.mjs", "CLAUDE.md"]);
 const TEXT = /\.(html|js|mjs|json|txt|xml|css|svg|yml|md)$/;
