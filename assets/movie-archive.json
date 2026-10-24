@@ -3,6 +3,43 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20264635",
+      "title": "명탐정 코난: 하이웨이의 타천사",
+      "titleEn": "Detective Conan the Movie: Fallen Angel of the Highway",
+      "titleOriginal": "名探偵コナン ハイウェイの 堕天使",
+      "openedAt": "2026-08-12",
+      "audienceAcc": 421534,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260824",
+      "lastSeenAt": "20260907",
+      "days": 15,
+      "bestRank": 4,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 109,
+      "directors": [],
+      "cast": [],
+      "producers": [],
+      "distributors": [
+        "(주)씨제이이엔엠"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264635.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "‘모터 사이클 페스티벌’이 열리는 요코하마로 향하던 코난 일행은 폭주하는 검은 오토바이 사건에 휘말리고 범인을 쫓던 ‘바람의 여신’ 가나가와현경 교통기동대 하기와라 치하야 경부보와 재회한다. 경찰의 추적을 모두 뿌리친 폭주 오토바이는 도쿄 시내에도 출물하고, 연쇄적으로 사상자가 발생한다. 이러한 가운데 최첨단 AI 기술을 탑재한 싸이카 ‘엔젤’과 폭주 오토바이가 매우 유사하다는 점이 밝혀지고, 이 정체불명의 존재를 ‘루시퍼’라고 명명, 점차 포위망을 좁혀간다. 한편, 사건을 쫓던 치하야는 문득 7년 전 11월 7일, 폭탄을 해체하다 순직한 남동생 하기와라 켄지와, 그의 죽음으로부터 4년 후 11월 7일, 같은 범인을 쫓다가 순직한 켄지의 친구이자 동료 마츠다 진페이에 대한 기억이 떠오르는데….",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1545621,
+      "score": 7.4,
+      "scoreBy": "TMDB",
+      "voteCount": 21,
+      "showing": false
+    },
+    {
       "movieCd": "20127108",
       "title": "모모와 다락방의 수상한 요괴들",
       "titleEn": "A Letter to Momo",
@@ -51,8 +88,7 @@
       "tmdbId": 100271,
       "score": 7.4,
       "scoreBy": "TMDB",
-      "voteCount": 416,
-      "showing": false
+      "voteCount": 416
     },
     {
       "movieCd": "20167922",

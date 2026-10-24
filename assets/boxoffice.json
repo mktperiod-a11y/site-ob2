@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-10-22",
-  "latestDt": "20261022",
+  "updatedAt": "2026-10-24",
+  "latestDt": "20261023",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 1927843,
+      "audienceAcc": 1967578,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261022",
-      "days": 26,
+      "lastSeenAt": "20261023",
+      "days": 27,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 23252,
+      "audienceDay": 39734,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3306269,
+      "audienceAcc": 3319711,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261022",
-      "days": 32,
+      "lastSeenAt": "20261023",
+      "days": 33,
       "bestRank": 1,
       "rank": 3,
-      "audienceDay": 11139,
+      "audienceDay": 13435,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -105,7 +105,7 @@
       "titleEn": "The Odyssey",
       "titleOriginal": "",
       "openedAt": "2026-08-05",
-      "audienceAcc": 12291025,
+      "audienceAcc": 12295615,
       "genres": [
         "액션",
         "드라마",
@@ -113,11 +113,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20260824",
-      "lastSeenAt": "20261022",
-      "days": 59,
+      "lastSeenAt": "20261023",
+      "days": 60,
       "bestRank": 1,
       "rank": 8,
-      "audienceDay": 2685,
+      "audienceDay": 4591,
       "runtime": 172,
       "directors": [
         "크리스토퍼 놀란"
@@ -148,23 +148,72 @@
       "showing": true
     },
     {
+      "movieCd": "20256308",
+      "title": "인턴",
+      "titleEn": "The Intern",
+      "titleOriginal": "",
+      "openedAt": "2026-09-16",
+      "audienceAcc": 905434,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260904",
+      "lastSeenAt": "20261023",
+      "days": 33,
+      "bestRank": 1,
+      "rank": 10,
+      "audienceDay": 2891,
+      "runtime": 132,
+      "directors": [
+        "김도영"
+      ],
+      "cast": [
+        "최민식",
+        "한소희",
+        "김준한",
+        "류혜영",
+        "김금순",
+        "박예니"
+      ],
+      "producers": [
+        "앤솔로지스튜디오(주)",
+        "워너브러더스 코리아(주)"
+      ],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20256308.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 607833,
+      "score": 7,
+      "scoreBy": "TMDB",
+      "voteCount": 3,
+      "showing": true
+    },
+    {
       "movieCd": "20256161",
       "title": "타짜: 벨제붑의 노래",
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 1952559,
+      "audienceAcc": 1962930,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261022",
-      "days": 34,
+      "lastSeenAt": "20261023",
+      "days": 35,
       "bestRank": 1,
-      "rank": 6,
-      "audienceDay": 7587,
+      "rank": 5,
+      "audienceDay": 10372,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,18 +251,18 @@
       "titleEn": "PARADISE LOST",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 38167,
+      "audienceAcc": 54651,
       "genres": [
         "스릴러",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261022",
-      "days": 2,
+      "lastSeenAt": "20261023",
+      "days": 3,
       "bestRank": 2,
       "rank": 2,
-      "audienceDay": 14180,
+      "audienceDay": 16473,
       "runtime": 100,
       "directors": [
         "연상호"
@@ -247,18 +296,18 @@
       "titleEn": "Clayface",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 28907,
+      "audienceAcc": 40947,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261022",
-      "days": 3,
+      "lastSeenAt": "20261023",
+      "days": 4,
       "bestRank": 3,
       "rank": 4,
-      "audienceDay": 10068,
+      "audienceDay": 12039,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -291,17 +340,17 @@
       "titleEn": "Look Back",
       "titleOriginal": "",
       "openedAt": "2026-10-08",
-      "audienceAcc": 115427,
+      "audienceAcc": 118773,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261008",
-      "lastSeenAt": "20261022",
-      "days": 14,
+      "lastSeenAt": "20261023",
+      "days": 15,
       "bestRank": 4,
-      "rank": 10,
-      "audienceDay": 2373,
+      "rank": 9,
+      "audienceDay": 3346,
       "runtime": 100,
       "directors": [
         "고레에다 히로카즈"
@@ -335,7 +384,7 @@
       "titleEn": "Verity",
       "titleOriginal": "",
       "openedAt": "2026-10-22",
-      "audienceAcc": 8777,
+      "audienceAcc": 15019,
       "genres": [
         "범죄",
         "드라마",
@@ -345,11 +394,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261022",
-      "lastSeenAt": "20261022",
-      "days": 1,
+      "lastSeenAt": "20261023",
+      "days": 2,
       "bestRank": 5,
-      "rank": 5,
-      "audienceDay": 8621,
+      "rank": 6,
+      "audienceDay": 6245,
       "runtime": 116,
       "directors": [
         "마이클 쇼월터"
@@ -366,15 +415,15 @@
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20264015.webp",
+      "posterCredit": "TMDB",
       "synopsis": "어머니를 암으로 떠나보내고 생활고에 허덕이던 무명 소설가 로웬 애슐리에게 믿기 힘든 제안이 찾아온다. 베스트셀러 작가 베리티 크로포드의 남편 제레미가 사고로 집필을 이어갈 수 없게 된 아내를 대신해 인기 시리즈의 남은 세 권을 완성해 달라고 의뢰한 것. 자료를 정리하기 위해 크로포드 저택에 머물게 된 로웬은 침대에 누운 채 아무 반응도 없는 베리티의 서재에서 미완성 자전적 원고 하나를 발견한다. 그 안에는 한 여자의 소름 끼치는 고백과 입에 담기 어려운 비밀이 빼곡히 적혀 있다. 아무도 몰라야 할 글을 읽어버린 로웬은 점점 제레미에게 이끌리고, 저택 안에서 벌어지는 설명할 수 없는 일들과 함께 진실과 조작의 경계가 허물어지는 위험한 심리전에 갇혀가는데...",
       "synopsisCredit": "TMDB",
       "tmdbId": 1283515,
       "score": 6.4,
       "scoreBy": "TMDB",
       "voteCount": 240,
-      "poster": "assets/posters/20264015.webp",
-      "posterCredit": "TMDB"
+      "showing": true
     },
     {
       "movieCd": "20266189",
@@ -382,17 +431,17 @@
       "titleEn": "STILL SHINING",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 19351,
+      "audienceAcc": 24951,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261022",
-      "days": 2,
+      "lastSeenAt": "20261023",
+      "days": 3,
       "bestRank": 6,
       "rank": 7,
-      "audienceDay": 6387,
+      "audienceDay": 5478,
       "runtime": 117,
       "directors": [
         "송일곤"
@@ -440,8 +489,8 @@
       "lastSeenAt": "20261022",
       "days": 2,
       "bestRank": 7,
-      "rank": 9,
-      "audienceDay": 2456,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 83,
       "directors": [
         "장준엽"
@@ -468,55 +517,6 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": true
-    },
-    {
-      "movieCd": "20256308",
-      "title": "인턴",
-      "titleEn": "The Intern",
-      "titleOriginal": "",
-      "openedAt": "2026-09-16",
-      "audienceAcc": 900304,
-      "genres": [
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260904",
-      "lastSeenAt": "20261021",
-      "days": 32,
-      "bestRank": 1,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 132,
-      "directors": [
-        "김도영"
-      ],
-      "cast": [
-        "최민식",
-        "한소희",
-        "김준한",
-        "류혜영",
-        "김금순",
-        "박예니"
-      ],
-      "producers": [
-        "앤솔로지스튜디오(주)",
-        "워너브러더스 코리아(주)"
-      ],
-      "distributors": [
-        "워너브러더스 코리아(주)"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20256308.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 607833,
-      "score": 7,
-      "scoreBy": "TMDB",
-      "voteCount": 3,
       "showing": false
     },
     {
@@ -2213,43 +2213,6 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": false
-    },
-    {
-      "movieCd": "20264635",
-      "title": "명탐정 코난: 하이웨이의 타천사",
-      "titleEn": "Detective Conan the Movie: Fallen Angel of the Highway",
-      "titleOriginal": "名探偵コナン ハイウェイの 堕天使",
-      "openedAt": "2026-08-12",
-      "audienceAcc": 421534,
-      "genres": [
-        "애니메이션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260824",
-      "lastSeenAt": "20260907",
-      "days": 15,
-      "bestRank": 4,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 109,
-      "directors": [],
-      "cast": [],
-      "producers": [],
-      "distributors": [
-        "(주)씨제이이엔엠"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20264635.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "‘모터 사이클 페스티벌’이 열리는 요코하마로 향하던 코난 일행은 폭주하는 검은 오토바이 사건에 휘말리고 범인을 쫓던 ‘바람의 여신’ 가나가와현경 교통기동대 하기와라 치하야 경부보와 재회한다. 경찰의 추적을 모두 뿌리친 폭주 오토바이는 도쿄 시내에도 출물하고, 연쇄적으로 사상자가 발생한다. 이러한 가운데 최첨단 AI 기술을 탑재한 싸이카 ‘엔젤’과 폭주 오토바이가 매우 유사하다는 점이 밝혀지고, 이 정체불명의 존재를 ‘루시퍼’라고 명명, 점차 포위망을 좁혀간다. 한편, 사건을 쫓던 치하야는 문득 7년 전 11월 7일, 폭탄을 해체하다 순직한 남동생 하기와라 켄지와, 그의 죽음으로부터 4년 후 11월 7일, 같은 범인을 쫓다가 순직한 켄지의 친구이자 동료 마츠다 진페이에 대한 기억이 떠오르는데….",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1545621,
-      "score": 7.4,
-      "scoreBy": "TMDB",
-      "voteCount": 21,
       "showing": false
     }
   ]

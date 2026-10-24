@@ -630,52 +630,11 @@
       "metadataSource": "TMDB"
     },
     {
-      "tmdbId": 322051,
-      "title": "각설탕 소리",
-      "originalTitle": "각설탕 소리",
-      "type": "드라마",
-      "rank": 16,
-      "popularity": 10.6699,
-      "genres": [
-        18,
-        9648,
-        35
-      ],
-      "overview": "과거의 끔찍한 사건 이후 노래를 버리고 이름까지 숨긴 채 살아온 이한율. 그런 한율 앞에 천재 작곡가 이원이 나타나, 죽은 친구의 빼앗긴 노래를 되찾아주겠다며 다시 무대에 설 것을 제안한다. 자신의 목소리를 탐내는 이원을 경계하면서도, 한율은 자신을 다시 노래하게 만드는 그에게 조금씩 마음을 열기 시작한다. 하지만 한율의 목소리를 독점하려 했던 과거의 친구이자 스타 가수 헤롯이 다시 나타나면서, 애써 도망쳐온 과거가 한율을 뒤쫓기 시작한다. 서로 다른 방식으로 한율의 목소리를 원하는 두 남자 사이에서, 한율은 잃어버렸던 자신의 목소리와 사랑을 다시 마주하게 된다.",
-      "firstAirDate": "2026-10-23",
-      "lastAirDate": "",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-10-30",
-      "runtime": 25,
-      "episodes": 10,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "networks": [
-        "wavve"
-      ],
-      "creators": [
-        "김탁"
-      ],
-      "providers": [
-        "wavve"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/h5rPKIREqKHYPvVUl8sBJyna2vq.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 16,
-        "observedAt": "2026-10-24"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
       "tmdbId": 320406,
       "title": "가족관계증명서",
       "originalTitle": "가족관계증명서",
       "type": "드라마",
-      "rank": 17,
+      "rank": 16,
       "popularity": 9.9879,
       "genres": [
         18,
@@ -706,7 +665,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 17,
+        "rank": 16,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -716,7 +675,7 @@
       "title": "소년, 주의",
       "originalTitle": "소년, 주의",
       "type": "드라마",
-      "rank": 18,
+      "rank": 17,
       "popularity": 9.5408,
       "genres": [
         18
@@ -741,7 +700,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 18,
+        "rank": 17,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -751,7 +710,7 @@
       "title": "날아올라라 나비",
       "originalTitle": "날아올라라 나비",
       "type": "드라마",
-      "rank": 19,
+      "rank": 18,
       "popularity": 6.5838,
       "genres": [
         18,
@@ -783,7 +742,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 19,
+        "rank": 18,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -793,7 +752,7 @@
       "title": "그래, 이혼하자",
       "originalTitle": "그래, 이혼하자",
       "type": "드라마",
-      "rank": 20,
+      "rank": 19,
       "popularity": 5.9125,
       "genres": [
         18,
@@ -825,7 +784,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 20,
+        "rank": 19,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -835,7 +794,7 @@
       "title": "밑도 끝도 없이, 너다",
       "originalTitle": "밑도 끝도 없이, 너다",
       "type": "드라마",
-      "rank": 21,
+      "rank": 20,
       "popularity": 5.2122,
       "genres": [
         18,
@@ -862,7 +821,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 21,
+        "rank": 20,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -872,7 +831,7 @@
       "title": "개인적인 택시",
       "originalTitle": "개인적인 택시",
       "type": "드라마",
-      "rank": 22,
+      "rank": 21,
       "popularity": 4.7533,
       "genres": [
         18
@@ -905,7 +864,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 22,
+        "rank": 21,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -915,7 +874,7 @@
       "title": "하절기",
       "originalTitle": "하절기",
       "type": "드라마",
-      "rank": 23,
+      "rank": 22,
       "popularity": 4.6009,
       "genres": [
         18
@@ -944,7 +903,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 23,
+        "rank": 22,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -954,7 +913,7 @@
       "title": "백도어",
       "originalTitle": "백도어",
       "type": "드라마",
-      "rank": 24,
+      "rank": 23,
       "popularity": 2.9628,
       "genres": [
         18
@@ -979,7 +938,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 24,
+        "rank": 23,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -989,7 +948,7 @@
       "title": "브라이덜샤워: 사라진 신부",
       "originalTitle": "브라이덜샤워: 사라진 신부",
       "type": "드라마",
-      "rank": 25,
+      "rank": 24,
       "popularity": 1.5494,
       "genres": [
         18
@@ -1014,7 +973,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 25,
+        "rank": 24,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -1024,7 +983,7 @@
       "title": "며느리가 친정을 숨김",
       "originalTitle": "며느리가 친정을 숨김",
       "type": "드라마",
-      "rank": 26,
+      "rank": 25,
       "popularity": 0.6082,
       "genres": [
         18
@@ -1049,7 +1008,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 26,
+        "rank": 25,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -2054,7 +2013,7 @@
       "originalTitle": "이혼숙려캠프",
       "type": "예능",
       "rank": 26,
-      "popularity": 6.8895,
+      "popularity": 12.6312,
       "genres": [
         10764
       ],
@@ -2132,7 +2091,7 @@
       "originalTitle": "언니네 산지직송",
       "type": "예능",
       "rank": 28,
-      "popularity": 12.4314,
+      "popularity": 12.2915,
       "genres": [
         10764,
         10751
@@ -2560,7 +2519,7 @@
       "originalTitle": "식스센스: 시티투어",
       "type": "예능",
       "rank": 39,
-      "popularity": 7.1861,
+      "popularity": 7.8084,
       "genres": [
         10759,
         35,
@@ -2705,46 +2664,11 @@
       "metadataSource": "TMDB"
     },
     {
-      "tmdbId": 316702,
-      "title": "파이널 테이블",
-      "originalTitle": "파이널 테이블",
-      "type": "예능",
-      "rank": 43,
-      "popularity": 6.9202,
-      "genres": [
-        18
-      ],
-      "overview": "최고의 한국인 요리사를 뽑는 '더 테이블: K 셰프 2026'. 베일에 싸인 세계적인 셰프 'Chris K.' 강한과 레스토랑을 지키려는 송이, 완벽주의 스타셰프 우진, 그리고 저마다의 사연을 품은 셰프들이 오직 맛과 진심으로 치열한 요리 전쟁을 펼친다. 승부를 넘어 음식과 온기로 서로의 상처를 보듬어가는 힐링 서바이벌 드라마.",
-      "firstAirDate": "2026-10-24",
-      "lastAirDate": "",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-10-24",
-      "runtime": null,
-      "episodes": 12,
-      "score": null,
-      "scoreBy": "TMDB",
-      "networks": [
-        "JTBC"
-      ],
-      "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/zNSBXSIOMZWFZ5dqtm7tFBKFMrk.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 43,
-        "observedAt": "2026-10-24"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
       "tmdbId": 292569,
       "title": "남겨서 뭐하게",
       "originalTitle": "남겨서 뭐하게",
       "type": "예능",
-      "rank": 44,
+      "rank": 43,
       "popularity": 6.3164,
       "genres": [
         10764
@@ -2772,7 +2696,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 44,
+        "rank": 43,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -2782,7 +2706,7 @@
       "title": "상남자의 여행법",
       "originalTitle": "상남자의 여행법",
       "type": "예능",
-      "rank": 45,
+      "rank": 44,
       "popularity": 6.2408,
       "genres": [
         10764
@@ -2813,7 +2737,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 45,
+        "rank": 44,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -2823,7 +2747,7 @@
       "title": "우주떡집",
       "originalTitle": "우주떡집",
       "type": "예능",
-      "rank": 46,
+      "rank": 45,
       "popularity": 6.0369,
       "genres": [
         10764
@@ -2852,7 +2776,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 46,
+        "rank": 45,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -2862,7 +2786,7 @@
       "title": "이쪽으로 올래",
       "originalTitle": "이쪽으로 올래",
       "type": "예능",
-      "rank": 47,
+      "rank": 46,
       "popularity": 5.9659,
       "genres": [
         10767
@@ -2885,7 +2809,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 47,
+        "rank": 46,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -2895,7 +2819,7 @@
       "title": "사나의 냉터뷰",
       "originalTitle": "사나의 냉터뷰",
       "type": "예능",
-      "rank": 48,
+      "rank": 47,
       "popularity": 5.3082,
       "genres": [
         10764
@@ -2920,7 +2844,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 48,
+        "rank": 47,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -2930,7 +2854,7 @@
       "title": "유재석 캠프",
       "originalTitle": "유재석 캠프",
       "type": "예능",
-      "rank": 49,
+      "rank": 48,
       "popularity": 5.1793,
       "genres": [
         10764,
@@ -2963,7 +2887,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 49,
+        "rank": 48,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -2973,7 +2897,7 @@
       "title": "4SHOBOSHOW",
       "originalTitle": "4SHOBOSHOW",
       "type": "예능",
-      "rank": 50,
+      "rank": 49,
       "popularity": 4.3422,
       "genres": [
         10764
@@ -3000,7 +2924,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 50,
+        "rank": 49,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -3010,7 +2934,7 @@
       "title": "개와 늑대의 시간",
       "originalTitle": "개와 늑대의 시간",
       "type": "예능",
-      "rank": 51,
+      "rank": 50,
       "popularity": 4.2598,
       "genres": [
         10764
@@ -3039,7 +2963,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 51,
+        "rank": 50,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -3049,7 +2973,7 @@
       "title": "셀폰 코드",
       "originalTitle": "셀폰 코드",
       "type": "예능",
-      "rank": 52,
+      "rank": 51,
       "popularity": 4.1475,
       "genres": [
         10764
@@ -3074,7 +2998,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 52,
+        "rank": 51,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -3084,7 +3008,7 @@
       "title": "IVE OFF",
       "originalTitle": "IVE OFF",
       "type": "예능",
-      "rank": 53,
+      "rank": 52,
       "popularity": 3.6389,
       "genres": [
         10764
@@ -3109,7 +3033,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 53,
+        "rank": 52,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -3119,7 +3043,7 @@
       "title": "나의 AI 파트너 - 기이안 연애",
       "originalTitle": "나의 AI 파트너 - 기이안 연애",
       "type": "예능",
-      "rank": 54,
+      "rank": 53,
       "popularity": 3.6302,
       "genres": [
         10764
@@ -3147,7 +3071,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 54,
+        "rank": 53,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -3157,7 +3081,7 @@
       "title": "불꽃야구",
       "originalTitle": "불꽃야구",
       "type": "예능",
-      "rank": 55,
+      "rank": 54,
       "popularity": 3.584,
       "genres": [],
       "overview": "스튜디오C1의 야구 예능 프로그램 불꽃야구\n\nBURN TO WIN\n\n승리를 향해 불태우겠습니다.",
@@ -3180,7 +3104,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 55,
+        "rank": 54,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -3190,7 +3114,7 @@
       "title": "스트릿 월드 파이터: 디렉터스 워",
       "originalTitle": "스트릿 월드 파이터: 디렉터스 워",
       "type": "예능",
-      "rank": 56,
+      "rank": 55,
       "popularity": 3.3808,
       "genres": [
         10764
@@ -3218,7 +3142,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 56,
+        "rank": 55,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -3228,7 +3152,7 @@
       "title": "더 커뮤니티",
       "originalTitle": "더 커뮤니티",
       "type": "예능",
-      "rank": 57,
+      "rank": 56,
       "popularity": 3.3422,
       "genres": [
         10764,
@@ -3258,7 +3182,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 57,
+        "rank": 56,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -3268,7 +3192,7 @@
       "title": "kNOw맘대로",
       "originalTitle": "kNOw맘대로",
       "type": "예능",
-      "rank": 58,
+      "rank": 57,
       "popularity": 3.2787,
       "genres": [
         10764,
@@ -3294,7 +3218,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 58,
+        "rank": 57,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -3304,7 +3228,7 @@
       "title": "구르미 다시 그린 달빛",
       "originalTitle": "구르미 다시 그린 달빛",
       "type": "예능",
-      "rank": 59,
+      "rank": 58,
       "popularity": 3.1801,
       "genres": [
         10764
@@ -3331,7 +3255,7 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 59,
+        "rank": 58,
         "observedAt": "2026-10-24"
       },
       "metadataSource": "TMDB"
@@ -3341,7 +3265,7 @@
       "title": "서프라이즈 미스터리 살롱",
       "originalTitle": "서프라이즈 미스터리 살롱",
       "type": "예능",
-      "rank": 60,
+      "rank": 59,
       "popularity": 3.1406,
       "genres": [
         10767,
@@ -3366,6 +3290,39 @@
         "TVING"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/9pLKzInEsLqk3g8FaEKSG6vWsMS.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 59,
+        "observedAt": "2026-10-24"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 137687,
+      "title": "EN-loG",
+      "originalTitle": "EN-loG",
+      "type": "예능",
+      "rank": 60,
+      "popularity": 2.9385,
+      "genres": [
+        10764
+      ],
+      "overview": "",
+      "firstAirDate": "2021-08-08",
+      "lastAirDate": "2026-08-05",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 68,
+      "score": 10,
+      "scoreBy": "TMDB",
+      "networks": [],
+      "creators": [],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/uycLm1snuG1ZvNXnJhso6Cp9sY6.jpg",
       "posterCredit": "TMDB",
       "rankingSource": {
         "provider": "TMDB",
