@@ -3,6 +3,189 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20255509",
+      "title": "사진의 얼굴",
+      "titleEn": "A Portrait of Photograhy",
+      "titleOriginal": "",
+      "openedAt": "2026-09-02",
+      "audienceAcc": 4831,
+      "genres": [
+        "다큐멘터리"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260908",
+      "lastSeenAt": "20260908",
+      "days": 1,
+      "bestRank": 10,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 98,
+      "directors": [
+        "고희영"
+      ],
+      "cast": [],
+      "producers": [
+        "영화사 숨비"
+      ],
+      "distributors": [
+        "(주)트리플픽쳐스",
+        "스튜디오 초이스 주식회사"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20255509.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "\"왜 일본놈이 한국을 찍는가!” 90세 일본 포토저널리즘의 거장 구와바라 시세이. 지난 60년간 100여 차례 한국을 오간 그는 청계천 서민들의 삶부터 민주화 운동, 동두천 기지촌, 베트남 파병, 평양의 일상 등 한반도를 관통한 크고 작은 사건들을 10만 컷의 사진으로 기록해 왔다. “그는 무엇을 보았는가?” ‘남한에서의 국외 추방, 북한에서의 입국 금지 등 갖은 고난을 당하면서도 그가 끝내 놓지 못했던 생생한 얼굴들. 2026년 바로 오늘, 스크린에서 거장의 뷰파인더를 통해 본 ‘사진의 얼굴’을 만난다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1522680,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": false
+    },
+    {
+      "movieCd": "20264557",
+      "title": "오크 스트리트의 마지막 날",
+      "titleEn": "THE END OF OAK STREET",
+      "titleOriginal": "",
+      "openedAt": "2026-08-26",
+      "audienceAcc": 132311,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "미스터리",
+        "SF",
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260825",
+      "lastSeenAt": "20260908",
+      "days": 14,
+      "bestRank": 4,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 99,
+      "directors": [
+        "데이빗 로버트 밋첼"
+      ],
+      "cast": [
+        "앤 해서웨이",
+        "이완 맥그리거"
+      ],
+      "producers": [],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264557.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "1982년, 평화롭던 ‘오크 스트리트’ 마을이 하루아침에 통째로 선사시대로 옮겨졌다. 익숙했던 집과 골목은 순식간에 공룡들의 사냥터로 변하고, 육지와 하늘, 물속까지 점령한 거대 포식자들의 무차별 공격이 시작된다! 과연 ‘플랫’ 가족은 무사히 살아남아 원래의 일상으로 돌아갈 수 있을까?",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1101383,
+      "score": 7.1,
+      "scoreBy": "TMDB",
+      "voteCount": 1642,
+      "showing": false
+    },
+    {
+      "movieCd": "20242837",
+      "title": "왕과 사는 남자",
+      "titleEn": "The King's Warden",
+      "titleOriginal": "",
+      "openedAt": "2026-02-04",
+      "audienceAcc": 16924757,
+      "genres": [
+        "사극",
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260907",
+      "lastSeenAt": "20260908",
+      "days": 2,
+      "bestRank": 7,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 116,
+      "directors": [
+        "장항준"
+      ],
+      "cast": [
+        "유해진",
+        "박지훈",
+        "유지태",
+        "전미도",
+        "김민",
+        "이준혁"
+      ],
+      "producers": [
+        "(주)온다웍스",
+        "(주)비에이엔터테인먼트"
+      ],
+      "distributors": [
+        "(주)쇼박스"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20242837.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "계유정난이 조선을 뒤흔들고 어린 왕 이홍위는 왕위에서 쫓겨나 유배길에 오른다. 한편, 강원도 영월 산골 마을 광천골의 촌장 엄흥도는 먹고 살기 힘든 마을 사람들을 위해 청령포를 유배지로 만들기 위해 노력한다. 그러나 촌장이 부푼 꿈으로 맞이한 이는 왕위에서 쫓겨난 이홍위였다. 유배지를 지키는 보수주인으로서 그의 모든 일상을 감시해야만 하는 촌장은 삶의 의지를 잃어버린 이홍위가 점점 신경 쓰이는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1321179,
+      "score": 7.1,
+      "scoreBy": "TMDB",
+      "voteCount": 31,
+      "showing": false
+    },
+    {
+      "movieCd": "20265573",
+      "title": "인 더 그레이",
+      "titleEn": "In The Grey",
+      "titleOriginal": "",
+      "openedAt": "2026-09-02",
+      "audienceAcc": 10211,
+      "genres": [
+        "액션",
+        "범죄"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260902",
+      "lastSeenAt": "20260908",
+      "days": 5,
+      "bestRank": 7,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 96,
+      "directors": [
+        "가이 리치"
+      ],
+      "cast": [
+        "헨리 카빌",
+        "제이크 질렌할",
+        "에이사 곤잘레스",
+        "로자먼드 파이크"
+      ],
+      "producers": [],
+      "distributors": [
+        "스튜디오 초이스 주식회사"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20265573.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "악질 채무 청산을 전담하는 변호사 ‘레이첼’은 스펜서 골드스타인 투자가 '보비’를 찾아가 부패한 거물 ‘매니’에게 받지 못한 채무 10억 달러를 되찾아 주겠다고 제안한다. ‘레이첼’은 시스템의 빈틈을 교묘히 이용해, ‘살라사르’를 공략할 계획을 세우고, 전직 특수부대 요원 '시드’와 ‘브롱코'를 임무에 끌어들여 기상천외한 작전을 세우는데!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1122573,
+      "score": 7.6,
+      "scoreBy": "TMDB",
+      "voteCount": 1038,
+      "showing": false
+    },
+    {
       "movieCd": "20264635",
       "title": "명탐정 코난: 하이웨이의 타천사",
       "titleEn": "Detective Conan the Movie: Fallen Angel of the Highway",
@@ -36,8 +219,7 @@
       "tmdbId": 1545621,
       "score": 7.4,
       "scoreBy": "TMDB",
-      "voteCount": 21,
-      "showing": false
+      "voteCount": 21
     },
     {
       "movieCd": "20127108",
