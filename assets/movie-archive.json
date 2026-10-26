@@ -41,8 +41,7 @@
       "tmdbId": 1522680,
       "score": null,
       "scoreBy": "",
-      "voteCount": null,
-      "showing": false
+      "voteCount": null
     },
     {
       "movieCd": "20264557",
@@ -87,8 +86,7 @@
       "tmdbId": 1101383,
       "score": 7.1,
       "scoreBy": "TMDB",
-      "voteCount": 1642,
-      "showing": false
+      "voteCount": 1642
     },
     {
       "movieCd": "20242837",
@@ -137,8 +135,7 @@
       "tmdbId": 1321179,
       "score": 7.1,
       "scoreBy": "TMDB",
-      "voteCount": 31,
-      "showing": false
+      "voteCount": 31
     },
     {
       "movieCd": "20265573",
@@ -182,8 +179,7 @@
       "tmdbId": 1122573,
       "score": 7.6,
       "scoreBy": "TMDB",
-      "voteCount": 1038,
-      "showing": false
+      "voteCount": 1038
     },
     {
       "movieCd": "20264635",
