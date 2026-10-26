@@ -3,7 +3,7 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
   "updatedAt": "2026-10-26",
-  "latestDt": "20261025",
+  "latestDt": "20261026",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2248128,
+      "audienceAcc": 2268277,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261025",
-      "days": 29,
+      "lastSeenAt": "20261026",
+      "days": 30,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 135452,
+      "audienceDay": 20151,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3374514,
+      "audienceAcc": 3382129,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261025",
-      "days": 35,
+      "lastSeenAt": "20261026",
+      "days": 36,
       "bestRank": 1,
       "rank": 2,
-      "audienceDay": 26114,
+      "audienceDay": 7619,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -105,7 +105,7 @@
       "titleEn": "The Odyssey",
       "titleOriginal": "",
       "openedAt": "2026-08-05",
-      "audienceAcc": 12311211,
+      "audienceAcc": 12314610,
       "genres": [
         "액션",
         "드라마",
@@ -113,11 +113,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20260824",
-      "lastSeenAt": "20261025",
-      "days": 62,
+      "lastSeenAt": "20261026",
+      "days": 63,
       "bestRank": 1,
       "rank": 6,
-      "audienceDay": 7510,
+      "audienceDay": 3399,
       "runtime": 172,
       "directors": [
         "크리스토퍼 놀란"
@@ -153,18 +153,18 @@
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 1999477,
+      "audienceAcc": 2006488,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261025",
-      "days": 37,
+      "lastSeenAt": "20261026",
+      "days": 38,
       "bestRank": 1,
       "rank": 4,
-      "audienceDay": 16772,
+      "audienceDay": 7011,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,18 +202,18 @@
       "titleEn": "PARADISE LOST",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 104874,
+      "audienceAcc": 112193,
       "genres": [
         "스릴러",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261025",
-      "days": 5,
+      "lastSeenAt": "20261026",
+      "days": 6,
       "bestRank": 2,
       "rank": 3,
-      "audienceDay": 22311,
+      "audienceDay": 7319,
       "runtime": 100,
       "directors": [
         "연상호"
@@ -247,18 +247,18 @@
       "titleEn": "Clayface",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 77153,
+      "audienceAcc": 84052,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261025",
-      "days": 6,
+      "lastSeenAt": "20261026",
+      "days": 7,
       "bestRank": 3,
       "rank": 5,
-      "audienceDay": 15978,
+      "audienceDay": 6899,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -291,17 +291,17 @@
       "titleEn": "Look Back",
       "titleOriginal": "",
       "openedAt": "2026-10-08",
-      "audienceAcc": 131051,
+      "audienceAcc": 133300,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261008",
-      "lastSeenAt": "20261025",
-      "days": 17,
+      "lastSeenAt": "20261026",
+      "days": 18,
       "bestRank": 4,
       "rank": 8,
-      "audienceDay": 4995,
+      "audienceDay": 2249,
       "runtime": 100,
       "directors": [
         "고레에다 히로카즈"
@@ -335,7 +335,7 @@
       "titleEn": "Verity",
       "titleOriginal": "",
       "openedAt": "2026-10-22",
-      "audienceAcc": 25190,
+      "audienceAcc": 27432,
       "genres": [
         "범죄",
         "드라마",
@@ -345,11 +345,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261022",
-      "lastSeenAt": "20261025",
-      "days": 4,
+      "lastSeenAt": "20261026",
+      "days": 5,
       "bestRank": 5,
       "rank": 9,
-      "audienceDay": 4306,
+      "audienceDay": 2242,
       "runtime": 116,
       "directors": [
         "마이클 쇼월터"
@@ -382,17 +382,17 @@
       "titleEn": "STILL SHINING",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 41037,
+      "audienceAcc": 44204,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261025",
-      "days": 5,
+      "lastSeenAt": "20261026",
+      "days": 6,
       "bestRank": 6,
       "rank": 7,
-      "audienceDay": 7089,
+      "audienceDay": 3167,
       "runtime": 117,
       "directors": [
         "송일곤"
@@ -430,18 +430,18 @@
       "titleEn": "Killing Time",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 19121,
+      "audienceAcc": 20426,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261025",
-      "days": 4,
+      "lastSeenAt": "20261026",
+      "days": 5,
       "bestRank": 7,
       "rank": 10,
-      "audienceDay": 4087,
+      "audienceDay": 1305,
       "runtime": 83,
       "directors": [
         "장준엽"
