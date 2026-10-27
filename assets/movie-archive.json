@@ -3,6 +3,54 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20224597",
+      "title": "아가미",
+      "titleEn": "Gill",
+      "titleOriginal": "",
+      "openedAt": "2026-09-09",
+      "audienceAcc": 8459,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260911",
+      "lastSeenAt": "20260911",
+      "days": 1,
+      "bestRank": 10,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 105,
+      "directors": [
+        "안재훈"
+      ],
+      "cast": [
+        "정해인",
+        "강하늘",
+        "이청아",
+        "유재명",
+        "김선영",
+        "원옥화"
+      ],
+      "producers": [
+        "(주)연필로명상하기"
+      ],
+      "distributors": [
+        "(주)엣나인필름"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20224597.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "“이야기가 길어질 텐데 괜찮아요?” 깊은 물 속에 던져진 날, 아가미가 생겨난 세상에서 유일한 아이 ‘곤’ 그리고 그의 세계에 전부였던 존재들의 눈부신 이야기",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1280401,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": false
+    },
+    {
       "movieCd": "20255509",
       "title": "사진의 얼굴",
       "titleEn": "A Portrait of Photograhy",

@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-10-26",
-  "latestDt": "20261026",
+  "updatedAt": "2026-10-27",
+  "latestDt": "20261027",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2268277,
+      "audienceAcc": 2286581,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261026",
-      "days": 30,
+      "lastSeenAt": "20261027",
+      "days": 31,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 20151,
+      "audienceDay": 18326,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3382129,
+      "audienceAcc": 3389455,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261026",
-      "days": 36,
+      "lastSeenAt": "20261027",
+      "days": 37,
       "bestRank": 1,
-      "rank": 2,
-      "audienceDay": 7619,
+      "rank": 4,
+      "audienceDay": 7412,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -105,7 +105,7 @@
       "titleEn": "The Odyssey",
       "titleOriginal": "",
       "openedAt": "2026-08-05",
-      "audienceAcc": 12314610,
+      "audienceAcc": 12317358,
       "genres": [
         "액션",
         "드라마",
@@ -113,11 +113,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20260824",
-      "lastSeenAt": "20261026",
-      "days": 63,
+      "lastSeenAt": "20261027",
+      "days": 64,
       "bestRank": 1,
-      "rank": 6,
-      "audienceDay": 3399,
+      "rank": 7,
+      "audienceDay": 2752,
       "runtime": 172,
       "directors": [
         "크리스토퍼 놀란"
@@ -148,23 +148,72 @@
       "showing": true
     },
     {
+      "movieCd": "20256308",
+      "title": "인턴",
+      "titleEn": "The Intern",
+      "titleOriginal": "",
+      "openedAt": "2026-09-16",
+      "audienceAcc": 908419,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260904",
+      "lastSeenAt": "20261027",
+      "days": 34,
+      "bestRank": 1,
+      "rank": 10,
+      "audienceDay": 1754,
+      "runtime": 132,
+      "directors": [
+        "김도영"
+      ],
+      "cast": [
+        "최민식",
+        "한소희",
+        "김준한",
+        "류혜영",
+        "김금순",
+        "박예니"
+      ],
+      "producers": [
+        "앤솔로지스튜디오(주)",
+        "워너브러더스 코리아(주)"
+      ],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20256308.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 607833,
+      "score": 7,
+      "scoreBy": "TMDB",
+      "voteCount": 3,
+      "showing": true
+    },
+    {
       "movieCd": "20256161",
       "title": "타짜: 벨제붑의 노래",
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 2006488,
+      "audienceAcc": 2015759,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261026",
-      "days": 38,
+      "lastSeenAt": "20261027",
+      "days": 39,
       "bestRank": 1,
-      "rank": 4,
-      "audienceDay": 7011,
+      "rank": 3,
+      "audienceDay": 9281,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,18 +251,18 @@
       "titleEn": "PARADISE LOST",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 112193,
+      "audienceAcc": 121604,
       "genres": [
         "스릴러",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261026",
-      "days": 6,
+      "lastSeenAt": "20261027",
+      "days": 7,
       "bestRank": 2,
-      "rank": 3,
-      "audienceDay": 7319,
+      "rank": 2,
+      "audienceDay": 9413,
       "runtime": 100,
       "directors": [
         "연상호"
@@ -247,18 +296,18 @@
       "titleEn": "Clayface",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 84052,
+      "audienceAcc": 90471,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261026",
-      "days": 7,
+      "lastSeenAt": "20261027",
+      "days": 8,
       "bestRank": 3,
       "rank": 5,
-      "audienceDay": 6899,
+      "audienceDay": 6275,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -291,17 +340,17 @@
       "titleEn": "Look Back",
       "titleOriginal": "",
       "openedAt": "2026-10-08",
-      "audienceAcc": 133300,
+      "audienceAcc": 135600,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261008",
-      "lastSeenAt": "20261026",
-      "days": 18,
+      "lastSeenAt": "20261027",
+      "days": 19,
       "bestRank": 4,
       "rank": 8,
-      "audienceDay": 2249,
+      "audienceDay": 2300,
       "runtime": 100,
       "directors": [
         "고레에다 히로카즈"
@@ -335,7 +384,7 @@
       "titleEn": "Verity",
       "titleOriginal": "",
       "openedAt": "2026-10-22",
-      "audienceAcc": 27432,
+      "audienceAcc": 29707,
       "genres": [
         "범죄",
         "드라마",
@@ -345,11 +394,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261022",
-      "lastSeenAt": "20261026",
-      "days": 5,
+      "lastSeenAt": "20261027",
+      "days": 6,
       "bestRank": 5,
       "rank": 9,
-      "audienceDay": 2242,
+      "audienceDay": 2274,
       "runtime": 116,
       "directors": [
         "마이클 쇼월터"
@@ -382,17 +431,17 @@
       "titleEn": "STILL SHINING",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 44204,
+      "audienceAcc": 48444,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261026",
-      "days": 6,
+      "lastSeenAt": "20261027",
+      "days": 7,
       "bestRank": 6,
-      "rank": 7,
-      "audienceDay": 3167,
+      "rank": 6,
+      "audienceDay": 4240,
       "runtime": 117,
       "directors": [
         "송일곤"
@@ -440,8 +489,8 @@
       "lastSeenAt": "20261026",
       "days": 5,
       "bestRank": 7,
-      "rank": 10,
-      "audienceDay": 1305,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 83,
       "directors": [
         "장준엽"
@@ -468,55 +517,6 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": true
-    },
-    {
-      "movieCd": "20256308",
-      "title": "인턴",
-      "titleEn": "The Intern",
-      "titleOriginal": "",
-      "openedAt": "2026-09-16",
-      "audienceAcc": 905434,
-      "genres": [
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260904",
-      "lastSeenAt": "20261023",
-      "days": 33,
-      "bestRank": 1,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 132,
-      "directors": [
-        "김도영"
-      ],
-      "cast": [
-        "최민식",
-        "한소희",
-        "김준한",
-        "류혜영",
-        "김금순",
-        "박예니"
-      ],
-      "producers": [
-        "앤솔로지스튜디오(주)",
-        "워너브러더스 코리아(주)"
-      ],
-      "distributors": [
-        "워너브러더스 코리아(주)"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20256308.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 607833,
-      "score": 7,
-      "scoreBy": "TMDB",
-      "voteCount": 3,
       "showing": false
     },
     {
@@ -1979,54 +1979,6 @@
       "synopsis": "",
       "synopsisCredit": "",
       "tmdbId": null,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
-      "showing": false
-    },
-    {
-      "movieCd": "20224597",
-      "title": "아가미",
-      "titleEn": "Gill",
-      "titleOriginal": "",
-      "openedAt": "2026-09-09",
-      "audienceAcc": 8459,
-      "genres": [
-        "애니메이션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260911",
-      "lastSeenAt": "20260911",
-      "days": 1,
-      "bestRank": 10,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 105,
-      "directors": [
-        "안재훈"
-      ],
-      "cast": [
-        "정해인",
-        "강하늘",
-        "이청아",
-        "유재명",
-        "김선영",
-        "원옥화"
-      ],
-      "producers": [
-        "(주)연필로명상하기"
-      ],
-      "distributors": [
-        "(주)엣나인필름"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20224597.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "“이야기가 길어질 텐데 괜찮아요?” 깊은 물 속에 던져진 날, 아가미가 생겨난 세상에서 유일한 아이 ‘곤’ 그리고 그의 세계에 전부였던 존재들의 눈부신 이야기",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1280401,
       "score": null,
       "scoreBy": "",
       "voteCount": null,
