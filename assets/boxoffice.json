@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-10-27",
-  "latestDt": "20261027",
+  "updatedAt": "2026-10-28",
+  "latestDt": "20261028",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2286581,
+      "audienceAcc": 2342822,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261027",
-      "days": 31,
+      "lastSeenAt": "20261028",
+      "days": 32,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 18326,
+      "audienceDay": 56300,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3389455,
+      "audienceAcc": 3399183,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261027",
-      "days": 37,
+      "lastSeenAt": "20261028",
+      "days": 38,
       "bestRank": 1,
-      "rank": 4,
-      "audienceDay": 7412,
+      "rank": 5,
+      "audienceDay": 9728,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -100,120 +100,23 @@
       "showing": true
     },
     {
-      "movieCd": "20250654",
-      "title": "오디세이",
-      "titleEn": "The Odyssey",
-      "titleOriginal": "",
-      "openedAt": "2026-08-05",
-      "audienceAcc": 12317358,
-      "genres": [
-        "액션",
-        "드라마",
-        "어드벤처"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260824",
-      "lastSeenAt": "20261027",
-      "days": 64,
-      "bestRank": 1,
-      "rank": 7,
-      "audienceDay": 2752,
-      "runtime": 172,
-      "directors": [
-        "크리스토퍼 놀란"
-      ],
-      "cast": [
-        "맷 데이먼",
-        "톰 홀랜드",
-        "앤 해서웨이",
-        "로버트 패틴슨",
-        "젠데이아 콜먼",
-        "샤를리즈 테론"
-      ],
-      "producers": [],
-      "distributors": [
-        "유니버설픽쳐스인터내셔널 코리아(유)"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20250654.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페넬로페'와 아들 '텔레마코스'에게 돌아가기 위한 여정에 나선다. 그러나 신들의 분노를 산 그의 귀환 앞에는 거대한 폭풍과 괴물들, 그리고 거스를 수 없는 운명의 시련이 기다리고 있는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1368337,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "voteCount": 3939,
-      "showing": true
-    },
-    {
-      "movieCd": "20256308",
-      "title": "인턴",
-      "titleEn": "The Intern",
-      "titleOriginal": "",
-      "openedAt": "2026-09-16",
-      "audienceAcc": 908419,
-      "genres": [
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260904",
-      "lastSeenAt": "20261027",
-      "days": 34,
-      "bestRank": 1,
-      "rank": 10,
-      "audienceDay": 1754,
-      "runtime": 132,
-      "directors": [
-        "김도영"
-      ],
-      "cast": [
-        "최민식",
-        "한소희",
-        "김준한",
-        "류혜영",
-        "김금순",
-        "박예니"
-      ],
-      "producers": [
-        "앤솔로지스튜디오(주)",
-        "워너브러더스 코리아(주)"
-      ],
-      "distributors": [
-        "워너브러더스 코리아(주)"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20256308.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 607833,
-      "score": 7,
-      "scoreBy": "TMDB",
-      "voteCount": 3,
-      "showing": true
-    },
-    {
       "movieCd": "20256161",
       "title": "타짜: 벨제붑의 노래",
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 2015759,
+      "audienceAcc": 2022736,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261027",
-      "days": 39,
+      "lastSeenAt": "20261028",
+      "days": 40,
       "bestRank": 1,
-      "rank": 3,
-      "audienceDay": 9281,
+      "rank": 7,
+      "audienceDay": 6980,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -251,18 +154,18 @@
       "titleEn": "PARADISE LOST",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 121604,
+      "audienceAcc": 128848,
       "genres": [
         "스릴러",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261027",
-      "days": 7,
+      "lastSeenAt": "20261028",
+      "days": 8,
       "bestRank": 2,
-      "rank": 2,
-      "audienceDay": 9413,
+      "rank": 6,
+      "audienceDay": 7242,
       "runtime": 100,
       "directors": [
         "연상호"
@@ -291,23 +194,115 @@
       "showing": true
     },
     {
+      "movieCd": "20264498",
+      "title": "하트 오브 비스트",
+      "titleEn": "Heart of the Beast",
+      "titleOriginal": "",
+      "openedAt": "2026-10-28",
+      "audienceAcc": 30964,
+      "genres": [
+        "드라마",
+        "액션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261028",
+      "days": 1,
+      "bestRank": 2,
+      "rank": 2,
+      "audienceDay": 30157,
+      "runtime": 101,
+      "directors": [
+        "데이비드 에이어"
+      ],
+      "cast": [
+        "브래드 피트",
+        "J.K. 시몬스"
+      ],
+      "producers": [],
+      "distributors": [
+        "롯데컬처웍스(주)롯데엔터테인먼트"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "비행기 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부대원 ‘제임스’와 그의 은퇴한 군견 ‘오딘’이 매 순간 닥쳐오는 죽음의 위협 속에서 오직 서로에게만 의지한 채 처절한 사투를 벌이는 어드벤처 생존 드라마",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1263337,
+      "score": 7.3,
+      "scoreBy": "TMDB",
+      "voteCount": 358,
+      "poster": "assets/posters/20264498.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20231795",
+      "title": "수능, 출제의 비밀",
+      "titleEn": "Ugly Duckling Ms. Maeng",
+      "titleOriginal": "",
+      "openedAt": "2026-10-28",
+      "audienceAcc": 16916,
+      "genres": [
+        "코미디"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261019",
+      "lastSeenAt": "20261028",
+      "days": 2,
+      "bestRank": 3,
+      "rank": 3,
+      "audienceDay": 14329,
+      "runtime": 99,
+      "directors": [
+        "이용재"
+      ],
+      "cast": [
+        "이선빈",
+        "유재명",
+        "김영민",
+        "전석호",
+        "김경민",
+        "이진희"
+      ],
+      "producers": [
+        "(주)조이래빗"
+      ],
+      "distributors": [
+        "(주)바이포엠스튜디오",
+        "(주)바른손이앤에이"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20231795.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "수능 D-DAY, 정답은 이미 정해져 있다? 그 정답을 만드는 사람들이 지금 이 방에 모였습니다. 대한민국 최고의 수능 출제 전문가 전원. 외부 차단 40일, 중도 이탈 불가. 오탈자도 시비도 없는 전국의 모든 지원자들에게 ‘공정한’ 문제 출제. 적중률 100%, 본인들이 직접 출제하니까. 40일간의 미션, “문제없는 문제”를 만들어라!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1083624,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
       "movieCd": "20267571",
       "title": "클레이페이스",
       "titleEn": "Clayface",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 90471,
+      "audienceAcc": 95635,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261027",
-      "days": 8,
+      "lastSeenAt": "20261028",
+      "days": 9,
       "bestRank": 3,
-      "rank": 5,
-      "audienceDay": 6275,
+      "rank": 8,
+      "audienceDay": 5165,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -335,95 +330,45 @@
       "showing": true
     },
     {
-      "movieCd": "20265062",
-      "title": "룩백",
-      "titleEn": "Look Back",
-      "titleOriginal": "",
-      "openedAt": "2026-10-08",
-      "audienceAcc": 135600,
+      "movieCd": "20155762",
+      "title": "진격의 거인: 홍련의 화살",
+      "titleEn": "Attack on Titan: Crimson Arrows",
+      "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
+      "openedAt": "2015-01-28",
+      "audienceAcc": 36713,
       "genres": [
-        "드라마"
+        "애니메이션",
+        "판타지"
       ],
       "type": "영화",
-      "firstSeenAt": "20261008",
-      "lastSeenAt": "20261027",
-      "days": 19,
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261028",
+      "days": 1,
       "bestRank": 4,
-      "rank": 8,
-      "audienceDay": 2300,
-      "runtime": 100,
+      "rank": 4,
+      "audienceDay": 12012,
+      "runtime": 119,
       "directors": [
-        "고레에다 히로카즈"
+        "아라키 테츠로"
       ],
-      "cast": [
-        "데구치 나츠키",
-        "마키타 아쥬",
-        "나나세 후리",
-        "오카다 로카"
-      ],
+      "cast": [],
       "producers": [],
       "distributors": [
-        "메가박스중앙(주)"
-      ],
-      "rating": "전체관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20265062.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "학교 신문에서 네컷 만화를 그리는 자신만만한 소녀 ‘후지노’와 그를 동경하지만 세상 밖이 두려워 방 안에 틀어박힌 외톨이 ‘쿄모토’. “너는 왜 만화를 그리는 거야?” 만화가 세상의 전부였던 그 시절, 두 소녀의 사계절이 눈부신 색깔로 채워지기 시작한다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1591675,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "voteCount": 14,
-      "showing": true
-    },
-    {
-      "movieCd": "20264015",
-      "title": "베러티",
-      "titleEn": "Verity",
-      "titleOriginal": "",
-      "openedAt": "2026-10-22",
-      "audienceAcc": 29707,
-      "genres": [
-        "범죄",
-        "드라마",
-        "미스터리",
-        "멜로/로맨스",
-        "스릴러"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261022",
-      "lastSeenAt": "20261027",
-      "days": 6,
-      "bestRank": 5,
-      "rank": 9,
-      "audienceDay": 2274,
-      "runtime": 116,
-      "directors": [
-        "마이클 쇼월터"
-      ],
-      "cast": [
-        "앤 해서웨이",
-        "다코타 존슨",
-        "조쉬 하트넷"
-      ],
-      "producers": [],
-      "distributors": [
-        "소니픽쳐스엔터테인먼트코리아주식회사극장배급지점"
+        "씨제이 씨지브이(CJ CGV)(주)",
+        "(주)박수엔터테인먼트"
       ],
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "poster": "assets/posters/20264015.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "어머니를 암으로 떠나보내고 생활고에 허덕이던 무명 소설가 로웬 애슐리에게 믿기 힘든 제안이 찾아온다. 베스트셀러 작가 베리티 크로포드의 남편 제레미가 사고로 집필을 이어갈 수 없게 된 아내를 대신해 인기 시리즈의 남은 세 권을 완성해 달라고 의뢰한 것. 자료를 정리하기 위해 크로포드 저택에 머물게 된 로웬은 침대에 누운 채 아무 반응도 없는 베리티의 서재에서 미완성 자전적 원고 하나를 발견한다. 그 안에는 한 여자의 소름 끼치는 고백과 입에 담기 어려운 비밀이 빼곡히 적혀 있다. 아무도 몰라야 할 글을 읽어버린 로웬은 점점 제레미에게 이끌리고, 저택 안에서 벌어지는 설명할 수 없는 일들과 함께 진실과 조작의 경계가 허물어지는 위험한 심리전에 갇혀가는데...",
+      "showing": true,
+      "synopsis": "무차별적으로 잡아먹는 식인 거인들이 나타나면서 멸망 위기에 놓인 인간 세계. 인간들은 그들을 피해 50미터의 거대한 벽을 쌓은 채 그 속에서 살아간다. 100년여 동안 평화 아닌 평화를 지켜 가며 숨죽여 살아가지만, 벽 밖의 세계가 궁금한 어린 ‘엘런 예거’는 새장에 갇힌 새처럼 사는 현실이 싫어 가족과 어릴 때부터 자신을 지켜 주었던 ‘미카사 아커만’의 반대 속에서도 그곳을 벗어나겠다는 고집을 꺾지 않는다. 이 때, 초대형 거인과 갑옷 거인이 나타나면서 허울뿐인 평화는 부서지는 벽과 함께 무참히 깨져 버린다. 거인들이 첫 번째 벽, 월 마리아를 부수고 안으로 들어오면서 절규와 죽음이 가득한 지옥 같은 상황이 이어지고, 눈 앞에서 잔혹하게 잡아 먹히는 어머니를 본 ‘엘런 예거’는 그들에게 복수를 다짐한다. 결국 두 번째 벽, 월 로제 안으로 도망친 '엘런 예거' 와 '미카사' 등은 훈련병에 지원하고 혹독한 수련을 거듭하며 거인에게 복수할 수 있는 힘을 키워나간다. 그리고 5년 후, 그들이 훈련병을 졸업하고 한 명의 병사로서 태어나는 바로 그날, 월 마리아를 파괴했던 초대형 거인이 '엘런' 앞에 다시 모습을 드러냈다. 과연 거인들은 어디로부터 오는가? 진짜 전쟁은 지금부터 시작이다!",
       "synopsisCredit": "TMDB",
-      "tmdbId": 1283515,
-      "score": 6.4,
+      "tmdbId": 379088,
+      "score": 8.1,
       "scoreBy": "TMDB",
-      "voteCount": 240,
-      "showing": true
+      "voteCount": 555,
+      "poster": "assets/posters/20155762.webp",
+      "posterCredit": "TMDB"
     },
     {
       "movieCd": "20266189",
@@ -431,17 +376,17 @@
       "titleEn": "STILL SHINING",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 48444,
+      "audienceAcc": 52543,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261027",
-      "days": 7,
+      "lastSeenAt": "20261028",
+      "days": 8,
       "bestRank": 6,
-      "rank": 6,
-      "audienceDay": 4240,
+      "rank": 10,
+      "audienceDay": 4095,
       "runtime": 117,
       "directors": [
         "송일곤"
@@ -472,6 +417,236 @@
       "scoreBy": "TMDB",
       "voteCount": 1,
       "showing": true
+    },
+    {
+      "movieCd": "20266764",
+      "title": "그대, 별처럼",
+      "titleEn": "You, Like a Star",
+      "titleOriginal": "汝、星のごとく",
+      "openedAt": "2026-10-28",
+      "audienceAcc": 7699,
+      "genres": [
+        "멜로/로맨스"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261028",
+      "days": 1,
+      "bestRank": 9,
+      "rank": 9,
+      "audienceDay": 5001,
+      "runtime": 134,
+      "directors": [
+        "후지이 미치히토"
+      ],
+      "cast": [
+        "요코하마 류세이",
+        "히로세 스즈"
+      ],
+      "producers": [],
+      "distributors": [
+        "롯데컬처웍스(주)롯데시네마"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "아름다운 바다와 하늘이 펼쳐진 세토 내해의 어느 섬. 섬으로 전학 온 카이와, 이 섬에서 자란 아키미. 두 사람은 모두 축복받지 못한 가정환경 속에서 마음의 응어리를 안고 살아왔고, 서로에게 유일한 버팀목이 되어 사랑에 빠진다. 꿈을 이루기 위해 도쿄로 향하는 카이와, 가족을 위해 섬에 남아 일하는 아키미. 그런 두 사람에게 무정하게도 수많은 ‘갈림길’이 들이닥친다. “나는 사랑하는 사람을 위해 내 인생을 망치고 싶어.” 15년에 걸친 길고 긴 사랑의 끝에, 두 사람이 내린 선택은 무엇일까.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1590933,
+      "score": 8,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "poster": "assets/posters/20266764.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20250654",
+      "title": "오디세이",
+      "titleEn": "The Odyssey",
+      "titleOriginal": "",
+      "openedAt": "2026-08-05",
+      "audienceAcc": 12317358,
+      "genres": [
+        "액션",
+        "드라마",
+        "어드벤처"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260824",
+      "lastSeenAt": "20261027",
+      "days": 64,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 172,
+      "directors": [
+        "크리스토퍼 놀란"
+      ],
+      "cast": [
+        "맷 데이먼",
+        "톰 홀랜드",
+        "앤 해서웨이",
+        "로버트 패틴슨",
+        "젠데이아 콜먼",
+        "샤를리즈 테론"
+      ],
+      "producers": [],
+      "distributors": [
+        "유니버설픽쳐스인터내셔널 코리아(유)"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20250654.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페넬로페'와 아들 '텔레마코스'에게 돌아가기 위한 여정에 나선다. 그러나 신들의 분노를 산 그의 귀환 앞에는 거대한 폭풍과 괴물들, 그리고 거스를 수 없는 운명의 시련이 기다리고 있는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1368337,
+      "score": 8,
+      "scoreBy": "TMDB",
+      "voteCount": 3939,
+      "showing": false
+    },
+    {
+      "movieCd": "20256308",
+      "title": "인턴",
+      "titleEn": "The Intern",
+      "titleOriginal": "",
+      "openedAt": "2026-09-16",
+      "audienceAcc": 908419,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260904",
+      "lastSeenAt": "20261027",
+      "days": 34,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 132,
+      "directors": [
+        "김도영"
+      ],
+      "cast": [
+        "최민식",
+        "한소희",
+        "김준한",
+        "류혜영",
+        "김금순",
+        "박예니"
+      ],
+      "producers": [
+        "앤솔로지스튜디오(주)",
+        "워너브러더스 코리아(주)"
+      ],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20256308.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 607833,
+      "score": 7,
+      "scoreBy": "TMDB",
+      "voteCount": 3,
+      "showing": false
+    },
+    {
+      "movieCd": "20265062",
+      "title": "룩백",
+      "titleEn": "Look Back",
+      "titleOriginal": "",
+      "openedAt": "2026-10-08",
+      "audienceAcc": 135600,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261008",
+      "lastSeenAt": "20261027",
+      "days": 19,
+      "bestRank": 4,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 100,
+      "directors": [
+        "고레에다 히로카즈"
+      ],
+      "cast": [
+        "데구치 나츠키",
+        "마키타 아쥬",
+        "나나세 후리",
+        "오카다 로카"
+      ],
+      "producers": [],
+      "distributors": [
+        "메가박스중앙(주)"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20265062.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "학교 신문에서 네컷 만화를 그리는 자신만만한 소녀 ‘후지노’와 그를 동경하지만 세상 밖이 두려워 방 안에 틀어박힌 외톨이 ‘쿄모토’. “너는 왜 만화를 그리는 거야?” 만화가 세상의 전부였던 그 시절, 두 소녀의 사계절이 눈부신 색깔로 채워지기 시작한다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1591675,
+      "score": 8,
+      "scoreBy": "TMDB",
+      "voteCount": 14,
+      "showing": false
+    },
+    {
+      "movieCd": "20264015",
+      "title": "베러티",
+      "titleEn": "Verity",
+      "titleOriginal": "",
+      "openedAt": "2026-10-22",
+      "audienceAcc": 29707,
+      "genres": [
+        "범죄",
+        "드라마",
+        "미스터리",
+        "멜로/로맨스",
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261022",
+      "lastSeenAt": "20261027",
+      "days": 6,
+      "bestRank": 5,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 116,
+      "directors": [
+        "마이클 쇼월터"
+      ],
+      "cast": [
+        "앤 해서웨이",
+        "다코타 존슨",
+        "조쉬 하트넷"
+      ],
+      "producers": [],
+      "distributors": [
+        "소니픽쳐스엔터테인먼트코리아주식회사극장배급지점"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264015.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "어머니를 암으로 떠나보내고 생활고에 허덕이던 무명 소설가 로웬 애슐리에게 믿기 힘든 제안이 찾아온다. 베스트셀러 작가 베리티 크로포드의 남편 제레미가 사고로 집필을 이어갈 수 없게 된 아내를 대신해 인기 시리즈의 남은 세 권을 완성해 달라고 의뢰한 것. 자료를 정리하기 위해 크로포드 저택에 머물게 된 로웬은 침대에 누운 채 아무 반응도 없는 베리티의 서재에서 미완성 자전적 원고 하나를 발견한다. 그 안에는 한 여자의 소름 끼치는 고백과 입에 담기 어려운 비밀이 빼곡히 적혀 있다. 아무도 몰라야 할 글을 읽어버린 로웬은 점점 제레미에게 이끌리고, 저택 안에서 벌어지는 설명할 수 없는 일들과 함께 진실과 조작의 경계가 허물어지는 위험한 심리전에 갇혀가는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1283515,
+      "score": 6.4,
+      "scoreBy": "TMDB",
+      "voteCount": 240,
+      "showing": false
     },
     {
       "movieCd": "20246036",
@@ -778,55 +953,6 @@
       "score": 7,
       "scoreBy": "TMDB",
       "voteCount": 1,
-      "showing": false
-    },
-    {
-      "movieCd": "20231795",
-      "title": "수능, 출제의 비밀",
-      "titleEn": "Ugly Duckling Ms. Maeng",
-      "titleOriginal": "",
-      "openedAt": "2026-10-28",
-      "audienceAcc": 1555,
-      "genres": [
-        "코미디"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261019",
-      "lastSeenAt": "20261019",
-      "days": 1,
-      "bestRank": 10,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 99,
-      "directors": [
-        "이용재"
-      ],
-      "cast": [
-        "이선빈",
-        "유재명",
-        "김영민",
-        "전석호",
-        "김경민",
-        "이진희"
-      ],
-      "producers": [
-        "(주)조이래빗"
-      ],
-      "distributors": [
-        "(주)바이포엠스튜디오",
-        "(주)바른손이앤에이"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20231795.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "수능 D-DAY, 정답은 이미 정해져 있다? 그 정답을 만드는 사람들이 지금 이 방에 모였습니다. 대한민국 최고의 수능 출제 전문가 전원. 외부 차단 40일, 중도 이탈 불가. 오탈자도 시비도 없는 전국의 모든 지원자들에게 ‘공정한’ 문제 출제. 적중률 100%, 본인들이 직접 출제하니까. 40일간의 미션, “문제없는 문제”를 만들어라!",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1083624,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
       "showing": false
     },
     {
