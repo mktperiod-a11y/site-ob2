@@ -3,6 +3,99 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20262381",
+      "title": "사랑의 하츄핑: 고래보석의 전설",
+      "titleEn": "Heartsping: Legend of the Whale Heartstone",
+      "titleOriginal": "",
+      "openedAt": "2026-08-05",
+      "audienceAcc": 867933,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260824",
+      "lastSeenAt": "20260913",
+      "days": 9,
+      "bestRank": 5,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 105,
+      "directors": [
+        "김수훈"
+      ],
+      "cast": [
+        "이지현",
+        "조경이",
+        "여민정",
+        "심규혁",
+        "유혜지",
+        "장예나"
+      ],
+      "producers": [
+        "(주)에스에이엠지엔터테인먼트"
+      ],
+      "distributors": [
+        "(주)바이포엠스튜디오"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20262381.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "하츄핑과 단짝이 된 로미는 행복한 나날을 보내고 있지만 하고 싶은 일과 해야만 하는 일 사이에 매번 엄마(벨리타)와 의견이 달라 다투게 되고… 그러던 어느 날, 바다를 뒤흔드는 사건과 함께 엄마는 흔적도 없이 바닷속으로 사라진다. 한 마디 사과도, 한 번의 포옹도 건네지 못한 채 엄마를 잃은 로미. 처음 만나는 바다 앞에서 단짝 하츄핑, 바다소년 카이트, 세 마리의 티니핑들과 함께 용기를 내보는데… 찬란한 바다 도시, 거대한 심해 생명체들과 맞서야 하는 이들. 마침내 로미는 엄마가 한 번도 들려준 적 없던 비밀을 마주하게 된다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1436168,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": false
+    },
+    {
+      "movieCd": "20018158",
+      "title": "이누야샤 극장판: 시대를 초월한 마음",
+      "titleEn": "INUYASHA THE MOVIE: AFFECTIONS TOUCHING ACROSS TIME",
+      "titleOriginal": "犬夜叉 時代を超える想い",
+      "openedAt": "2026-09-09",
+      "audienceAcc": 19829,
+      "genres": [
+        "애니메이션",
+        "액션",
+        "어드벤처",
+        "판타지"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260909",
+      "lastSeenAt": "20260913",
+      "days": 5,
+      "bestRank": 6,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 100,
+      "directors": [
+        "시노하라 토시야"
+      ],
+      "cast": [
+        "야마구치 캇페이",
+        "유키노 사츠키"
+      ],
+      "producers": [],
+      "distributors": [
+        "씨제이 씨지브이(CJ CGV)(주)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20018158.webp",
+      "posterCredit": "CJ CGV",
+      "synopsis": "",
+      "synopsisCredit": "",
+      "tmdbId": null,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": false
+    },
+    {
       "movieCd": "20224597",
       "title": "아가미",
       "titleEn": "Gill",
