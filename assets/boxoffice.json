@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-10-29",
-  "latestDt": "20261029",
+  "updatedAt": "2026-10-30",
+  "latestDt": "20261030",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2362206,
+      "audienceAcc": 2393382,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261029",
-      "days": 33,
+      "lastSeenAt": "20261030",
+      "days": 34,
       "bestRank": 1,
-      "rank": 2,
-      "audienceDay": 19390,
+      "rank": 1,
+      "audienceDay": 31182,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3406692,
+      "audienceAcc": 3416348,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261029",
-      "days": 39,
+      "lastSeenAt": "20261030",
+      "days": 40,
       "bestRank": 1,
       "rank": 4,
-      "audienceDay": 7585,
+      "audienceDay": 9656,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -100,23 +100,71 @@
       "showing": true
     },
     {
+      "movieCd": "20250654",
+      "title": "오디세이",
+      "titleEn": "The Odyssey",
+      "titleOriginal": "",
+      "openedAt": "2026-08-05",
+      "audienceAcc": 12324783,
+      "genres": [
+        "액션",
+        "드라마",
+        "어드벤처"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260824",
+      "lastSeenAt": "20261030",
+      "days": 65,
+      "bestRank": 1,
+      "rank": 10,
+      "audienceDay": 2845,
+      "runtime": 172,
+      "directors": [
+        "크리스토퍼 놀란"
+      ],
+      "cast": [
+        "맷 데이먼",
+        "톰 홀랜드",
+        "앤 해서웨이",
+        "로버트 패틴슨",
+        "젠데이아 콜먼",
+        "샤를리즈 테론"
+      ],
+      "producers": [],
+      "distributors": [
+        "유니버설픽쳐스인터내셔널 코리아(유)"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20250654.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페넬로페'와 아들 '텔레마코스'에게 돌아가기 위한 여정에 나선다. 그러나 신들의 분노를 산 그의 귀환 앞에는 거대한 폭풍과 괴물들, 그리고 거스를 수 없는 운명의 시련이 기다리고 있는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1368337,
+      "score": 8,
+      "scoreBy": "TMDB",
+      "voteCount": 3939,
+      "showing": true
+    },
+    {
       "movieCd": "20256161",
       "title": "타짜: 벨제붑의 노래",
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 2029059,
+      "audienceAcc": 2035989,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261029",
-      "days": 41,
+      "lastSeenAt": "20261030",
+      "days": 42,
       "bestRank": 1,
       "rank": 5,
-      "audienceDay": 6366,
+      "audienceDay": 7163,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -154,18 +202,18 @@
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 52438,
+      "audienceAcc": 82524,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261029",
-      "days": 2,
+      "lastSeenAt": "20261030",
+      "days": 3,
       "bestRank": 1,
-      "rank": 1,
-      "audienceDay": 21463,
+      "rank": 2,
+      "audienceDay": 30077,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -197,18 +245,18 @@
       "titleEn": "PARADISE LOST",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 134366,
+      "audienceAcc": 139559,
       "genres": [
         "스릴러",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261029",
-      "days": 9,
+      "lastSeenAt": "20261030",
+      "days": 10,
       "bestRank": 2,
-      "rank": 6,
-      "audienceDay": 5516,
+      "rank": 7,
+      "audienceDay": 5183,
       "runtime": 100,
       "directors": [
         "연상호"
@@ -242,17 +290,17 @@
       "titleEn": "Ugly Duckling Ms. Maeng",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 26967,
+      "audienceAcc": 39510,
       "genres": [
         "코미디"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261029",
-      "days": 3,
+      "lastSeenAt": "20261030",
+      "days": 4,
       "bestRank": 3,
       "rank": 3,
-      "audienceDay": 10048,
+      "audienceDay": 12542,
       "runtime": 99,
       "directors": [
         "이용재"
@@ -280,9 +328,9 @@
       "synopsis": "수능 D-DAY, 정답은 이미 정해져 있다? 그 정답을 만드는 사람들이 지금 이 방에 모였습니다. 대한민국 최고의 수능 출제 전문가 전원. 외부 차단 40일, 중도 이탈 불가. 오탈자도 시비도 없는 전국의 모든 지원자들에게 ‘공정한’ 문제 출제. 적중률 100%, 본인들이 직접 출제하니까. 40일간의 미션, “문제없는 문제”를 만들어라!",
       "synopsisCredit": "TMDB",
       "tmdbId": 1083624,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
+      "score": 7,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
       "showing": true
     },
     {
@@ -291,18 +339,18 @@
       "titleEn": "Clayface",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 98823,
+      "audienceAcc": 103214,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261029",
-      "days": 10,
+      "lastSeenAt": "20261030",
+      "days": 11,
       "bestRank": 3,
       "rank": 8,
-      "audienceDay": 3188,
+      "audienceDay": 4391,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -335,18 +383,18 @@
       "titleEn": "Attack on Titan: Crimson Arrows",
       "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
       "openedAt": "2015-01-28",
-      "audienceAcc": 42061,
+      "audienceAcc": 48253,
       "genres": [
         "애니메이션",
         "판타지"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261029",
-      "days": 2,
+      "lastSeenAt": "20261030",
+      "days": 3,
       "bestRank": 4,
-      "rank": 7,
-      "audienceDay": 5348,
+      "rank": 6,
+      "audienceDay": 6192,
       "runtime": 119,
       "directors": [
         "아라키 테츠로"
@@ -371,6 +419,48 @@
       "showing": true
     },
     {
+      "movieCd": "20266764",
+      "title": "그대, 별처럼",
+      "titleEn": "You, Like a Star",
+      "titleOriginal": "汝、星のごとく",
+      "openedAt": "2026-10-28",
+      "audienceAcc": 13719,
+      "genres": [
+        "멜로/로맨스"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261030",
+      "days": 2,
+      "bestRank": 9,
+      "rank": 9,
+      "audienceDay": 3332,
+      "runtime": 134,
+      "directors": [
+        "후지이 미치히토"
+      ],
+      "cast": [
+        "요코하마 류세이",
+        "히로세 스즈"
+      ],
+      "producers": [],
+      "distributors": [
+        "롯데컬처웍스(주)롯데시네마"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20266764.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "아름다운 바다와 하늘이 펼쳐진 세토 내해의 어느 섬. 섬으로 전학 온 카이와, 이 섬에서 자란 아키미. 두 사람은 모두 축복받지 못한 가정환경 속에서 마음의 응어리를 안고 살아왔고, 서로에게 유일한 버팀목이 되어 사랑에 빠진다. 꿈을 이루기 위해 도쿄로 향하는 카이와, 가족을 위해 섬에 남아 일하는 아키미. 그런 두 사람에게 무정하게도 수많은 ‘갈림길’이 들이닥친다. “나는 사랑하는 사람을 위해 내 인생을 망치고 싶어.” 15년에 걸친 길고 긴 사랑의 끝에, 두 사람이 내린 선택은 무엇일까.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1590933,
+      "score": 8,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "showing": true
+    },
+    {
       "movieCd": "20266189",
       "title": "여전히 찬란하게",
       "titleEn": "STILL SHINING",
@@ -385,8 +475,8 @@
       "lastSeenAt": "20261029",
       "days": 9,
       "bestRank": 6,
-      "rank": 9,
-      "audienceDay": 3172,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 117,
       "directors": [
         "송일곤"
@@ -416,7 +506,7 @@
       "score": 10,
       "scoreBy": "TMDB",
       "voteCount": 1,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20259894",
@@ -433,8 +523,8 @@
       "lastSeenAt": "20261029",
       "days": 1,
       "bestRank": 10,
-      "rank": 10,
-      "audienceDay": 2753,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -456,101 +546,14 @@
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20259894.webp",
+      "posterCredit": "TMDB",
       "synopsis": "치열한 경쟁률을 뚫고 최종면접에 오른 6명의 지원자. 한 달간 팀 토론을 준비하며 전원 합격을 꿈꾸던 이들에게 제한시간 2시간 동안 단 1명의 합격자를 직접 뽑으라는 과제가 주어진다. 관찰 카메라의 압박 속에 합격자를 가려내기 위한 토론과 투표를 이어가던 중 그들은 각자의 이름이 적힌 의문의 봉투를 발견한다. 봉투가 열릴 때마다 진실을 알 수 없는 비밀들이 공개되고, 공정한 경쟁을 약속했던 최종면접은 걷잡을 수 없는 폭로전으로 치닫는데...",
       "synopsisCredit": "TMDB",
       "tmdbId": 1545057,
-      "poster": "assets/posters/20259894.webp",
-      "posterCredit": "TMDB"
-    },
-    {
-      "movieCd": "20266764",
-      "title": "그대, 별처럼",
-      "titleEn": "You, Like a Star",
-      "titleOriginal": "汝、星のごとく",
-      "openedAt": "2026-10-28",
-      "audienceAcc": 7699,
-      "genres": [
-        "멜로/로맨스"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261028",
-      "lastSeenAt": "20261028",
-      "days": 1,
-      "bestRank": 9,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 134,
-      "directors": [
-        "후지이 미치히토"
-      ],
-      "cast": [
-        "요코하마 류세이",
-        "히로세 스즈"
-      ],
-      "producers": [],
-      "distributors": [
-        "롯데컬처웍스(주)롯데시네마"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20266764.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "아름다운 바다와 하늘이 펼쳐진 세토 내해의 어느 섬. 섬으로 전학 온 카이와, 이 섬에서 자란 아키미. 두 사람은 모두 축복받지 못한 가정환경 속에서 마음의 응어리를 안고 살아왔고, 서로에게 유일한 버팀목이 되어 사랑에 빠진다. 꿈을 이루기 위해 도쿄로 향하는 카이와, 가족을 위해 섬에 남아 일하는 아키미. 그런 두 사람에게 무정하게도 수많은 ‘갈림길’이 들이닥친다. “나는 사랑하는 사람을 위해 내 인생을 망치고 싶어.” 15년에 걸친 길고 긴 사랑의 끝에, 두 사람이 내린 선택은 무엇일까.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1590933,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "voteCount": 1,
-      "showing": false
-    },
-    {
-      "movieCd": "20250654",
-      "title": "오디세이",
-      "titleEn": "The Odyssey",
-      "titleOriginal": "",
-      "openedAt": "2026-08-05",
-      "audienceAcc": 12317358,
-      "genres": [
-        "액션",
-        "드라마",
-        "어드벤처"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260824",
-      "lastSeenAt": "20261027",
-      "days": 64,
-      "bestRank": 1,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 172,
-      "directors": [
-        "크리스토퍼 놀란"
-      ],
-      "cast": [
-        "맷 데이먼",
-        "톰 홀랜드",
-        "앤 해서웨이",
-        "로버트 패틴슨",
-        "젠데이아 콜먼",
-        "샤를리즈 테론"
-      ],
-      "producers": [],
-      "distributors": [
-        "유니버설픽쳐스인터내셔널 코리아(유)"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20250654.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페넬로페'와 아들 '텔레마코스'에게 돌아가기 위한 여정에 나선다. 그러나 신들의 분노를 산 그의 귀환 앞에는 거대한 폭풍과 괴물들, 그리고 거스를 수 없는 운명의 시련이 기다리고 있는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1368337,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "voteCount": 3939,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
       "showing": false
     },
     {
@@ -2017,49 +2020,6 @@
       "score": 7.4,
       "scoreBy": "TMDB",
       "voteCount": 632,
-      "showing": false
-    },
-    {
-      "movieCd": "20265344",
-      "title": "오아시스: 돈 룩 백 인 앵거",
-      "titleEn": "OASIS: DON’T LOOK BACK IN ANGER",
-      "titleOriginal": "",
-      "openedAt": "2026-09-09",
-      "audienceAcc": 17173,
-      "genres": [
-        "다큐멘터리"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260909",
-      "lastSeenAt": "20260914",
-      "days": 4,
-      "bestRank": 7,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 122,
-      "directors": [
-        "딜리안 서던",
-        "윌 로벨라스"
-      ],
-      "cast": [
-        "노엘 갤러거",
-        "리암 갤러거"
-      ],
-      "producers": [],
-      "distributors": [
-        "월트디즈니컴퍼니코리아 유한책임회사"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20265344.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "리암 갤러거와 노엘 갤러거의 재결합 소식 이후 전 세계가 가장 기다려왔던 공연 ‘Oasis Live ’25 Tour’의 여정을 따라가는 다큐멘터리 영화",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1447853,
-      "score": 7.4,
-      "scoreBy": "TMDB",
-      "voteCount": 19,
       "showing": false
     }
   ]

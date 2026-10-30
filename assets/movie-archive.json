@@ -3,6 +3,49 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20265344",
+      "title": "오아시스: 돈 룩 백 인 앵거",
+      "titleEn": "OASIS: DON’T LOOK BACK IN ANGER",
+      "titleOriginal": "",
+      "openedAt": "2026-09-09",
+      "audienceAcc": 17173,
+      "genres": [
+        "다큐멘터리"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260909",
+      "lastSeenAt": "20260914",
+      "days": 4,
+      "bestRank": 7,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 122,
+      "directors": [
+        "딜리안 서던",
+        "윌 로벨라스"
+      ],
+      "cast": [
+        "노엘 갤러거",
+        "리암 갤러거"
+      ],
+      "producers": [],
+      "distributors": [
+        "월트디즈니컴퍼니코리아 유한책임회사"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20265344.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "리암 갤러거와 노엘 갤러거의 재결합 소식 이후 전 세계가 가장 기다려왔던 공연 ‘Oasis Live ’25 Tour’의 여정을 따라가는 다큐멘터리 영화",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1447853,
+      "score": 7.4,
+      "scoreBy": "TMDB",
+      "voteCount": 19,
+      "showing": false
+    },
+    {
       "movieCd": "20262381",
       "title": "사랑의 하츄핑: 고래보석의 전설",
       "titleEn": "Heartsping: Legend of the Whale Heartstone",
@@ -47,8 +90,7 @@
       "tmdbId": 1436168,
       "score": null,
       "scoreBy": "",
-      "voteCount": null,
-      "showing": false
+      "voteCount": null
     },
     {
       "movieCd": "20018158",
@@ -92,8 +134,7 @@
       "tmdbId": null,
       "score": null,
       "scoreBy": "",
-      "voteCount": null,
-      "showing": false
+      "voteCount": null
     },
     {
       "movieCd": "20224597",
