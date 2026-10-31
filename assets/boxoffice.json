@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-10-30",
-  "latestDt": "20261030",
+  "updatedAt": "2026-10-31",
+  "latestDt": "20261031",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2393382,
+      "audienceAcc": 2490827,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261030",
-      "days": 34,
+      "lastSeenAt": "20261031",
+      "days": 35,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 31182,
+      "audienceDay": 97446,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3416348,
+      "audienceAcc": 3432763,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261030",
-      "days": 40,
+      "lastSeenAt": "20261031",
+      "days": 41,
       "bestRank": 1,
       "rank": 4,
-      "audienceDay": 9656,
+      "audienceDay": 16413,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -105,7 +105,7 @@
       "titleEn": "The Odyssey",
       "titleOriginal": "",
       "openedAt": "2026-08-05",
-      "audienceAcc": 12324783,
+      "audienceAcc": 12330170,
       "genres": [
         "액션",
         "드라마",
@@ -113,11 +113,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20260824",
-      "lastSeenAt": "20261030",
-      "days": 65,
+      "lastSeenAt": "20261031",
+      "days": 66,
       "bestRank": 1,
-      "rank": 10,
-      "audienceDay": 2845,
+      "rank": 9,
+      "audienceDay": 5387,
       "runtime": 172,
       "directors": [
         "크리스토퍼 놀란"
@@ -153,18 +153,18 @@
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 2035989,
+      "audienceAcc": 2046482,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261030",
-      "days": 42,
+      "lastSeenAt": "20261031",
+      "days": 43,
       "bestRank": 1,
-      "rank": 5,
-      "audienceDay": 7163,
+      "rank": 6,
+      "audienceDay": 10493,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,18 +202,18 @@
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 82524,
+      "audienceAcc": 151255,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261030",
-      "days": 3,
+      "lastSeenAt": "20261031",
+      "days": 4,
       "bestRank": 1,
       "rank": 2,
-      "audienceDay": 30077,
+      "audienceDay": 68711,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -245,18 +245,18 @@
       "titleEn": "PARADISE LOST",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 139559,
+      "audienceAcc": 146214,
       "genres": [
         "스릴러",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261030",
-      "days": 10,
+      "lastSeenAt": "20261031",
+      "days": 11,
       "bestRank": 2,
-      "rank": 7,
-      "audienceDay": 5183,
+      "rank": 8,
+      "audienceDay": 6647,
       "runtime": 100,
       "directors": [
         "연상호"
@@ -290,17 +290,17 @@
       "titleEn": "Ugly Duckling Ms. Maeng",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 39510,
+      "audienceAcc": 56559,
       "genres": [
         "코미디"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261030",
-      "days": 4,
+      "lastSeenAt": "20261031",
+      "days": 5,
       "bestRank": 3,
       "rank": 3,
-      "audienceDay": 12542,
+      "audienceDay": 17048,
       "runtime": 99,
       "directors": [
         "이용재"
@@ -339,18 +339,18 @@
       "titleEn": "Clayface",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 103214,
+      "audienceAcc": 110076,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261030",
-      "days": 11,
+      "lastSeenAt": "20261031",
+      "days": 12,
       "bestRank": 3,
-      "rank": 8,
-      "audienceDay": 4391,
+      "rank": 7,
+      "audienceDay": 6862,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -378,23 +378,67 @@
       "showing": true
     },
     {
+      "movieCd": "20265062",
+      "title": "룩백",
+      "titleEn": "Look Back",
+      "titleOriginal": "",
+      "openedAt": "2026-10-08",
+      "audienceAcc": 145976,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261008",
+      "lastSeenAt": "20261031",
+      "days": 20,
+      "bestRank": 4,
+      "rank": 10,
+      "audienceDay": 3541,
+      "runtime": 100,
+      "directors": [
+        "고레에다 히로카즈"
+      ],
+      "cast": [
+        "데구치 나츠키",
+        "마키타 아쥬",
+        "나나세 후리",
+        "오카다 로카"
+      ],
+      "producers": [],
+      "distributors": [
+        "메가박스중앙(주)"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20265062.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "학교 신문에서 네컷 만화를 그리는 자신만만한 소녀 ‘후지노’와 그를 동경하지만 세상 밖이 두려워 방 안에 틀어박힌 외톨이 ‘쿄모토’. “너는 왜 만화를 그리는 거야?” 만화가 세상의 전부였던 그 시절, 두 소녀의 사계절이 눈부신 색깔로 채워지기 시작한다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1591675,
+      "score": 8,
+      "scoreBy": "TMDB",
+      "voteCount": 14,
+      "showing": true
+    },
+    {
       "movieCd": "20155762",
       "title": "진격의 거인: 홍련의 화살",
       "titleEn": "Attack on Titan: Crimson Arrows",
       "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
       "openedAt": "2015-01-28",
-      "audienceAcc": 48253,
+      "audienceAcc": 60866,
       "genres": [
         "애니메이션",
         "판타지"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261030",
-      "days": 3,
+      "lastSeenAt": "20261031",
+      "days": 4,
       "bestRank": 4,
-      "rank": 6,
-      "audienceDay": 6192,
+      "rank": 5,
+      "audienceDay": 12613,
       "runtime": 119,
       "directors": [
         "아라키 테츠로"
@@ -433,8 +477,8 @@
       "lastSeenAt": "20261030",
       "days": 2,
       "bestRank": 9,
-      "rank": 9,
-      "audienceDay": 3332,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 134,
       "directors": [
         "후지이 미치히토"
@@ -458,7 +502,7 @@
       "score": 8,
       "scoreBy": "TMDB",
       "voteCount": 1,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20266189",
@@ -603,50 +647,6 @@
       "score": 7,
       "scoreBy": "TMDB",
       "voteCount": 3,
-      "showing": false
-    },
-    {
-      "movieCd": "20265062",
-      "title": "룩백",
-      "titleEn": "Look Back",
-      "titleOriginal": "",
-      "openedAt": "2026-10-08",
-      "audienceAcc": 135600,
-      "genres": [
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261008",
-      "lastSeenAt": "20261027",
-      "days": 19,
-      "bestRank": 4,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 100,
-      "directors": [
-        "고레에다 히로카즈"
-      ],
-      "cast": [
-        "데구치 나츠키",
-        "마키타 아쥬",
-        "나나세 후리",
-        "오카다 로카"
-      ],
-      "producers": [],
-      "distributors": [
-        "메가박스중앙(주)"
-      ],
-      "rating": "전체관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20265062.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "학교 신문에서 네컷 만화를 그리는 자신만만한 소녀 ‘후지노’와 그를 동경하지만 세상 밖이 두려워 방 안에 틀어박힌 외톨이 ‘쿄모토’. “너는 왜 만화를 그리는 거야?” 만화가 세상의 전부였던 그 시절, 두 소녀의 사계절이 눈부신 색깔로 채워지기 시작한다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1591675,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "voteCount": 14,
       "showing": false
     },
     {
@@ -1836,190 +1836,6 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": false
-    },
-    {
-      "movieCd": "20247458",
-      "title": "경주기행",
-      "titleEn": "The Journey to Gyeongju",
-      "titleOriginal": "",
-      "openedAt": "2026-08-26",
-      "audienceAcc": 338089,
-      "genres": [
-        "범죄"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260826",
-      "lastSeenAt": "20260915",
-      "days": 21,
-      "bestRank": 3,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 110,
-      "directors": [
-        "김미조"
-      ],
-      "cast": [
-        "이정은",
-        "공효진",
-        "박소담",
-        "이연",
-        "변요한"
-      ],
-      "producers": [
-        "㈜스튜디오 하이파이브"
-      ],
-      "distributors": [
-        "롯데컬처웍스(주)롯데엔터테인먼트"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20247458.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "엄마 옥실과 세 딸 장주, 영주, 동주는 8년 전 수학여행을 떠난 이후 다시는 돌아오지 못한 막내 경주의 생일을 맞아 단체 티셔츠까지 맞춰 입고 경주로 가족여행을 떠난다. 얼핏 단란하고 화목한 가족여행처럼 보이지만, 봉고차 트렁크에는 낯선 한 남자가 실려 있는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1235769,
-      "score": 9,
-      "scoreBy": "TMDB",
-      "voteCount": 2,
-      "showing": false
-    },
-    {
-      "movieCd": "20204641",
-      "title": "비광",
-      "titleEn": "PORTRAIT OF A FAMILY",
-      "titleOriginal": "",
-      "openedAt": "2026-09-02",
-      "audienceAcc": 100040,
-      "genres": [
-        "드라마",
-        "가족"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260824",
-      "lastSeenAt": "20260915",
-      "days": 12,
-      "bestRank": 4,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 109,
-      "directors": [
-        "이지원"
-      ],
-      "cast": [
-        "류승룡",
-        "하지원",
-        "김시아",
-        "김해숙",
-        "김선영",
-        "김영민"
-      ],
-      "producers": [
-        "에이스팩토리",
-        "(주)지오필름",
-        "(주)케이무비스튜디오"
-      ],
-      "distributors": [
-        "(주)엠디에스스피어",
-        "(주)콘텐츠지오"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20204641.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "톱스타 부부 중구와 남미가 갑자기 나타난 중구의 딸 동주로 인해 파경을 맞은 뒤 8년 후 충격적인 사건에 휘말린 동주를 구하기 위해 마지막 남은 모든 것을 걸고 진실을 파헤치는 ‘미쓰백’ 이지원 감독의 찐한 가족 연대기",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 665669,
-      "score": 7,
-      "scoreBy": "TMDB",
-      "voteCount": 3,
-      "showing": false
-    },
-    {
-      "movieCd": "20264918",
-      "title": "싱 어게인",
-      "titleEn": "Power Ballad",
-      "titleOriginal": "",
-      "openedAt": "2026-09-02",
-      "audienceAcc": 94795,
-      "genres": [
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260902",
-      "lastSeenAt": "20260915",
-      "days": 14,
-      "bestRank": 4,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 98,
-      "directors": [
-        "존 카니"
-      ],
-      "cast": [
-        "폴 러드",
-        "닉 조나스"
-      ],
-      "producers": [],
-      "distributors": [
-        "(주)바이포엠스튜디오"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20264918.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "팝스타의 꿈은 접었지만 음악만은 놓지 못한 무명 축가 가수, 릭. 한땐 잘나갔지만 지금은 나락 직전인 팝스타, 대니. 우연히 만난 두 사람, 그들이 완성한 단 하나의 노래. 하지만 그 곡은 오직 대니의 이름으로만 세상에 알려지는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1284016,
-      "score": 7.1,
-      "scoreBy": "TMDB",
-      "voteCount": 108,
-      "showing": false
-    },
-    {
-      "movieCd": "20264915",
-      "title": "딥 워터",
-      "titleEn": "Deep water",
-      "titleOriginal": "",
-      "openedAt": "2026-09-09",
-      "audienceAcc": 15045,
-      "genres": [
-        "스릴러",
-        "공포(호러)"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260909",
-      "lastSeenAt": "20260915",
-      "days": 2,
-      "bestRank": 9,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 106,
-      "directors": [
-        "레니 할린"
-      ],
-      "cast": [
-        "아론 에크하트",
-        "벤 킹슬리"
-      ],
-      "producers": [],
-      "distributors": [
-        "(주)디스테이션"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20264915.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "로스앤젤레스발 상하이행 여객기가 화재로 폭발하며 태평양 한복판에 추락한다. 기적적으로 살아남은 승객들. 그러나 침몰하는 기체, 굶주린 식인 상어 떼 속에서 이제부터는 진짜 기적을 바라야 하는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1127384,
-      "score": 7.4,
-      "scoreBy": "TMDB",
-      "voteCount": 632,
       "showing": false
     }
   ]

@@ -3,6 +3,190 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20247458",
+      "title": "경주기행",
+      "titleEn": "The Journey to Gyeongju",
+      "titleOriginal": "",
+      "openedAt": "2026-08-26",
+      "audienceAcc": 338089,
+      "genres": [
+        "범죄"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260826",
+      "lastSeenAt": "20260915",
+      "days": 21,
+      "bestRank": 3,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 110,
+      "directors": [
+        "김미조"
+      ],
+      "cast": [
+        "이정은",
+        "공효진",
+        "박소담",
+        "이연",
+        "변요한"
+      ],
+      "producers": [
+        "㈜스튜디오 하이파이브"
+      ],
+      "distributors": [
+        "롯데컬처웍스(주)롯데엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20247458.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "엄마 옥실과 세 딸 장주, 영주, 동주는 8년 전 수학여행을 떠난 이후 다시는 돌아오지 못한 막내 경주의 생일을 맞아 단체 티셔츠까지 맞춰 입고 경주로 가족여행을 떠난다. 얼핏 단란하고 화목한 가족여행처럼 보이지만, 봉고차 트렁크에는 낯선 한 남자가 실려 있는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1235769,
+      "score": 9,
+      "scoreBy": "TMDB",
+      "voteCount": 2,
+      "showing": false
+    },
+    {
+      "movieCd": "20264915",
+      "title": "딥 워터",
+      "titleEn": "Deep water",
+      "titleOriginal": "",
+      "openedAt": "2026-09-09",
+      "audienceAcc": 15045,
+      "genres": [
+        "스릴러",
+        "공포(호러)"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260909",
+      "lastSeenAt": "20260915",
+      "days": 2,
+      "bestRank": 9,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 106,
+      "directors": [
+        "레니 할린"
+      ],
+      "cast": [
+        "아론 에크하트",
+        "벤 킹슬리"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)디스테이션"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264915.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "로스앤젤레스발 상하이행 여객기가 화재로 폭발하며 태평양 한복판에 추락한다. 기적적으로 살아남은 승객들. 그러나 침몰하는 기체, 굶주린 식인 상어 떼 속에서 이제부터는 진짜 기적을 바라야 하는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1127384,
+      "score": 7.4,
+      "scoreBy": "TMDB",
+      "voteCount": 632,
+      "showing": false
+    },
+    {
+      "movieCd": "20204641",
+      "title": "비광",
+      "titleEn": "PORTRAIT OF A FAMILY",
+      "titleOriginal": "",
+      "openedAt": "2026-09-02",
+      "audienceAcc": 100040,
+      "genres": [
+        "드라마",
+        "가족"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260824",
+      "lastSeenAt": "20260915",
+      "days": 12,
+      "bestRank": 4,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 109,
+      "directors": [
+        "이지원"
+      ],
+      "cast": [
+        "류승룡",
+        "하지원",
+        "김시아",
+        "김해숙",
+        "김선영",
+        "김영민"
+      ],
+      "producers": [
+        "에이스팩토리",
+        "(주)지오필름",
+        "(주)케이무비스튜디오"
+      ],
+      "distributors": [
+        "(주)엠디에스스피어",
+        "(주)콘텐츠지오"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20204641.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "톱스타 부부 중구와 남미가 갑자기 나타난 중구의 딸 동주로 인해 파경을 맞은 뒤 8년 후 충격적인 사건에 휘말린 동주를 구하기 위해 마지막 남은 모든 것을 걸고 진실을 파헤치는 ‘미쓰백’ 이지원 감독의 찐한 가족 연대기",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 665669,
+      "score": 7,
+      "scoreBy": "TMDB",
+      "voteCount": 3,
+      "showing": false
+    },
+    {
+      "movieCd": "20264918",
+      "title": "싱 어게인",
+      "titleEn": "Power Ballad",
+      "titleOriginal": "",
+      "openedAt": "2026-09-02",
+      "audienceAcc": 94795,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260902",
+      "lastSeenAt": "20260915",
+      "days": 14,
+      "bestRank": 4,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 98,
+      "directors": [
+        "존 카니"
+      ],
+      "cast": [
+        "폴 러드",
+        "닉 조나스"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)바이포엠스튜디오"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264918.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "팝스타의 꿈은 접었지만 음악만은 놓지 못한 무명 축가 가수, 릭. 한땐 잘나갔지만 지금은 나락 직전인 팝스타, 대니. 우연히 만난 두 사람, 그들이 완성한 단 하나의 노래. 하지만 그 곡은 오직 대니의 이름으로만 세상에 알려지는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1284016,
+      "score": 7.1,
+      "scoreBy": "TMDB",
+      "voteCount": 108,
+      "showing": false
+    },
+    {
       "movieCd": "20265344",
       "title": "오아시스: 돈 룩 백 인 앵거",
       "titleEn": "OASIS: DON’T LOOK BACK IN ANGER",
@@ -42,8 +226,7 @@
       "tmdbId": 1447853,
       "score": 7.4,
       "scoreBy": "TMDB",
-      "voteCount": 19,
-      "showing": false
+      "voteCount": 19
     },
     {
       "movieCd": "20262381",
