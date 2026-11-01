@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-10-31",
-  "latestDt": "20261031",
+  "updatedAt": "2026-11-01",
+  "latestDt": "20261101",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2490827,
+      "audienceAcc": 2583840,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261031",
-      "days": 35,
+      "lastSeenAt": "20261101",
+      "days": 36,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 97446,
+      "audienceDay": 92997,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3432763,
+      "audienceAcc": 3447944,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261031",
-      "days": 41,
+      "lastSeenAt": "20261101",
+      "days": 42,
       "bestRank": 1,
       "rank": 4,
-      "audienceDay": 16413,
+      "audienceDay": 15174,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -105,7 +105,7 @@
       "titleEn": "The Odyssey",
       "titleOriginal": "",
       "openedAt": "2026-08-05",
-      "audienceAcc": 12330170,
+      "audienceAcc": 12335269,
       "genres": [
         "액션",
         "드라마",
@@ -113,11 +113,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20260824",
-      "lastSeenAt": "20261031",
-      "days": 66,
+      "lastSeenAt": "20261101",
+      "days": 67,
       "bestRank": 1,
       "rank": 9,
-      "audienceDay": 5387,
+      "audienceDay": 5100,
       "runtime": 172,
       "directors": [
         "크리스토퍼 놀란"
@@ -153,18 +153,18 @@
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 2046482,
+      "audienceAcc": 2055475,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261031",
-      "days": 43,
+      "lastSeenAt": "20261101",
+      "days": 44,
       "bestRank": 1,
       "rank": 6,
-      "audienceDay": 10493,
+      "audienceDay": 8990,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,18 +202,18 @@
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 151255,
+      "audienceAcc": 215214,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261031",
-      "days": 4,
+      "lastSeenAt": "20261101",
+      "days": 5,
       "bestRank": 1,
       "rank": 2,
-      "audienceDay": 68711,
+      "audienceDay": 63937,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -245,18 +245,18 @@
       "titleEn": "PARADISE LOST",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 146214,
+      "audienceAcc": 151424,
       "genres": [
         "스릴러",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261031",
-      "days": 11,
+      "lastSeenAt": "20261101",
+      "days": 12,
       "bestRank": 2,
       "rank": 8,
-      "audienceDay": 6647,
+      "audienceDay": 5202,
       "runtime": 100,
       "directors": [
         "연상호"
@@ -290,17 +290,17 @@
       "titleEn": "Ugly Duckling Ms. Maeng",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 56559,
+      "audienceAcc": 71760,
       "genres": [
         "코미디"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261031",
-      "days": 5,
+      "lastSeenAt": "20261101",
+      "days": 6,
       "bestRank": 3,
       "rank": 3,
-      "audienceDay": 17048,
+      "audienceDay": 15195,
       "runtime": 99,
       "directors": [
         "이용재"
@@ -339,18 +339,18 @@
       "titleEn": "Clayface",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 110076,
+      "audienceAcc": 115464,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261031",
-      "days": 12,
+      "lastSeenAt": "20261101",
+      "days": 13,
       "bestRank": 3,
       "rank": 7,
-      "audienceDay": 6862,
+      "audienceDay": 5388,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -378,6 +378,95 @@
       "showing": true
     },
     {
+      "movieCd": "20155762",
+      "title": "진격의 거인: 홍련의 화살",
+      "titleEn": "Attack on Titan: Crimson Arrows",
+      "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
+      "openedAt": "2015-01-28",
+      "audienceAcc": 72324,
+      "genres": [
+        "애니메이션",
+        "판타지"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261101",
+      "days": 5,
+      "bestRank": 4,
+      "rank": 5,
+      "audienceDay": 11458,
+      "runtime": 119,
+      "directors": [
+        "아라키 테츠로"
+      ],
+      "cast": [],
+      "producers": [],
+      "distributors": [
+        "씨제이 씨지브이(CJ CGV)(주)",
+        "(주)박수엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20155762.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "무차별적으로 잡아먹는 식인 거인들이 나타나면서 멸망 위기에 놓인 인간 세계. 인간들은 그들을 피해 50미터의 거대한 벽을 쌓은 채 그 속에서 살아간다. 100년여 동안 평화 아닌 평화를 지켜 가며 숨죽여 살아가지만, 벽 밖의 세계가 궁금한 어린 ‘엘런 예거’는 새장에 갇힌 새처럼 사는 현실이 싫어 가족과 어릴 때부터 자신을 지켜 주었던 ‘미카사 아커만’의 반대 속에서도 그곳을 벗어나겠다는 고집을 꺾지 않는다. 이 때, 초대형 거인과 갑옷 거인이 나타나면서 허울뿐인 평화는 부서지는 벽과 함께 무참히 깨져 버린다. 거인들이 첫 번째 벽, 월 마리아를 부수고 안으로 들어오면서 절규와 죽음이 가득한 지옥 같은 상황이 이어지고, 눈 앞에서 잔혹하게 잡아 먹히는 어머니를 본 ‘엘런 예거’는 그들에게 복수를 다짐한다. 결국 두 번째 벽, 월 로제 안으로 도망친 '엘런 예거' 와 '미카사' 등은 훈련병에 지원하고 혹독한 수련을 거듭하며 거인에게 복수할 수 있는 힘을 키워나간다. 그리고 5년 후, 그들이 훈련병을 졸업하고 한 명의 병사로서 태어나는 바로 그날, 월 마리아를 파괴했던 초대형 거인이 '엘런' 앞에 다시 모습을 드러냈다. 과연 거인들은 어디로부터 오는가? 진짜 전쟁은 지금부터 시작이다!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 379088,
+      "score": 8.1,
+      "scoreBy": "TMDB",
+      "voteCount": 555,
+      "showing": true
+    },
+    {
+      "movieCd": "20259894",
+      "title": "최종면접 ",
+      "titleEn": "Final Interview",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 14574,
+      "genres": [
+        "미스터리"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261029",
+      "lastSeenAt": "20261101",
+      "days": 2,
+      "bestRank": 10,
+      "rank": 10,
+      "audienceDay": 3744,
+      "runtime": 107,
+      "directors": [
+        "김정훈"
+      ],
+      "cast": [
+        "조이현",
+        "김재원",
+        "신승호",
+        "강유석",
+        "곽동연",
+        "배강희"
+      ],
+      "producers": [
+        "커버넌트픽처스(주)"
+      ],
+      "distributors": [
+        "(주)넥스트엔터테인먼트월드(NEW)"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20259894.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "치열한 경쟁률을 뚫고 최종면접에 오른 6명의 지원자. 한 달간 팀 토론을 준비하며 전원 합격을 꿈꾸던 이들에게 제한시간 2시간 동안 단 1명의 합격자를 직접 뽑으라는 과제가 주어진다. 관찰 카메라의 압박 속에 합격자를 가려내기 위한 토론과 투표를 이어가던 중 그들은 각자의 이름이 적힌 의문의 봉투를 발견한다. 봉투가 열릴 때마다 진실을 알 수 없는 비밀들이 공개되고, 공정한 경쟁을 약속했던 최종면접은 걷잡을 수 없는 폭로전으로 치닫는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1545057,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
       "movieCd": "20265062",
       "title": "룩백",
       "titleEn": "Look Back",
@@ -392,8 +481,8 @@
       "lastSeenAt": "20261031",
       "days": 20,
       "bestRank": 4,
-      "rank": 10,
-      "audienceDay": 3541,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 100,
       "directors": [
         "고레에다 히로카즈"
@@ -419,48 +508,7 @@
       "score": 8,
       "scoreBy": "TMDB",
       "voteCount": 14,
-      "showing": true
-    },
-    {
-      "movieCd": "20155762",
-      "title": "진격의 거인: 홍련의 화살",
-      "titleEn": "Attack on Titan: Crimson Arrows",
-      "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
-      "openedAt": "2015-01-28",
-      "audienceAcc": 60866,
-      "genres": [
-        "애니메이션",
-        "판타지"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261028",
-      "lastSeenAt": "20261031",
-      "days": 4,
-      "bestRank": 4,
-      "rank": 5,
-      "audienceDay": 12613,
-      "runtime": 119,
-      "directors": [
-        "아라키 테츠로"
-      ],
-      "cast": [],
-      "producers": [],
-      "distributors": [
-        "씨제이 씨지브이(CJ CGV)(주)",
-        "(주)박수엔터테인먼트"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20155762.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "무차별적으로 잡아먹는 식인 거인들이 나타나면서 멸망 위기에 놓인 인간 세계. 인간들은 그들을 피해 50미터의 거대한 벽을 쌓은 채 그 속에서 살아간다. 100년여 동안 평화 아닌 평화를 지켜 가며 숨죽여 살아가지만, 벽 밖의 세계가 궁금한 어린 ‘엘런 예거’는 새장에 갇힌 새처럼 사는 현실이 싫어 가족과 어릴 때부터 자신을 지켜 주었던 ‘미카사 아커만’의 반대 속에서도 그곳을 벗어나겠다는 고집을 꺾지 않는다. 이 때, 초대형 거인과 갑옷 거인이 나타나면서 허울뿐인 평화는 부서지는 벽과 함께 무참히 깨져 버린다. 거인들이 첫 번째 벽, 월 마리아를 부수고 안으로 들어오면서 절규와 죽음이 가득한 지옥 같은 상황이 이어지고, 눈 앞에서 잔혹하게 잡아 먹히는 어머니를 본 ‘엘런 예거’는 그들에게 복수를 다짐한다. 결국 두 번째 벽, 월 로제 안으로 도망친 '엘런 예거' 와 '미카사' 등은 훈련병에 지원하고 혹독한 수련을 거듭하며 거인에게 복수할 수 있는 힘을 키워나간다. 그리고 5년 후, 그들이 훈련병을 졸업하고 한 명의 병사로서 태어나는 바로 그날, 월 마리아를 파괴했던 초대형 거인이 '엘런' 앞에 다시 모습을 드러냈다. 과연 거인들은 어디로부터 오는가? 진짜 전쟁은 지금부터 시작이다!",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 379088,
-      "score": 8.1,
-      "scoreBy": "TMDB",
-      "voteCount": 555,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20266764",
@@ -550,54 +598,6 @@
       "score": 10,
       "scoreBy": "TMDB",
       "voteCount": 1,
-      "showing": false
-    },
-    {
-      "movieCd": "20259894",
-      "title": "최종면접 ",
-      "titleEn": "Final Interview",
-      "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 6353,
-      "genres": [
-        "미스터리"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261029",
-      "lastSeenAt": "20261029",
-      "days": 1,
-      "bestRank": 10,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 107,
-      "directors": [
-        "김정훈"
-      ],
-      "cast": [
-        "조이현",
-        "김재원",
-        "신승호",
-        "강유석",
-        "곽동연",
-        "배강희"
-      ],
-      "producers": [
-        "커버넌트픽처스(주)"
-      ],
-      "distributors": [
-        "(주)넥스트엔터테인먼트월드(NEW)"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20259894.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "치열한 경쟁률을 뚫고 최종면접에 오른 6명의 지원자. 한 달간 팀 토론을 준비하며 전원 합격을 꿈꾸던 이들에게 제한시간 2시간 동안 단 1명의 합격자를 직접 뽑으라는 과제가 주어진다. 관찰 카메라의 압박 속에 합격자를 가려내기 위한 토론과 투표를 이어가던 중 그들은 각자의 이름이 적힌 의문의 봉투를 발견한다. 봉투가 열릴 때마다 진실을 알 수 없는 비밀들이 공개되고, 공정한 경쟁을 약속했던 최종면접은 걷잡을 수 없는 폭로전으로 치닫는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1545057,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
       "showing": false
     },
     {
@@ -1786,56 +1786,6 @@
       "score": 7.6,
       "scoreBy": "TMDB",
       "voteCount": 97,
-      "showing": false
-    },
-    {
-      "movieCd": "20258102",
-      "title": "철들 무렵",
-      "titleEn": "Coming of Age",
-      "titleOriginal": "",
-      "openedAt": "2026-09-16",
-      "audienceAcc": 3341,
-      "genres": [
-        "드라마",
-        "가족"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260916",
-      "lastSeenAt": "20260916",
-      "days": 1,
-      "bestRank": 10,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 104,
-      "directors": [
-        "정승오"
-      ],
-      "cast": [
-        "기주봉",
-        "하윤경",
-        "양말복",
-        "원미원",
-        "김종구",
-        "김하언"
-      ],
-      "producers": [
-        "주마등필름",
-        "㈜인디스토리"
-      ],
-      "distributors": [
-        "㈜인디스토리"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20258102.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "용접기사 철택이 암 말기 선고를 받는다. 이 소식은 단역배우인 외동딸 정미뿐만 아니라, 철택과 사실상 이혼한 상태로 공무원 은퇴 후 노후를 즐기던 현숙, 구순을 앞둔 현숙의 어머니 옥남, 철택의 친형 관택과 관택의 손자 동민의 삶까지 영향을 미치기 시작한다. 멀리 지내던 양가 가족들은 과거를 반추하며, 서로에게 곪아 있던 마음의 고름과 마주하게 되는데… 죽음의 그림자와 함께 찾아온 이들의 시간, ‘철들 무렵’이다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1532365,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
       "showing": false
     }
   ]

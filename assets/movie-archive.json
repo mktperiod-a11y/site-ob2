@@ -3,6 +3,56 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20258102",
+      "title": "철들 무렵",
+      "titleEn": "Coming of Age",
+      "titleOriginal": "",
+      "openedAt": "2026-09-16",
+      "audienceAcc": 3341,
+      "genres": [
+        "드라마",
+        "가족"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260916",
+      "lastSeenAt": "20260916",
+      "days": 1,
+      "bestRank": 10,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 104,
+      "directors": [
+        "정승오"
+      ],
+      "cast": [
+        "기주봉",
+        "하윤경",
+        "양말복",
+        "원미원",
+        "김종구",
+        "김하언"
+      ],
+      "producers": [
+        "주마등필름",
+        "㈜인디스토리"
+      ],
+      "distributors": [
+        "㈜인디스토리"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20258102.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "용접기사 철택이 암 말기 선고를 받는다. 이 소식은 단역배우인 외동딸 정미뿐만 아니라, 철택과 사실상 이혼한 상태로 공무원 은퇴 후 노후를 즐기던 현숙, 구순을 앞둔 현숙의 어머니 옥남, 철택의 친형 관택과 관택의 손자 동민의 삶까지 영향을 미치기 시작한다. 멀리 지내던 양가 가족들은 과거를 반추하며, 서로에게 곪아 있던 마음의 고름과 마주하게 되는데… 죽음의 그림자와 함께 찾아온 이들의 시간, ‘철들 무렵’이다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1532365,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": false
+    },
+    {
       "movieCd": "20247458",
       "title": "경주기행",
       "titleEn": "The Journey to Gyeongju",
@@ -46,8 +96,7 @@
       "tmdbId": 1235769,
       "score": 9,
       "scoreBy": "TMDB",
-      "voteCount": 2,
-      "showing": false
+      "voteCount": 2
     },
     {
       "movieCd": "20264915",
@@ -89,8 +138,7 @@
       "tmdbId": 1127384,
       "score": 7.4,
       "scoreBy": "TMDB",
-      "voteCount": 632,
-      "showing": false
+      "voteCount": 632
     },
     {
       "movieCd": "20204641",
@@ -141,8 +189,7 @@
       "tmdbId": 665669,
       "score": 7,
       "scoreBy": "TMDB",
-      "voteCount": 3,
-      "showing": false
+      "voteCount": 3
     },
     {
       "movieCd": "20264918",
@@ -183,8 +230,7 @@
       "tmdbId": 1284016,
       "score": 7.1,
       "scoreBy": "TMDB",
-      "voteCount": 108,
-      "showing": false
+      "voteCount": 108
     },
     {
       "movieCd": "20265344",
