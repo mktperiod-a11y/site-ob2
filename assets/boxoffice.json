@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-01",
-  "latestDt": "20261101",
+  "updatedAt": "2026-11-02",
+  "latestDt": "20261102",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2583840,
+      "audienceAcc": 2599013,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261101",
-      "days": 36,
+      "lastSeenAt": "20261102",
+      "days": 37,
       "bestRank": 1,
-      "rank": 1,
-      "audienceDay": 92997,
+      "rank": 2,
+      "audienceDay": 15158,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3447944,
+      "audienceAcc": 3453120,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261101",
-      "days": 42,
+      "lastSeenAt": "20261102",
+      "days": 43,
       "bestRank": 1,
-      "rank": 4,
-      "audienceDay": 15174,
+      "rank": 3,
+      "audienceDay": 5163,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -105,7 +105,7 @@
       "titleEn": "The Odyssey",
       "titleOriginal": "",
       "openedAt": "2026-08-05",
-      "audienceAcc": 12335269,
+      "audienceAcc": 12337120,
       "genres": [
         "액션",
         "드라마",
@@ -113,11 +113,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20260824",
-      "lastSeenAt": "20261101",
-      "days": 67,
+      "lastSeenAt": "20261102",
+      "days": 68,
       "bestRank": 1,
-      "rank": 9,
-      "audienceDay": 5100,
+      "rank": 8,
+      "audienceDay": 1852,
       "runtime": 172,
       "directors": [
         "크리스토퍼 놀란"
@@ -153,18 +153,18 @@
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 2055475,
+      "audienceAcc": 2059032,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261101",
-      "days": 44,
+      "lastSeenAt": "20261102",
+      "days": 45,
       "bestRank": 1,
       "rank": 6,
-      "audienceDay": 8990,
+      "audienceDay": 3557,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,18 +202,18 @@
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 215214,
+      "audienceAcc": 236101,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261101",
-      "days": 5,
+      "lastSeenAt": "20261102",
+      "days": 6,
       "bestRank": 1,
-      "rank": 2,
-      "audienceDay": 63937,
+      "rank": 1,
+      "audienceDay": 19383,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -245,18 +245,18 @@
       "titleEn": "PARADISE LOST",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 151424,
+      "audienceAcc": 153034,
       "genres": [
         "스릴러",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261101",
-      "days": 12,
+      "lastSeenAt": "20261102",
+      "days": 13,
       "bestRank": 2,
-      "rank": 8,
-      "audienceDay": 5202,
+      "rank": 9,
+      "audienceDay": 1607,
       "runtime": 100,
       "directors": [
         "연상호"
@@ -290,17 +290,17 @@
       "titleEn": "Ugly Duckling Ms. Maeng",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 71760,
+      "audienceAcc": 76614,
       "genres": [
         "코미디"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261101",
-      "days": 6,
+      "lastSeenAt": "20261102",
+      "days": 7,
       "bestRank": 3,
-      "rank": 3,
-      "audienceDay": 15195,
+      "rank": 4,
+      "audienceDay": 4846,
       "runtime": 99,
       "directors": [
         "이용재"
@@ -339,18 +339,18 @@
       "titleEn": "Clayface",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 115464,
+      "audienceAcc": 117985,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261101",
-      "days": 13,
+      "lastSeenAt": "20261102",
+      "days": 14,
       "bestRank": 3,
       "rank": 7,
-      "audienceDay": 5388,
+      "audienceDay": 2521,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -383,18 +383,18 @@
       "titleEn": "Attack on Titan: Crimson Arrows",
       "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
       "openedAt": "2015-01-28",
-      "audienceAcc": 72324,
+      "audienceAcc": 76399,
       "genres": [
         "애니메이션",
         "판타지"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261101",
-      "days": 5,
+      "lastSeenAt": "20261102",
+      "days": 6,
       "bestRank": 4,
       "rank": 5,
-      "audienceDay": 11458,
+      "audienceDay": 4075,
       "runtime": 119,
       "directors": [
         "아라키 테츠로"
@@ -419,6 +419,45 @@
       "showing": true
     },
     {
+      "movieCd": "20261695",
+      "title": "욕쟁이 할머니",
+      "titleEn": "The Foul-Mouthed Granny",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 2490,
+      "genres": [
+        "다큐멘터리",
+        "가족"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261102",
+      "lastSeenAt": "20261102",
+      "days": 1,
+      "bestRank": 10,
+      "rank": 10,
+      "audienceDay": 1360,
+      "runtime": 72,
+      "directors": [
+        "홍승표"
+      ],
+      "cast": [],
+      "producers": [
+        "(주)모산픽쳐스"
+      ],
+      "distributors": [
+        "유한회사 스튜디오 획"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "포천 '욕쟁이 할머니'로 불리며 평생 따뜻한 밥상을 내어주었던 나의 어머니. 어머니가 떠난 뒤, 막내아들 홍승표 화백은 식당과 그림 속에 남겨진 어머니를 다시 마주한다. 사라진 것이 아니라, 기억 속에 살아 있는 사람. 그리움을 따라 써 내려간 가장 애틋한 기록.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1567517,
+      "poster": "assets/posters/20261695.webp",
+      "posterCredit": "TMDB"
+    },
+    {
       "movieCd": "20259894",
       "title": "최종면접 ",
       "titleEn": "Final Interview",
@@ -433,8 +472,8 @@
       "lastSeenAt": "20261101",
       "days": 2,
       "bestRank": 10,
-      "rank": 10,
-      "audienceDay": 3744,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -464,7 +503,7 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20265062",
