@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-02",
-  "latestDt": "20261102",
+  "updatedAt": "2026-11-03",
+  "latestDt": "20261103",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2599013,
+      "audienceAcc": 2613518,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261102",
-      "days": 37,
+      "lastSeenAt": "20261103",
+      "days": 38,
       "bestRank": 1,
       "rank": 2,
-      "audienceDay": 15158,
+      "audienceDay": 14513,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3453120,
+      "audienceAcc": 3457554,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261102",
-      "days": 43,
+      "lastSeenAt": "20261103",
+      "days": 44,
       "bestRank": 1,
-      "rank": 3,
-      "audienceDay": 5163,
+      "rank": 4,
+      "audienceDay": 4437,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -105,7 +105,7 @@
       "titleEn": "The Odyssey",
       "titleOriginal": "",
       "openedAt": "2026-08-05",
-      "audienceAcc": 12337120,
+      "audienceAcc": 12339006,
       "genres": [
         "액션",
         "드라마",
@@ -113,11 +113,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20260824",
-      "lastSeenAt": "20261102",
-      "days": 68,
+      "lastSeenAt": "20261103",
+      "days": 69,
       "bestRank": 1,
       "rank": 8,
-      "audienceDay": 1852,
+      "audienceDay": 1890,
       "runtime": 172,
       "directors": [
         "크리스토퍼 놀란"
@@ -153,18 +153,18 @@
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 2059032,
+      "audienceAcc": 2061976,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261102",
-      "days": 45,
+      "lastSeenAt": "20261103",
+      "days": 46,
       "bestRank": 1,
       "rank": 6,
-      "audienceDay": 3557,
+      "audienceDay": 2944,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,18 +202,18 @@
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 236101,
+      "audienceAcc": 253377,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261102",
-      "days": 6,
+      "lastSeenAt": "20261103",
+      "days": 7,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 19383,
+      "audienceDay": 17277,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -245,18 +245,18 @@
       "titleEn": "PARADISE LOST",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 153034,
+      "audienceAcc": 154872,
       "genres": [
         "스릴러",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261102",
-      "days": 13,
+      "lastSeenAt": "20261103",
+      "days": 14,
       "bestRank": 2,
       "rank": 9,
-      "audienceDay": 1607,
+      "audienceDay": 1839,
       "runtime": 100,
       "directors": [
         "연상호"
@@ -290,17 +290,17 @@
       "titleEn": "Ugly Duckling Ms. Maeng",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 76614,
+      "audienceAcc": 81966,
       "genres": [
         "코미디"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261102",
-      "days": 7,
+      "lastSeenAt": "20261103",
+      "days": 8,
       "bestRank": 3,
-      "rank": 4,
-      "audienceDay": 4846,
+      "rank": 3,
+      "audienceDay": 5352,
       "runtime": 99,
       "directors": [
         "이용재"
@@ -339,18 +339,18 @@
       "titleEn": "Clayface",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 117985,
+      "audienceAcc": 120336,
       "genres": [
         "공포(호러)",
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261102",
-      "days": 14,
+      "lastSeenAt": "20261103",
+      "days": 15,
       "bestRank": 3,
       "rank": 7,
-      "audienceDay": 2521,
+      "audienceDay": 2351,
       "runtime": 108,
       "directors": [
         "제임스 왓킨스"
@@ -383,18 +383,18 @@
       "titleEn": "Attack on Titan: Crimson Arrows",
       "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
       "openedAt": "2015-01-28",
-      "audienceAcc": 76399,
+      "audienceAcc": 80393,
       "genres": [
         "애니메이션",
         "판타지"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261102",
-      "days": 6,
+      "lastSeenAt": "20261103",
+      "days": 7,
       "bestRank": 4,
       "rank": 5,
-      "audienceDay": 4075,
+      "audienceDay": 3996,
       "runtime": 119,
       "directors": [
         "아라키 테츠로"
@@ -419,6 +419,54 @@
       "showing": true
     },
     {
+      "movieCd": "20266189",
+      "title": "여전히 찬란하게",
+      "titleEn": "STILL SHINING",
+      "titleOriginal": "",
+      "openedAt": "2026-10-21",
+      "audienceAcc": 64081,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261021",
+      "lastSeenAt": "20261103",
+      "days": 10,
+      "bestRank": 6,
+      "rank": 10,
+      "audienceDay": 1619,
+      "runtime": 117,
+      "directors": [
+        "송일곤"
+      ],
+      "cast": [
+        "김혜자",
+        "박서경",
+        "최주은",
+        "문성현",
+        "차미경",
+        "조성하"
+      ],
+      "producers": [
+        "페이지원필름(주)"
+      ],
+      "distributors": [
+        "메가박스중앙(주) 플러스엠 엔터테인먼트"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20266189.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "“내일 너랑 서울 갈 생각하니까 심장이 막 콩닥거린다” 오랫동안 찾아 헤매던 단짝 ‘정임’과 마침내 다시 만난 ‘순옥’은 어릴 적 시골 마을에서부터 함께 염원하던 노래자랑 참가를 위해 서울행을 결심한다. 설렘도 잠시, ‘순옥'은 ‘정임’이 자신의 이름도, 꿈도, 함께했던 시간들까지도 조금씩 잊어간다는 것을 알게 된다. ‘순옥’은 사라져가는 기억을 붙잡듯 자꾸만 그 시절 이야기를 꺼내기 시작한다. “이제 우리 몸에 새겼으니까는 우리는 항시 함께 있는기다 이 말이다” 1942년, 빼어난 노래 실력을 가진 소녀 ‘정임'과 언제나 옆에서 열렬히 응원하는 소녀 ‘순옥'. 서로의 팔에 둘만의 증표를 새긴 두 소녀는 서울에서 노래하고 돈도 벌자는 꿈을 나누며 영원한 우정을 약속한다. 한편, 마을에는 공장 취직을 빌미로 소녀들을 잡아간다는 흉흉한 소문이 들려오고 두 사람은 다가오는 위협을 피해 숨을 곳을 찾는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1652642,
+      "score": 10,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "showing": true
+    },
+    {
       "movieCd": "20261695",
       "title": "욕쟁이 할머니",
       "titleEn": "The Foul-Mouthed Granny",
@@ -434,8 +482,8 @@
       "lastSeenAt": "20261102",
       "days": 1,
       "bestRank": 10,
-      "rank": 10,
-      "audienceDay": 1360,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 72,
       "directors": [
         "홍승표"
@@ -450,12 +498,15 @@
       "rating": "전체관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20261695.webp",
+      "posterCredit": "TMDB",
       "synopsis": "포천 '욕쟁이 할머니'로 불리며 평생 따뜻한 밥상을 내어주었던 나의 어머니. 어머니가 떠난 뒤, 막내아들 홍승표 화백은 식당과 그림 속에 남겨진 어머니를 다시 마주한다. 사라진 것이 아니라, 기억 속에 살아 있는 사람. 그리움을 따라 써 내려간 가장 애틋한 기록.",
       "synopsisCredit": "TMDB",
       "tmdbId": 1567517,
-      "poster": "assets/posters/20261695.webp",
-      "posterCredit": "TMDB"
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": false
     },
     {
       "movieCd": "20259894",
@@ -587,54 +638,6 @@
       "synopsisCredit": "TMDB",
       "tmdbId": 1590933,
       "score": 8,
-      "scoreBy": "TMDB",
-      "voteCount": 1,
-      "showing": false
-    },
-    {
-      "movieCd": "20266189",
-      "title": "여전히 찬란하게",
-      "titleEn": "STILL SHINING",
-      "titleOriginal": "",
-      "openedAt": "2026-10-21",
-      "audienceAcc": 55718,
-      "genres": [
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261021",
-      "lastSeenAt": "20261029",
-      "days": 9,
-      "bestRank": 6,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 117,
-      "directors": [
-        "송일곤"
-      ],
-      "cast": [
-        "김혜자",
-        "박서경",
-        "최주은",
-        "문성현",
-        "차미경",
-        "조성하"
-      ],
-      "producers": [
-        "페이지원필름(주)"
-      ],
-      "distributors": [
-        "메가박스중앙(주) 플러스엠 엔터테인먼트"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20266189.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "“내일 너랑 서울 갈 생각하니까 심장이 막 콩닥거린다” 오랫동안 찾아 헤매던 단짝 ‘정임’과 마침내 다시 만난 ‘순옥’은 어릴 적 시골 마을에서부터 함께 염원하던 노래자랑 참가를 위해 서울행을 결심한다. 설렘도 잠시, ‘순옥'은 ‘정임’이 자신의 이름도, 꿈도, 함께했던 시간들까지도 조금씩 잊어간다는 것을 알게 된다. ‘순옥’은 사라져가는 기억을 붙잡듯 자꾸만 그 시절 이야기를 꺼내기 시작한다. “이제 우리 몸에 새겼으니까는 우리는 항시 함께 있는기다 이 말이다” 1942년, 빼어난 노래 실력을 가진 소녀 ‘정임'과 언제나 옆에서 열렬히 응원하는 소녀 ‘순옥'. 서로의 팔에 둘만의 증표를 새긴 두 소녀는 서울에서 노래하고 돈도 벌자는 꿈을 나누며 영원한 우정을 약속한다. 한편, 마을에는 공장 취직을 빌미로 소녀들을 잡아간다는 흉흉한 소문이 들려오고 두 사람은 다가오는 위협을 피해 숨을 곳을 찾는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1652642,
-      "score": 10,
       "scoreBy": "TMDB",
       "voteCount": 1,
       "showing": false
