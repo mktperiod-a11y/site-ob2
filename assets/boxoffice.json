@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-03",
-  "latestDt": "20261103",
+  "updatedAt": "2026-11-04",
+  "latestDt": "20261104",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2613518,
+      "audienceAcc": 2627527,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261103",
-      "days": 38,
+      "lastSeenAt": "20261104",
+      "days": 39,
       "bestRank": 1,
-      "rank": 2,
-      "audienceDay": 14513,
+      "rank": 3,
+      "audienceDay": 13962,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3457554,
+      "audienceAcc": 3460804,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261103",
-      "days": 44,
+      "lastSeenAt": "20261104",
+      "days": 45,
       "bestRank": 1,
-      "rank": 4,
-      "audienceDay": 4437,
+      "rank": 8,
+      "audienceDay": 3250,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -100,51 +100,51 @@
       "showing": true
     },
     {
-      "movieCd": "20250654",
-      "title": "오디세이",
-      "titleEn": "The Odyssey",
+      "movieCd": "20259894",
+      "title": "최종면접 ",
+      "titleEn": "Final Interview",
       "titleOriginal": "",
-      "openedAt": "2026-08-05",
-      "audienceAcc": 12339006,
+      "openedAt": "2026-11-04",
+      "audienceAcc": 42569,
       "genres": [
-        "액션",
-        "드라마",
-        "어드벤처"
+        "미스터리"
       ],
       "type": "영화",
-      "firstSeenAt": "20260824",
-      "lastSeenAt": "20261103",
-      "days": 69,
+      "firstSeenAt": "20261029",
+      "lastSeenAt": "20261104",
+      "days": 3,
       "bestRank": 1,
-      "rank": 8,
-      "audienceDay": 1890,
-      "runtime": 172,
+      "rank": 1,
+      "audienceDay": 26695,
+      "runtime": 107,
       "directors": [
-        "크리스토퍼 놀란"
+        "김정훈"
       ],
       "cast": [
-        "맷 데이먼",
-        "톰 홀랜드",
-        "앤 해서웨이",
-        "로버트 패틴슨",
-        "젠데이아 콜먼",
-        "샤를리즈 테론"
+        "조이현",
+        "김재원",
+        "신승호",
+        "강유석",
+        "곽동연",
+        "배강희"
       ],
-      "producers": [],
+      "producers": [
+        "커버넌트픽처스(주)"
+      ],
       "distributors": [
-        "유니버설픽쳐스인터내셔널 코리아(유)"
+        "(주)넥스트엔터테인먼트월드(NEW)"
       ],
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "poster": "assets/posters/20250654.webp",
+      "poster": "assets/posters/20259894.webp",
       "posterCredit": "TMDB",
-      "synopsis": "10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페넬로페'와 아들 '텔레마코스'에게 돌아가기 위한 여정에 나선다. 그러나 신들의 분노를 산 그의 귀환 앞에는 거대한 폭풍과 괴물들, 그리고 거스를 수 없는 운명의 시련이 기다리고 있는데…",
+      "synopsis": "치열한 경쟁률을 뚫고 최종면접에 오른 6명의 지원자. 한 달간 팀 토론을 준비하며 전원 합격을 꿈꾸던 이들에게 제한시간 2시간 동안 단 1명의 합격자를 직접 뽑으라는 과제가 주어진다. 관찰 카메라의 압박 속에 합격자를 가려내기 위한 토론과 투표를 이어가던 중 그들은 각자의 이름이 적힌 의문의 봉투를 발견한다. 봉투가 열릴 때마다 진실을 알 수 없는 비밀들이 공개되고, 공정한 경쟁을 약속했던 최종면접은 걷잡을 수 없는 폭로전으로 치닫는데...",
       "synopsisCredit": "TMDB",
-      "tmdbId": 1368337,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "voteCount": 3939,
+      "tmdbId": 1545057,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
       "showing": true
     },
     {
@@ -153,18 +153,18 @@
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 2061976,
+      "audienceAcc": 2064093,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261103",
-      "days": 46,
+      "lastSeenAt": "20261104",
+      "days": 47,
       "bestRank": 1,
-      "rank": 6,
-      "audienceDay": 2944,
+      "rank": 9,
+      "audienceDay": 2117,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,18 +202,18 @@
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 253377,
+      "audienceAcc": 271037,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261103",
-      "days": 7,
+      "lastSeenAt": "20261104",
+      "days": 8,
       "bestRank": 1,
-      "rank": 1,
-      "audienceDay": 17277,
+      "rank": 2,
+      "audienceDay": 17225,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -240,66 +240,21 @@
       "showing": true
     },
     {
-      "movieCd": "20250053",
-      "title": "실낙원",
-      "titleEn": "PARADISE LOST",
-      "titleOriginal": "",
-      "openedAt": "2026-10-21",
-      "audienceAcc": 154872,
-      "genres": [
-        "스릴러",
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261021",
-      "lastSeenAt": "20261103",
-      "days": 14,
-      "bestRank": 2,
-      "rank": 9,
-      "audienceDay": 1839,
-      "runtime": 100,
-      "directors": [
-        "연상호"
-      ],
-      "cast": [
-        "김현주",
-        "배현성"
-      ],
-      "producers": [
-        "주식회사 와우포인트"
-      ],
-      "distributors": [
-        "(주)씨제이이엔엠"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20250053.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "9년 전 캠핑스쿨 버스 실종 사건으로 아들을 잃은 류소영은 '낙원의 아이들'이라는 AI 프로그램을 통해 어린 시절의 아들과 만나며 하루하루를 버텨낸다. 그러던 어느 날 죽은 줄로만 알았던 아들 류선우가 9년 만에 집으로 돌아온다. 기적 같은 생존 소식에 세상은 들썩이지만 흉터로 가득한 몸과 서늘한 눈빛, 무엇보다 자신이 기억하는 순수했던 아들의 흔적을 어디에서도 찾을 수 없는 낯선 모습에 소영은 불안감을 느낀다. 소영과 선우, 그리고 AI로 생성된 어린 시절의 선우까지 기묘하고 불편한 동거가 시작되고 소영은 점점 드러나는 아들의 실체에 충격을 받는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1584855,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "voteCount": 1,
-      "showing": true
-    },
-    {
       "movieCd": "20231795",
       "title": "수능, 출제의 비밀",
       "titleEn": "Ugly Duckling Ms. Maeng",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 81966,
+      "audienceAcc": 87319,
       "genres": [
         "코미디"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261103",
-      "days": 8,
+      "lastSeenAt": "20261104",
+      "days": 9,
       "bestRank": 3,
-      "rank": 3,
+      "rank": 5,
       "audienceDay": 5352,
       "runtime": 99,
       "directors": [
@@ -334,88 +289,37 @@
       "showing": true
     },
     {
-      "movieCd": "20267571",
-      "title": "클레이페이스",
-      "titleEn": "Clayface",
+      "movieCd": "20267412",
+      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
       "titleOriginal": "",
-      "openedAt": "2026-10-21",
-      "audienceAcc": 120336,
+      "openedAt": "2026-11-04",
+      "audienceAcc": 13393,
       "genres": [
-        "공포(호러)",
-        "스릴러"
+        "애니메이션"
       ],
       "type": "영화",
-      "firstSeenAt": "20261019",
-      "lastSeenAt": "20261103",
-      "days": 15,
-      "bestRank": 3,
-      "rank": 7,
-      "audienceDay": 2351,
-      "runtime": 108,
-      "directors": [
-        "제임스 왓킨스"
-      ],
-      "cast": [
-        "톰 리스 해리스",
-        "나오미 애키",
-        "다비드 덴칙"
-      ],
-      "producers": [],
-      "distributors": [
-        "워너브러더스 코리아(주)"
-      ],
-      "rating": "청소년관람불가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20267571.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "할리우드의 주연 배우로 유명 영화제 수상을 눈 앞에 두며 꿈을 이루기 직전인 ‘맷 헤이건’. 그러나 한 순간의 실수로 범죄 조직의 타겟이 되어 얼굴이 처참하게 훼손되며 그의 빛나던 인생은 하루 아침에 비극으로 뒤바뀐다. 커리어도, 사람들도 모두 잃은 ‘맷’은 과학자 ‘닥터 케이틀린’의 미완성 최첨단 나노 기술에 마지막 희망을 걸고 기적적으로 예전의 얼굴을 되찾는 데 성공하지만 기쁨도 잠시 그의 몸에는 인간의 형체마저 무너뜨리는 끔찍한 변화가 시작된다. 또한 자신을 공격한 범죄 조직에 연루된 자들의 정체를 알게 되자 걷잡을 수 없는 분노에 사로잡힌 ‘맷’은 자신의 모든 것을 빼앗아간 이들을 향한 처절한 복수에 나서는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1400940,
-      "score": 8.3,
-      "scoreBy": "TMDB",
-      "voteCount": 8,
-      "showing": true
-    },
-    {
-      "movieCd": "20155762",
-      "title": "진격의 거인: 홍련의 화살",
-      "titleEn": "Attack on Titan: Crimson Arrows",
-      "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
-      "openedAt": "2015-01-28",
-      "audienceAcc": 80393,
-      "genres": [
-        "애니메이션",
-        "판타지"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261028",
-      "lastSeenAt": "20261103",
-      "days": 7,
+      "firstSeenAt": "20261104",
+      "lastSeenAt": "20261104",
+      "days": 1,
       "bestRank": 4,
-      "rank": 5,
-      "audienceDay": 3996,
+      "rank": 4,
+      "audienceDay": 13393,
       "runtime": 119,
       "directors": [
-        "아라키 테츠로"
+        "신보 아키유키"
       ],
-      "cast": [],
+      "cast": [
+        "유키 아오이",
+        "사이토 치와"
+      ],
       "producers": [],
       "distributors": [
-        "씨제이 씨지브이(CJ CGV)(주)",
-        "(주)박수엔터테인먼트"
+        "(주)애니플러스"
       ],
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "poster": "assets/posters/20155762.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "무차별적으로 잡아먹는 식인 거인들이 나타나면서 멸망 위기에 놓인 인간 세계. 인간들은 그들을 피해 50미터의 거대한 벽을 쌓은 채 그 속에서 살아간다. 100년여 동안 평화 아닌 평화를 지켜 가며 숨죽여 살아가지만, 벽 밖의 세계가 궁금한 어린 ‘엘런 예거’는 새장에 갇힌 새처럼 사는 현실이 싫어 가족과 어릴 때부터 자신을 지켜 주었던 ‘미카사 아커만’의 반대 속에서도 그곳을 벗어나겠다는 고집을 꺾지 않는다. 이 때, 초대형 거인과 갑옷 거인이 나타나면서 허울뿐인 평화는 부서지는 벽과 함께 무참히 깨져 버린다. 거인들이 첫 번째 벽, 월 마리아를 부수고 안으로 들어오면서 절규와 죽음이 가득한 지옥 같은 상황이 이어지고, 눈 앞에서 잔혹하게 잡아 먹히는 어머니를 본 ‘엘런 예거’는 그들에게 복수를 다짐한다. 결국 두 번째 벽, 월 로제 안으로 도망친 '엘런 예거' 와 '미카사' 등은 훈련병에 지원하고 혹독한 수련을 거듭하며 거인에게 복수할 수 있는 힘을 키워나간다. 그리고 5년 후, 그들이 훈련병을 졸업하고 한 명의 병사로서 태어나는 바로 그날, 월 마리아를 파괴했던 초대형 거인이 '엘런' 앞에 다시 모습을 드러냈다. 과연 거인들은 어디로부터 오는가? 진짜 전쟁은 지금부터 시작이다!",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 379088,
-      "score": 8.1,
-      "scoreBy": "TMDB",
-      "voteCount": 555,
       "showing": true
     },
     {
@@ -424,17 +328,17 @@
       "titleEn": "STILL SHINING",
       "titleOriginal": "",
       "openedAt": "2026-10-21",
-      "audienceAcc": 64081,
+      "audienceAcc": 65469,
       "genres": [
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261021",
-      "lastSeenAt": "20261103",
-      "days": 10,
+      "lastSeenAt": "20261104",
+      "days": 11,
       "bestRank": 6,
       "rank": 10,
-      "audienceDay": 1619,
+      "audienceDay": 1387,
       "runtime": 117,
       "directors": [
         "송일곤"
@@ -465,6 +369,277 @@
       "scoreBy": "TMDB",
       "voteCount": 1,
       "showing": true
+    },
+    {
+      "movieCd": "20266765",
+      "title": "와일드 호스 나인",
+      "titleEn": "Wild Horse Nine",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 4456,
+      "genres": [
+        "미스터리",
+        "범죄",
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261104",
+      "lastSeenAt": "20261104",
+      "days": 1,
+      "bestRank": 6,
+      "rank": 6,
+      "audienceDay": 3893,
+      "runtime": 116,
+      "directors": [
+        "마틴 맥도나"
+      ],
+      "cast": [
+        "존 말코비치",
+        "샘 록웰",
+        "스티브 부세미",
+        "톰 웨이츠",
+        "파커 포시"
+      ],
+      "producers": [],
+      "distributors": [
+        "월트디즈니컴퍼니코리아 유한책임회사"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "1973년 칠레 쿠데타를 앞두고 이스터섬으로 파견된 CIA 요원 ‘크리스’와 ‘리’가 임무를 수행하던 중 과거의 비밀과 정체불명의 음모에 휘말리게 되는 미스터리 첩보 스릴러",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 891621,
+      "score": 8.8,
+      "scoreBy": "TMDB",
+      "voteCount": 20,
+      "poster": "assets/posters/20266765.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20243927",
+      "title": "낮과 밤은 서로에게",
+      "titleEn": "The Table : Day and Night",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 4368,
+      "genres": [
+        "멜로/로맨스"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261104",
+      "lastSeenAt": "20261104",
+      "days": 1,
+      "bestRank": 7,
+      "rank": 7,
+      "audienceDay": 3445,
+      "runtime": 79,
+      "directors": [
+        "김종관"
+      ],
+      "cast": [
+        "김민하",
+        "주종혁",
+        "한선화",
+        "장률",
+        "심은경",
+        "이희준"
+      ],
+      "producers": [
+        "(주)비리프",
+        "주식회사 앨리웨이픽처스"
+      ],
+      "distributors": [
+        "주식회사 케이무비엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "같은 꿈을 꾼 두 사람, 유진과 현오. 엉뚱한 재회 속에서 영민에게 세상의 비밀을 이야기해 주는 상미. 첫 만남에 불신과 호기심의 경계를 오가는 소설가 혜진과 영화감독 동남. 이별 앞에 선 오랜 연인, 나경과 종수의 서툰 진심. 여름부터 가을까지, 하나의 계절이 흐르는 동안 낮과 밤에 머물다 간 서로 다른 사랑의 순간들을 만나다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1337732,
+      "poster": "assets/posters/20243927.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20250654",
+      "title": "오디세이",
+      "titleEn": "The Odyssey",
+      "titleOriginal": "",
+      "openedAt": "2026-08-05",
+      "audienceAcc": 12339006,
+      "genres": [
+        "액션",
+        "드라마",
+        "어드벤처"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260824",
+      "lastSeenAt": "20261103",
+      "days": 69,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 172,
+      "directors": [
+        "크리스토퍼 놀란"
+      ],
+      "cast": [
+        "맷 데이먼",
+        "톰 홀랜드",
+        "앤 해서웨이",
+        "로버트 패틴슨",
+        "젠데이아 콜먼",
+        "샤를리즈 테론"
+      ],
+      "producers": [],
+      "distributors": [
+        "유니버설픽쳐스인터내셔널 코리아(유)"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20250654.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페넬로페'와 아들 '텔레마코스'에게 돌아가기 위한 여정에 나선다. 그러나 신들의 분노를 산 그의 귀환 앞에는 거대한 폭풍과 괴물들, 그리고 거스를 수 없는 운명의 시련이 기다리고 있는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1368337,
+      "score": 8,
+      "scoreBy": "TMDB",
+      "voteCount": 3939,
+      "showing": false
+    },
+    {
+      "movieCd": "20250053",
+      "title": "실낙원",
+      "titleEn": "PARADISE LOST",
+      "titleOriginal": "",
+      "openedAt": "2026-10-21",
+      "audienceAcc": 154872,
+      "genres": [
+        "스릴러",
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261021",
+      "lastSeenAt": "20261103",
+      "days": 14,
+      "bestRank": 2,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 100,
+      "directors": [
+        "연상호"
+      ],
+      "cast": [
+        "김현주",
+        "배현성"
+      ],
+      "producers": [
+        "주식회사 와우포인트"
+      ],
+      "distributors": [
+        "(주)씨제이이엔엠"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20250053.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "9년 전 캠핑스쿨 버스 실종 사건으로 아들을 잃은 류소영은 '낙원의 아이들'이라는 AI 프로그램을 통해 어린 시절의 아들과 만나며 하루하루를 버텨낸다. 그러던 어느 날 죽은 줄로만 알았던 아들 류선우가 9년 만에 집으로 돌아온다. 기적 같은 생존 소식에 세상은 들썩이지만 흉터로 가득한 몸과 서늘한 눈빛, 무엇보다 자신이 기억하는 순수했던 아들의 흔적을 어디에서도 찾을 수 없는 낯선 모습에 소영은 불안감을 느낀다. 소영과 선우, 그리고 AI로 생성된 어린 시절의 선우까지 기묘하고 불편한 동거가 시작되고 소영은 점점 드러나는 아들의 실체에 충격을 받는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1584855,
+      "score": 8,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "showing": false
+    },
+    {
+      "movieCd": "20267571",
+      "title": "클레이페이스",
+      "titleEn": "Clayface",
+      "titleOriginal": "",
+      "openedAt": "2026-10-21",
+      "audienceAcc": 120336,
+      "genres": [
+        "공포(호러)",
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261019",
+      "lastSeenAt": "20261103",
+      "days": 15,
+      "bestRank": 3,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 108,
+      "directors": [
+        "제임스 왓킨스"
+      ],
+      "cast": [
+        "톰 리스 해리스",
+        "나오미 애키",
+        "다비드 덴칙"
+      ],
+      "producers": [],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "청소년관람불가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20267571.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "할리우드의 주연 배우로 유명 영화제 수상을 눈 앞에 두며 꿈을 이루기 직전인 ‘맷 헤이건’. 그러나 한 순간의 실수로 범죄 조직의 타겟이 되어 얼굴이 처참하게 훼손되며 그의 빛나던 인생은 하루 아침에 비극으로 뒤바뀐다. 커리어도, 사람들도 모두 잃은 ‘맷’은 과학자 ‘닥터 케이틀린’의 미완성 최첨단 나노 기술에 마지막 희망을 걸고 기적적으로 예전의 얼굴을 되찾는 데 성공하지만 기쁨도 잠시 그의 몸에는 인간의 형체마저 무너뜨리는 끔찍한 변화가 시작된다. 또한 자신을 공격한 범죄 조직에 연루된 자들의 정체를 알게 되자 걷잡을 수 없는 분노에 사로잡힌 ‘맷’은 자신의 모든 것을 빼앗아간 이들을 향한 처절한 복수에 나서는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1400940,
+      "score": 8.3,
+      "scoreBy": "TMDB",
+      "voteCount": 8,
+      "showing": false
+    },
+    {
+      "movieCd": "20155762",
+      "title": "진격의 거인: 홍련의 화살",
+      "titleEn": "Attack on Titan: Crimson Arrows",
+      "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
+      "openedAt": "2015-01-28",
+      "audienceAcc": 80393,
+      "genres": [
+        "애니메이션",
+        "판타지"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261103",
+      "days": 7,
+      "bestRank": 4,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 119,
+      "directors": [
+        "아라키 테츠로"
+      ],
+      "cast": [],
+      "producers": [],
+      "distributors": [
+        "씨제이 씨지브이(CJ CGV)(주)",
+        "(주)박수엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20155762.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "무차별적으로 잡아먹는 식인 거인들이 나타나면서 멸망 위기에 놓인 인간 세계. 인간들은 그들을 피해 50미터의 거대한 벽을 쌓은 채 그 속에서 살아간다. 100년여 동안 평화 아닌 평화를 지켜 가며 숨죽여 살아가지만, 벽 밖의 세계가 궁금한 어린 ‘엘런 예거’는 새장에 갇힌 새처럼 사는 현실이 싫어 가족과 어릴 때부터 자신을 지켜 주었던 ‘미카사 아커만’의 반대 속에서도 그곳을 벗어나겠다는 고집을 꺾지 않는다. 이 때, 초대형 거인과 갑옷 거인이 나타나면서 허울뿐인 평화는 부서지는 벽과 함께 무참히 깨져 버린다. 거인들이 첫 번째 벽, 월 마리아를 부수고 안으로 들어오면서 절규와 죽음이 가득한 지옥 같은 상황이 이어지고, 눈 앞에서 잔혹하게 잡아 먹히는 어머니를 본 ‘엘런 예거’는 그들에게 복수를 다짐한다. 결국 두 번째 벽, 월 로제 안으로 도망친 '엘런 예거' 와 '미카사' 등은 훈련병에 지원하고 혹독한 수련을 거듭하며 거인에게 복수할 수 있는 힘을 키워나간다. 그리고 5년 후, 그들이 훈련병을 졸업하고 한 명의 병사로서 태어나는 바로 그날, 월 마리아를 파괴했던 초대형 거인이 '엘런' 앞에 다시 모습을 드러냈다. 과연 거인들은 어디로부터 오는가? 진짜 전쟁은 지금부터 시작이다!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 379088,
+      "score": 8.1,
+      "scoreBy": "TMDB",
+      "voteCount": 555,
+      "showing": false
     },
     {
       "movieCd": "20261695",
@@ -503,54 +678,6 @@
       "synopsis": "포천 '욕쟁이 할머니'로 불리며 평생 따뜻한 밥상을 내어주었던 나의 어머니. 어머니가 떠난 뒤, 막내아들 홍승표 화백은 식당과 그림 속에 남겨진 어머니를 다시 마주한다. 사라진 것이 아니라, 기억 속에 살아 있는 사람. 그리움을 따라 써 내려간 가장 애틋한 기록.",
       "synopsisCredit": "TMDB",
       "tmdbId": 1567517,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
-      "showing": false
-    },
-    {
-      "movieCd": "20259894",
-      "title": "최종면접 ",
-      "titleEn": "Final Interview",
-      "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 14574,
-      "genres": [
-        "미스터리"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261029",
-      "lastSeenAt": "20261101",
-      "days": 2,
-      "bestRank": 10,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 107,
-      "directors": [
-        "김정훈"
-      ],
-      "cast": [
-        "조이현",
-        "김재원",
-        "신승호",
-        "강유석",
-        "곽동연",
-        "배강희"
-      ],
-      "producers": [
-        "커버넌트픽처스(주)"
-      ],
-      "distributors": [
-        "(주)넥스트엔터테인먼트월드(NEW)"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20259894.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "치열한 경쟁률을 뚫고 최종면접에 오른 6명의 지원자. 한 달간 팀 토론을 준비하며 전원 합격을 꿈꾸던 이들에게 제한시간 2시간 동안 단 1명의 합격자를 직접 뽑으라는 과제가 주어진다. 관찰 카메라의 압박 속에 합격자를 가려내기 위한 토론과 투표를 이어가던 중 그들은 각자의 이름이 적힌 의문의 봉투를 발견한다. 봉투가 열릴 때마다 진실을 알 수 없는 비밀들이 공개되고, 공정한 경쟁을 약속했던 최종면접은 걷잡을 수 없는 폭로전으로 치닫는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1545057,
       "score": null,
       "scoreBy": "",
       "voteCount": null,
