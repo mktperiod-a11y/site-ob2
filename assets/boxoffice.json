@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-04",
-  "latestDt": "20261104",
+  "updatedAt": "2026-11-05",
+  "latestDt": "20261105",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2627527,
+      "audienceAcc": 2639791,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261104",
-      "days": 39,
+      "lastSeenAt": "20261105",
+      "days": 40,
       "bestRank": 1,
-      "rank": 3,
-      "audienceDay": 13962,
+      "rank": 4,
+      "audienceDay": 12265,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -53,23 +53,67 @@
       "showing": true
     },
     {
+      "movieCd": "20267697",
+      "title": "명탐정 코난: 30호 살인 사건",
+      "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
+      "titleOriginal": "名探偵コナン 30号殺人事件",
+      "openedAt": "2026-11-05",
+      "audienceAcc": 28165,
+      "genres": [
+        "애니메이션",
+        "액션",
+        "미스터리"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261105",
+      "lastSeenAt": "20261105",
+      "days": 1,
+      "bestRank": 1,
+      "rank": 1,
+      "audienceDay": 25379,
+      "runtime": 93,
+      "directors": [
+        "카마나카 노부하루"
+      ],
+      "cast": [
+        "타카야마 미나미",
+        "야마구치 캇페이"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)씨제이이엔엠"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "‘토토 타워’가 디자인된 1만 엔 신권 지폐가 발행되어 세상이 떠들썩한 가운데, 코난과 어린이 탐정단, 아가사 박사, 란과 소노코는 지폐 인쇄국 나가노 공장을 방문한다. 그 무렵, 경시청에서는 살인 사건 현장에서 발견된 신권 위조지폐로 인해 수사본부가 꾸려지고, 일본에서 발견된 30번째 위조지폐라는 점으로 인해 통칭 ‘30호 사건’으로 명명된다. 신권의 위조지폐 사건이 보도되면서 전국이 혼란해진 가운데 코난은 위조지폐가 인쇄된 것으로 추정되는 오사카의 지폐 인쇄국으로 향하고 거기서 헤이지가 수사에 합류한다. 그 외 시즈오카현과 가나가와현 등 각 지역에 위치한 지폐 인쇄국의 조사를 위해, 나가노현경의 야마토 칸스케, 모로후시 타카아키, 우에하라 유이 그리고 시즈오카현경의 요코미조 산고, 가나가와현경의 요코미조 쥬고 및 군마현경, 오사카부 경찰, 교토부 경찰까지 전국 경찰청에 이어 공안 후루야 레이, FBI 아카이 슈이치가 총출동해 국가적 위기에 맞선다! 통칭 30호, 신권 위조지폐 사건 발생! 전대미문 사건을 수사하기 위해 전원 출동! 국가적 위기에 맞서라!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1777750,
+      "score": 6.5,
+      "scoreBy": "TMDB",
+      "voteCount": 2,
+      "poster": "assets/posters/20267697.webp",
+      "posterCredit": "TMDB"
+    },
+    {
       "movieCd": "20255033",
       "title": "암살자(들)",
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3460804,
+      "audienceAcc": 3464138,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261104",
-      "days": 45,
+      "lastSeenAt": "20261105",
+      "days": 46,
       "bestRank": 1,
-      "rank": 8,
-      "audienceDay": 3250,
+      "rank": 7,
+      "audienceDay": 3349,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -101,21 +145,21 @@
     },
     {
       "movieCd": "20259894",
-      "title": "최종면접 ",
+      "title": "최종면접",
       "titleEn": "Final Interview",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 42569,
+      "audienceAcc": 62296,
       "genres": [
         "미스터리"
       ],
       "type": "영화",
       "firstSeenAt": "20261029",
-      "lastSeenAt": "20261104",
-      "days": 3,
+      "lastSeenAt": "20261105",
+      "days": 4,
       "bestRank": 1,
-      "rank": 1,
-      "audienceDay": 26695,
+      "rank": 2,
+      "audienceDay": 19722,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -153,18 +197,18 @@
       "titleEn": "TAZZA: The Song of Beelzebub",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 2064093,
+      "audienceAcc": 2065996,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260914",
-      "lastSeenAt": "20261104",
-      "days": 47,
+      "lastSeenAt": "20261105",
+      "days": 48,
       "bestRank": 1,
-      "rank": 9,
-      "audienceDay": 2117,
+      "rank": 10,
+      "audienceDay": 1903,
       "runtime": 129,
       "directors": [
         "최국희"
@@ -202,18 +246,18 @@
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 271037,
+      "audienceAcc": 289081,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261104",
-      "days": 8,
+      "lastSeenAt": "20261105",
+      "days": 9,
       "bestRank": 1,
-      "rank": 2,
-      "audienceDay": 17225,
+      "rank": 3,
+      "audienceDay": 18039,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -245,17 +289,17 @@
       "titleEn": "Ugly Duckling Ms. Maeng",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 87319,
+      "audienceAcc": 91820,
       "genres": [
         "코미디"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261104",
-      "days": 9,
+      "lastSeenAt": "20261105",
+      "days": 10,
       "bestRank": 3,
-      "rank": 5,
-      "audienceDay": 5352,
+      "rank": 6,
+      "audienceDay": 4502,
       "runtime": 99,
       "directors": [
         "이용재"
@@ -294,17 +338,17 @@
       "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 13393,
+      "audienceAcc": 18250,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20261104",
-      "lastSeenAt": "20261104",
-      "days": 1,
+      "lastSeenAt": "20261105",
+      "days": 2,
       "bestRank": 4,
-      "rank": 4,
-      "audienceDay": 13393,
+      "rank": 5,
+      "audienceDay": 4857,
       "runtime": 119,
       "directors": [
         "신보 아키유키"
@@ -320,6 +364,110 @@
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
+      "poster": "",
+      "posterCredit": "",
+      "synopsis": "",
+      "synopsisCredit": "",
+      "tmdbId": null,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
+      "movieCd": "20266765",
+      "title": "와일드 호스 나인",
+      "titleEn": "Wild Horse Nine",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 7281,
+      "genres": [
+        "미스터리",
+        "범죄",
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261104",
+      "lastSeenAt": "20261105",
+      "days": 2,
+      "bestRank": 6,
+      "rank": 8,
+      "audienceDay": 2825,
+      "runtime": 116,
+      "directors": [
+        "마틴 맥도나"
+      ],
+      "cast": [
+        "존 말코비치",
+        "샘 록웰",
+        "스티브 부세미",
+        "톰 웨이츠",
+        "파커 포시"
+      ],
+      "producers": [],
+      "distributors": [
+        "월트디즈니컴퍼니코리아 유한책임회사"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20266765.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "1973년 칠레 쿠데타를 앞두고 이스터섬으로 파견된 CIA 요원 ‘크리스’와 ‘리’가 임무를 수행하던 중 과거의 비밀과 정체불명의 음모에 휘말리게 되는 미스터리 첩보 스릴러",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 891621,
+      "score": 8.8,
+      "scoreBy": "TMDB",
+      "voteCount": 20,
+      "showing": true
+    },
+    {
+      "movieCd": "20243927",
+      "title": "낮과 밤은 서로에게",
+      "titleEn": "The Table : Day and Night",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 6494,
+      "genres": [
+        "멜로/로맨스"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261104",
+      "lastSeenAt": "20261105",
+      "days": 2,
+      "bestRank": 7,
+      "rank": 9,
+      "audienceDay": 2126,
+      "runtime": 79,
+      "directors": [
+        "김종관"
+      ],
+      "cast": [
+        "김민하",
+        "주종혁",
+        "한선화",
+        "장률",
+        "심은경",
+        "이희준"
+      ],
+      "producers": [
+        "(주)비리프",
+        "주식회사 앨리웨이픽처스"
+      ],
+      "distributors": [
+        "주식회사 케이무비엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20243927.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "같은 꿈을 꾼 두 사람, 유진과 현오. 엉뚱한 재회 속에서 영민에게 세상의 비밀을 이야기해 주는 상미. 첫 만남에 불신과 호기심의 경계를 오가는 소설가 혜진과 영화감독 동남. 이별 앞에 선 오랜 연인, 나경과 종수의 서툰 진심. 여름부터 가을까지, 하나의 계절이 흐르는 동안 낮과 밤에 머물다 간 서로 다른 사랑의 순간들을 만나다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1337732,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
       "showing": true
     },
     {
@@ -337,8 +485,8 @@
       "lastSeenAt": "20261104",
       "days": 11,
       "bestRank": 6,
-      "rank": 10,
-      "audienceDay": 1387,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 117,
       "directors": [
         "송일곤"
@@ -368,100 +516,7 @@
       "score": 10,
       "scoreBy": "TMDB",
       "voteCount": 1,
-      "showing": true
-    },
-    {
-      "movieCd": "20266765",
-      "title": "와일드 호스 나인",
-      "titleEn": "Wild Horse Nine",
-      "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 4456,
-      "genres": [
-        "미스터리",
-        "범죄",
-        "스릴러"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261104",
-      "lastSeenAt": "20261104",
-      "days": 1,
-      "bestRank": 6,
-      "rank": 6,
-      "audienceDay": 3893,
-      "runtime": 116,
-      "directors": [
-        "마틴 맥도나"
-      ],
-      "cast": [
-        "존 말코비치",
-        "샘 록웰",
-        "스티브 부세미",
-        "톰 웨이츠",
-        "파커 포시"
-      ],
-      "producers": [],
-      "distributors": [
-        "월트디즈니컴퍼니코리아 유한책임회사"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "showing": true,
-      "synopsis": "1973년 칠레 쿠데타를 앞두고 이스터섬으로 파견된 CIA 요원 ‘크리스’와 ‘리’가 임무를 수행하던 중 과거의 비밀과 정체불명의 음모에 휘말리게 되는 미스터리 첩보 스릴러",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 891621,
-      "score": 8.8,
-      "scoreBy": "TMDB",
-      "voteCount": 20,
-      "poster": "assets/posters/20266765.webp",
-      "posterCredit": "TMDB"
-    },
-    {
-      "movieCd": "20243927",
-      "title": "낮과 밤은 서로에게",
-      "titleEn": "The Table : Day and Night",
-      "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 4368,
-      "genres": [
-        "멜로/로맨스"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261104",
-      "lastSeenAt": "20261104",
-      "days": 1,
-      "bestRank": 7,
-      "rank": 7,
-      "audienceDay": 3445,
-      "runtime": 79,
-      "directors": [
-        "김종관"
-      ],
-      "cast": [
-        "김민하",
-        "주종혁",
-        "한선화",
-        "장률",
-        "심은경",
-        "이희준"
-      ],
-      "producers": [
-        "(주)비리프",
-        "주식회사 앨리웨이픽처스"
-      ],
-      "distributors": [
-        "주식회사 케이무비엔터테인먼트"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "showing": true,
-      "synopsis": "같은 꿈을 꾼 두 사람, 유진과 현오. 엉뚱한 재회 속에서 영민에게 세상의 비밀을 이야기해 주는 상미. 첫 만남에 불신과 호기심의 경계를 오가는 소설가 혜진과 영화감독 동남. 이별 앞에 선 오랜 연인, 나경과 종수의 서툰 진심. 여름부터 가을까지, 하나의 계절이 흐르는 동안 낮과 밤에 머물다 간 서로 다른 사랑의 순간들을 만나다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1337732,
-      "poster": "assets/posters/20243927.webp",
-      "posterCredit": "TMDB"
+      "showing": false
     },
     {
       "movieCd": "20250654",
@@ -1916,45 +1971,6 @@
       "score": 8.2,
       "scoreBy": "TMDB",
       "voteCount": 4,
-      "showing": false
-    },
-    {
-      "movieCd": "20265587",
-      "title": "디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!",
-      "titleEn": "Digimon Adventure & Digimon Adventure Our War Game!",
-      "titleOriginal": "デジモンアドベンチャ―",
-      "openedAt": "2026-09-16",
-      "audienceAcc": 17764,
-      "genres": [
-        "애니메이션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260916",
-      "lastSeenAt": "20260920",
-      "days": 5,
-      "bestRank": 6,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 61,
-      "directors": [
-        "호소다 마모루"
-      ],
-      "cast": [],
-      "producers": [],
-      "distributors": [
-        "와이드 릴리즈(주)"
-      ],
-      "rating": "전체관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20265587.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "디지몬 어드벤쳐, 그보다 좀 더 이전의 이야기. 야가미 타이치(신태일)와 그의 여동생인 히카리(신나리)가 어릴 적 코로몬과 운명적인 만남을 가졌던 때를 그리고 있다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 97787,
-      "score": 7.6,
-      "scoreBy": "TMDB",
-      "voteCount": 97,
       "showing": false
     }
   ]

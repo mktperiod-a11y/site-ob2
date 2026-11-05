@@ -3,6 +3,45 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20265587",
+      "title": "디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!",
+      "titleEn": "Digimon Adventure & Digimon Adventure Our War Game!",
+      "titleOriginal": "デジモンアドベンチャ―",
+      "openedAt": "2026-09-16",
+      "audienceAcc": 17764,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260916",
+      "lastSeenAt": "20260920",
+      "days": 5,
+      "bestRank": 6,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 61,
+      "directors": [
+        "호소다 마모루"
+      ],
+      "cast": [],
+      "producers": [],
+      "distributors": [
+        "와이드 릴리즈(주)"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20265587.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "디지몬 어드벤쳐, 그보다 좀 더 이전의 이야기. 야가미 타이치(신태일)와 그의 여동생인 히카리(신나리)가 어릴 적 코로몬과 운명적인 만남을 가졌던 때를 그리고 있다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 97787,
+      "score": 7.6,
+      "scoreBy": "TMDB",
+      "voteCount": 97,
+      "showing": false
+    },
+    {
       "movieCd": "20258102",
       "title": "철들 무렵",
       "titleEn": "Coming of Age",
