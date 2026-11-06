@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-05",
-  "latestDt": "20261105",
+  "updatedAt": "2026-11-06",
+  "latestDt": "20261106",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2639791,
+      "audienceAcc": 2658249,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261105",
-      "days": 40,
+      "lastSeenAt": "20261106",
+      "days": 41,
       "bestRank": 1,
-      "rank": 4,
-      "audienceDay": 12265,
+      "rank": 3,
+      "audienceDay": 18455,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,7 +58,7 @@
       "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
       "titleOriginal": "名探偵コナン 30号殺人事件",
       "openedAt": "2026-11-05",
-      "audienceAcc": 28165,
+      "audienceAcc": 46368,
       "genres": [
         "애니메이션",
         "액션",
@@ -66,11 +66,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261105",
-      "lastSeenAt": "20261105",
-      "days": 1,
+      "lastSeenAt": "20261106",
+      "days": 2,
       "bestRank": 1,
-      "rank": 1,
-      "audienceDay": 25379,
+      "rank": 4,
+      "audienceDay": 18203,
       "runtime": 93,
       "directors": [
         "카마나카 노부하루"
@@ -86,15 +86,15 @@
       "rating": "12세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20267697.webp",
+      "posterCredit": "TMDB",
       "synopsis": "‘토토 타워’가 디자인된 1만 엔 신권 지폐가 발행되어 세상이 떠들썩한 가운데, 코난과 어린이 탐정단, 아가사 박사, 란과 소노코는 지폐 인쇄국 나가노 공장을 방문한다. 그 무렵, 경시청에서는 살인 사건 현장에서 발견된 신권 위조지폐로 인해 수사본부가 꾸려지고, 일본에서 발견된 30번째 위조지폐라는 점으로 인해 통칭 ‘30호 사건’으로 명명된다. 신권의 위조지폐 사건이 보도되면서 전국이 혼란해진 가운데 코난은 위조지폐가 인쇄된 것으로 추정되는 오사카의 지폐 인쇄국으로 향하고 거기서 헤이지가 수사에 합류한다. 그 외 시즈오카현과 가나가와현 등 각 지역에 위치한 지폐 인쇄국의 조사를 위해, 나가노현경의 야마토 칸스케, 모로후시 타카아키, 우에하라 유이 그리고 시즈오카현경의 요코미조 산고, 가나가와현경의 요코미조 쥬고 및 군마현경, 오사카부 경찰, 교토부 경찰까지 전국 경찰청에 이어 공안 후루야 레이, FBI 아카이 슈이치가 총출동해 국가적 위기에 맞선다! 통칭 30호, 신권 위조지폐 사건 발생! 전대미문 사건을 수사하기 위해 전원 출동! 국가적 위기에 맞서라!",
       "synopsisCredit": "TMDB",
       "tmdbId": 1777750,
       "score": 6.5,
       "scoreBy": "TMDB",
       "voteCount": 2,
-      "poster": "assets/posters/20267697.webp",
-      "posterCredit": "TMDB"
+      "showing": true
     },
     {
       "movieCd": "20255033",
@@ -102,18 +102,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3464138,
+      "audienceAcc": 3467223,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261105",
-      "days": 46,
+      "lastSeenAt": "20261106",
+      "days": 47,
       "bestRank": 1,
-      "rank": 7,
-      "audienceDay": 3349,
+      "rank": 8,
+      "audienceDay": 3085,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -149,17 +149,17 @@
       "titleEn": "Final Interview",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 62296,
+      "audienceAcc": 85049,
       "genres": [
         "미스터리"
       ],
       "type": "영화",
       "firstSeenAt": "20261029",
-      "lastSeenAt": "20261105",
-      "days": 4,
+      "lastSeenAt": "20261106",
+      "days": 5,
       "bestRank": 1,
-      "rank": 2,
-      "audienceDay": 19722,
+      "rank": 1,
+      "audienceDay": 22729,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -192,72 +192,23 @@
       "showing": true
     },
     {
-      "movieCd": "20256161",
-      "title": "타짜: 벨제붑의 노래",
-      "titleEn": "TAZZA: The Song of Beelzebub",
-      "titleOriginal": "",
-      "openedAt": "2026-09-23",
-      "audienceAcc": 2065996,
-      "genres": [
-        "범죄",
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260914",
-      "lastSeenAt": "20261105",
-      "days": 48,
-      "bestRank": 1,
-      "rank": 10,
-      "audienceDay": 1903,
-      "runtime": 129,
-      "directors": [
-        "최국희"
-      ],
-      "cast": [
-        "변요한",
-        "노재원",
-        "미요시 아야카",
-        "김민호",
-        "임세미",
-        "스테파니 리"
-      ],
-      "producers": [
-        "(주)싸이더스"
-      ],
-      "distributors": [
-        "(주)씨제이이엔엠"
-      ],
-      "rating": "청소년관람불가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20256161.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "타고난 끗발로 사람의 마음을 사로잡는 장태영과 천부적인 머리와 노력으로 스스로를 증명하는 박태영. 학창 시절부터 절친한 친구인 두 사람은 온라인 카지노 사업에 뛰어들며 승승장구하고, 사업의 성공이 커질수록 럭키한 장태만 주목받자, 박태의 질투는 조용히 자라난다. 성공의 꼭대기에서 질투는 배신으로 변한다. 장태영은 베트남 출장 중 박태영의 예상치 못한 배신으로 나락에 떨어지고, 기적적으로 살아남아 전설의 타짜 곽동욱에게 포커를 사사 받는다. 한편, 야쿠자 조직이 배후에 있는 가네코는 한국의 온라인 카지노 사업에 관심을 갖고 일본과 베트남의 거물들이 참여한 거액의 글로벌 도박판을 셋팅 한다. 벼랑 끝 도박판, 같은 이름, 다른 운명의 친구 장태영과 박태영은 마침내 그 곳에서 마주하는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1394740,
-      "score": 4,
-      "scoreBy": "TMDB",
-      "voteCount": 1,
-      "showing": true
-    },
-    {
       "movieCd": "20264498",
       "title": "하트 오브 비스트",
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 289081,
+      "audienceAcc": 309251,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261105",
-      "days": 9,
+      "lastSeenAt": "20261106",
+      "days": 10,
       "bestRank": 1,
-      "rank": 3,
-      "audienceDay": 18039,
+      "rank": 2,
+      "audienceDay": 20167,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -289,17 +240,17 @@
       "titleEn": "Ugly Duckling Ms. Maeng",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 91820,
+      "audienceAcc": 95457,
       "genres": [
         "코미디"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261105",
-      "days": 10,
+      "lastSeenAt": "20261106",
+      "days": 11,
       "bestRank": 3,
       "rank": 6,
-      "audienceDay": 4502,
+      "audienceDay": 3636,
       "runtime": 99,
       "directors": [
         "이용재"
@@ -338,17 +289,17 @@
       "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 18250,
+      "audienceAcc": 24174,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20261104",
-      "lastSeenAt": "20261105",
-      "days": 2,
+      "lastSeenAt": "20261106",
+      "days": 3,
       "bestRank": 4,
       "rank": 5,
-      "audienceDay": 4857,
+      "audienceDay": 5924,
       "runtime": 119,
       "directors": [
         "신보 아키유키"
@@ -380,7 +331,7 @@
       "titleEn": "Wild Horse Nine",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 7281,
+      "audienceAcc": 10491,
       "genres": [
         "미스터리",
         "범죄",
@@ -388,11 +339,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261104",
-      "lastSeenAt": "20261105",
-      "days": 2,
+      "lastSeenAt": "20261106",
+      "days": 3,
       "bestRank": 6,
-      "rank": 8,
-      "audienceDay": 2825,
+      "rank": 7,
+      "audienceDay": 3210,
       "runtime": 116,
       "directors": [
         "마틴 맥도나"
@@ -422,6 +373,144 @@
       "showing": true
     },
     {
+      "movieCd": "20264481",
+      "title": "모자 쓴 고양이",
+      "titleEn": "The Cat in the Hat",
+      "titleOriginal": "",
+      "openedAt": "2026-11-06",
+      "audienceAcc": 4365,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261106",
+      "lastSeenAt": "20261106",
+      "days": 1,
+      "bestRank": 9,
+      "rank": 9,
+      "audienceDay": 2175,
+      "runtime": 106,
+      "directors": [
+        "알레산드로 칼로니",
+        "에리카 리비노자"
+      ],
+      "cast": [
+        "조정석",
+        "사성웅",
+        "배정미",
+        "여민정",
+        "석승훈",
+        "송준석"
+      ],
+      "producers": [],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "이제껏 본 적 없는 ‘씽’나는 ‘냥’리법석이 펼쳐진다! 기상천외한 마법으로 소동을 일으키는 ‘모자 쓴 고양이’에게 주어진 특급 임무! 잃어버린 ‘돌림시계’를 되찾기 위해 떠나는 새로운 모험! 상상력과 영감을 담당하는 비밀 기관 I.I.I.I.의 요원인 ‘모자 쓴 고양이’는 새로운 동네로 이사한 뒤 적응에 힘들어하는 남매 ‘가비’와 ‘세바스찬’에게 웃음과 기쁨을 되찾아 주라는 임무를 맡게 된다. 하지만 사고뭉치 ‘모자 쓴 고양이’는 집안을 난장판으로 만드는 것도 모자라 마법의 ‘돌림시계’를 잃어버리고 만다. 요원으로서의 능력을 검증받을 수 있는 마지막 기회, ‘모자 쓴 고양이’는 ‘가비’와 ‘세바스찬’ 남매에게 도움을 요청하는데... 과연 ‘돌림시계’를 되찾고 남매의 소원도 이루어줄 수 있을까?",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1117898,
+      "score": 7.1,
+      "scoreBy": "TMDB",
+      "voteCount": 11,
+      "poster": "assets/posters/20264481.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20261695",
+      "title": "욕쟁이 할머니",
+      "titleEn": "The Foul-Mouthed Granny",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 6408,
+      "genres": [
+        "다큐멘터리",
+        "가족"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261102",
+      "lastSeenAt": "20261106",
+      "days": 2,
+      "bestRank": 10,
+      "rank": 10,
+      "audienceDay": 2109,
+      "runtime": 72,
+      "directors": [
+        "홍승표"
+      ],
+      "cast": [],
+      "producers": [
+        "(주)모산픽쳐스"
+      ],
+      "distributors": [
+        "유한회사 스튜디오 획"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20261695.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "포천 '욕쟁이 할머니'로 불리며 평생 따뜻한 밥상을 내어주었던 나의 어머니. 어머니가 떠난 뒤, 막내아들 홍승표 화백은 식당과 그림 속에 남겨진 어머니를 다시 마주한다. 사라진 것이 아니라, 기억 속에 살아 있는 사람. 그리움을 따라 써 내려간 가장 애틋한 기록.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1567517,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
+      "movieCd": "20256161",
+      "title": "타짜: 벨제붑의 노래",
+      "titleEn": "TAZZA: The Song of Beelzebub",
+      "titleOriginal": "",
+      "openedAt": "2026-09-23",
+      "audienceAcc": 2065996,
+      "genres": [
+        "범죄",
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260914",
+      "lastSeenAt": "20261105",
+      "days": 48,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 129,
+      "directors": [
+        "최국희"
+      ],
+      "cast": [
+        "변요한",
+        "노재원",
+        "미요시 아야카",
+        "김민호",
+        "임세미",
+        "스테파니 리"
+      ],
+      "producers": [
+        "(주)싸이더스"
+      ],
+      "distributors": [
+        "(주)씨제이이엔엠"
+      ],
+      "rating": "청소년관람불가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20256161.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "타고난 끗발로 사람의 마음을 사로잡는 장태영과 천부적인 머리와 노력으로 스스로를 증명하는 박태영. 학창 시절부터 절친한 친구인 두 사람은 온라인 카지노 사업에 뛰어들며 승승장구하고, 사업의 성공이 커질수록 럭키한 장태만 주목받자, 박태의 질투는 조용히 자라난다. 성공의 꼭대기에서 질투는 배신으로 변한다. 장태영은 베트남 출장 중 박태영의 예상치 못한 배신으로 나락에 떨어지고, 기적적으로 살아남아 전설의 타짜 곽동욱에게 포커를 사사 받는다. 한편, 야쿠자 조직이 배후에 있는 가네코는 한국의 온라인 카지노 사업에 관심을 갖고 일본과 베트남의 거물들이 참여한 거액의 글로벌 도박판을 셋팅 한다. 벼랑 끝 도박판, 같은 이름, 다른 운명의 친구 장태영과 박태영은 마침내 그 곳에서 마주하는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1394740,
+      "score": 4,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "showing": false
+    },
+    {
       "movieCd": "20243927",
       "title": "낮과 밤은 서로에게",
       "titleEn": "The Table : Day and Night",
@@ -436,8 +525,8 @@
       "lastSeenAt": "20261105",
       "days": 2,
       "bestRank": 7,
-      "rank": 9,
-      "audienceDay": 2126,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 79,
       "directors": [
         "김종관"
@@ -468,7 +557,7 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20266189",
@@ -694,48 +783,6 @@
       "score": 8.1,
       "scoreBy": "TMDB",
       "voteCount": 555,
-      "showing": false
-    },
-    {
-      "movieCd": "20261695",
-      "title": "욕쟁이 할머니",
-      "titleEn": "The Foul-Mouthed Granny",
-      "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 2490,
-      "genres": [
-        "다큐멘터리",
-        "가족"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261102",
-      "lastSeenAt": "20261102",
-      "days": 1,
-      "bestRank": 10,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 72,
-      "directors": [
-        "홍승표"
-      ],
-      "cast": [],
-      "producers": [
-        "(주)모산픽쳐스"
-      ],
-      "distributors": [
-        "유한회사 스튜디오 획"
-      ],
-      "rating": "전체관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20261695.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "포천 '욕쟁이 할머니'로 불리며 평생 따뜻한 밥상을 내어주었던 나의 어머니. 어머니가 떠난 뒤, 막내아들 홍승표 화백은 식당과 그림 속에 남겨진 어머니를 다시 마주한다. 사라진 것이 아니라, 기억 속에 살아 있는 사람. 그리움을 따라 써 내려간 가장 애틋한 기록.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1567517,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
       "showing": false
     },
     {
