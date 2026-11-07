@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-06",
-  "latestDt": "20261106",
+  "updatedAt": "2026-11-07",
+  "latestDt": "20261107",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2658249,
+      "audienceAcc": 2725861,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261106",
-      "days": 41,
+      "lastSeenAt": "20261107",
+      "days": 42,
       "bestRank": 1,
-      "rank": 3,
-      "audienceDay": 18455,
+      "rank": 1,
+      "audienceDay": 67615,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,7 +58,7 @@
       "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
       "titleOriginal": "名探偵コナン 30号殺人事件",
       "openedAt": "2026-11-05",
-      "audienceAcc": 46368,
+      "audienceAcc": 80778,
       "genres": [
         "애니메이션",
         "액션",
@@ -66,11 +66,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261105",
-      "lastSeenAt": "20261106",
-      "days": 2,
+      "lastSeenAt": "20261107",
+      "days": 3,
       "bestRank": 1,
       "rank": 4,
-      "audienceDay": 18203,
+      "audienceDay": 34410,
       "runtime": 93,
       "directors": [
         "카마나카 노부하루"
@@ -102,18 +102,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3467223,
+      "audienceAcc": 3471993,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261106",
-      "days": 47,
+      "lastSeenAt": "20261107",
+      "days": 48,
       "bestRank": 1,
-      "rank": 8,
-      "audienceDay": 3085,
+      "rank": 9,
+      "audienceDay": 4768,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -149,17 +149,17 @@
       "titleEn": "Final Interview",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 85049,
+      "audienceAcc": 129665,
       "genres": [
         "미스터리"
       ],
       "type": "영화",
       "firstSeenAt": "20261029",
-      "lastSeenAt": "20261106",
-      "days": 5,
+      "lastSeenAt": "20261107",
+      "days": 6,
       "bestRank": 1,
-      "rank": 1,
-      "audienceDay": 22729,
+      "rank": 2,
+      "audienceDay": 44594,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -197,18 +197,18 @@
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 309251,
+      "audienceAcc": 347364,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261106",
-      "days": 10,
+      "lastSeenAt": "20261107",
+      "days": 11,
       "bestRank": 1,
-      "rank": 2,
-      "audienceDay": 20167,
+      "rank": 3,
+      "audienceDay": 38108,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -240,17 +240,17 @@
       "titleEn": "Ugly Duckling Ms. Maeng",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 95457,
+      "audienceAcc": 99887,
       "genres": [
         "코미디"
       ],
       "type": "영화",
       "firstSeenAt": "20261019",
-      "lastSeenAt": "20261106",
-      "days": 11,
+      "lastSeenAt": "20261107",
+      "days": 12,
       "bestRank": 3,
-      "rank": 6,
-      "audienceDay": 3636,
+      "rank": 10,
+      "audienceDay": 4429,
       "runtime": 99,
       "directors": [
         "이용재"
@@ -289,17 +289,17 @@
       "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 24174,
+      "audienceAcc": 36363,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20261104",
-      "lastSeenAt": "20261106",
-      "days": 3,
+      "lastSeenAt": "20261107",
+      "days": 4,
       "bestRank": 4,
-      "rank": 5,
-      "audienceDay": 5924,
+      "rank": 6,
+      "audienceDay": 12189,
       "runtime": 119,
       "directors": [
         "신보 아키유키"
@@ -326,12 +326,100 @@
       "showing": true
     },
     {
+      "movieCd": "20155762",
+      "title": "진격의 거인: 홍련의 화살",
+      "titleEn": "Attack on Titan: Crimson Arrows",
+      "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
+      "openedAt": "2015-01-28",
+      "audienceAcc": 90880,
+      "genres": [
+        "애니메이션",
+        "판타지"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261107",
+      "days": 8,
+      "bestRank": 4,
+      "rank": 7,
+      "audienceDay": 7134,
+      "runtime": 119,
+      "directors": [
+        "아라키 테츠로"
+      ],
+      "cast": [],
+      "producers": [],
+      "distributors": [
+        "씨제이 씨지브이(CJ CGV)(주)",
+        "(주)박수엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20155762.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "무차별적으로 잡아먹는 식인 거인들이 나타나면서 멸망 위기에 놓인 인간 세계. 인간들은 그들을 피해 50미터의 거대한 벽을 쌓은 채 그 속에서 살아간다. 100년여 동안 평화 아닌 평화를 지켜 가며 숨죽여 살아가지만, 벽 밖의 세계가 궁금한 어린 ‘엘런 예거’는 새장에 갇힌 새처럼 사는 현실이 싫어 가족과 어릴 때부터 자신을 지켜 주었던 ‘미카사 아커만’의 반대 속에서도 그곳을 벗어나겠다는 고집을 꺾지 않는다. 이 때, 초대형 거인과 갑옷 거인이 나타나면서 허울뿐인 평화는 부서지는 벽과 함께 무참히 깨져 버린다. 거인들이 첫 번째 벽, 월 마리아를 부수고 안으로 들어오면서 절규와 죽음이 가득한 지옥 같은 상황이 이어지고, 눈 앞에서 잔혹하게 잡아 먹히는 어머니를 본 ‘엘런 예거’는 그들에게 복수를 다짐한다. 결국 두 번째 벽, 월 로제 안으로 도망친 '엘런 예거' 와 '미카사' 등은 훈련병에 지원하고 혹독한 수련을 거듭하며 거인에게 복수할 수 있는 힘을 키워나간다. 그리고 5년 후, 그들이 훈련병을 졸업하고 한 명의 병사로서 태어나는 바로 그날, 월 마리아를 파괴했던 초대형 거인이 '엘런' 앞에 다시 모습을 드러냈다. 과연 거인들은 어디로부터 오는가? 진짜 전쟁은 지금부터 시작이다!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 379088,
+      "score": 8.1,
+      "scoreBy": "TMDB",
+      "voteCount": 555,
+      "showing": true
+    },
+    {
+      "movieCd": "20264481",
+      "title": "모자 쓴 고양이",
+      "titleEn": "The Cat in the Hat",
+      "titleOriginal": "",
+      "openedAt": "2026-11-06",
+      "audienceAcc": 17241,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261106",
+      "lastSeenAt": "20261107",
+      "days": 2,
+      "bestRank": 5,
+      "rank": 5,
+      "audienceDay": 12875,
+      "runtime": 106,
+      "directors": [
+        "알레산드로 칼로니",
+        "에리카 리비노자"
+      ],
+      "cast": [
+        "조정석",
+        "사성웅",
+        "배정미",
+        "여민정",
+        "석승훈",
+        "송준석"
+      ],
+      "producers": [],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264481.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "이제껏 본 적 없는 ‘씽’나는 ‘냥’리법석이 펼쳐진다! 기상천외한 마법으로 소동을 일으키는 ‘모자 쓴 고양이’에게 주어진 특급 임무! 잃어버린 ‘돌림시계’를 되찾기 위해 떠나는 새로운 모험! 상상력과 영감을 담당하는 비밀 기관 I.I.I.I.의 요원인 ‘모자 쓴 고양이’는 새로운 동네로 이사한 뒤 적응에 힘들어하는 남매 ‘가비’와 ‘세바스찬’에게 웃음과 기쁨을 되찾아 주라는 임무를 맡게 된다. 하지만 사고뭉치 ‘모자 쓴 고양이’는 집안을 난장판으로 만드는 것도 모자라 마법의 ‘돌림시계’를 잃어버리고 만다. 요원으로서의 능력을 검증받을 수 있는 마지막 기회, ‘모자 쓴 고양이’는 ‘가비’와 ‘세바스찬’ 남매에게 도움을 요청하는데... 과연 ‘돌림시계’를 되찾고 남매의 소원도 이루어줄 수 있을까?",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1117898,
+      "score": 7.1,
+      "scoreBy": "TMDB",
+      "voteCount": 11,
+      "showing": true
+    },
+    {
       "movieCd": "20266765",
       "title": "와일드 호스 나인",
       "titleEn": "Wild Horse Nine",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 10491,
+      "audienceAcc": 15810,
       "genres": [
         "미스터리",
         "범죄",
@@ -339,11 +427,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261104",
-      "lastSeenAt": "20261106",
-      "days": 3,
+      "lastSeenAt": "20261107",
+      "days": 4,
       "bestRank": 6,
-      "rank": 7,
-      "audienceDay": 3210,
+      "rank": 8,
+      "audienceDay": 5319,
       "runtime": 116,
       "directors": [
         "마틴 맥도나"
@@ -373,53 +461,6 @@
       "showing": true
     },
     {
-      "movieCd": "20264481",
-      "title": "모자 쓴 고양이",
-      "titleEn": "The Cat in the Hat",
-      "titleOriginal": "",
-      "openedAt": "2026-11-06",
-      "audienceAcc": 4365,
-      "genres": [
-        "애니메이션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261106",
-      "lastSeenAt": "20261106",
-      "days": 1,
-      "bestRank": 9,
-      "rank": 9,
-      "audienceDay": 2175,
-      "runtime": 106,
-      "directors": [
-        "알레산드로 칼로니",
-        "에리카 리비노자"
-      ],
-      "cast": [
-        "조정석",
-        "사성웅",
-        "배정미",
-        "여민정",
-        "석승훈",
-        "송준석"
-      ],
-      "producers": [],
-      "distributors": [
-        "워너브러더스 코리아(주)"
-      ],
-      "rating": "전체관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "showing": true,
-      "synopsis": "이제껏 본 적 없는 ‘씽’나는 ‘냥’리법석이 펼쳐진다! 기상천외한 마법으로 소동을 일으키는 ‘모자 쓴 고양이’에게 주어진 특급 임무! 잃어버린 ‘돌림시계’를 되찾기 위해 떠나는 새로운 모험! 상상력과 영감을 담당하는 비밀 기관 I.I.I.I.의 요원인 ‘모자 쓴 고양이’는 새로운 동네로 이사한 뒤 적응에 힘들어하는 남매 ‘가비’와 ‘세바스찬’에게 웃음과 기쁨을 되찾아 주라는 임무를 맡게 된다. 하지만 사고뭉치 ‘모자 쓴 고양이’는 집안을 난장판으로 만드는 것도 모자라 마법의 ‘돌림시계’를 잃어버리고 만다. 요원으로서의 능력을 검증받을 수 있는 마지막 기회, ‘모자 쓴 고양이’는 ‘가비’와 ‘세바스찬’ 남매에게 도움을 요청하는데... 과연 ‘돌림시계’를 되찾고 남매의 소원도 이루어줄 수 있을까?",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1117898,
-      "score": 7.1,
-      "scoreBy": "TMDB",
-      "voteCount": 11,
-      "poster": "assets/posters/20264481.webp",
-      "posterCredit": "TMDB"
-    },
-    {
       "movieCd": "20261695",
       "title": "욕쟁이 할머니",
       "titleEn": "The Foul-Mouthed Granny",
@@ -435,8 +476,8 @@
       "lastSeenAt": "20261106",
       "days": 2,
       "bestRank": 10,
-      "rank": 10,
-      "audienceDay": 2109,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 72,
       "directors": [
         "홍승표"
@@ -459,7 +500,7 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20256161",
@@ -745,47 +786,6 @@
       "showing": false
     },
     {
-      "movieCd": "20155762",
-      "title": "진격의 거인: 홍련의 화살",
-      "titleEn": "Attack on Titan: Crimson Arrows",
-      "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
-      "openedAt": "2015-01-28",
-      "audienceAcc": 80393,
-      "genres": [
-        "애니메이션",
-        "판타지"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261028",
-      "lastSeenAt": "20261103",
-      "days": 7,
-      "bestRank": 4,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 119,
-      "directors": [
-        "아라키 테츠로"
-      ],
-      "cast": [],
-      "producers": [],
-      "distributors": [
-        "씨제이 씨지브이(CJ CGV)(주)",
-        "(주)박수엔터테인먼트"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20155762.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "무차별적으로 잡아먹는 식인 거인들이 나타나면서 멸망 위기에 놓인 인간 세계. 인간들은 그들을 피해 50미터의 거대한 벽을 쌓은 채 그 속에서 살아간다. 100년여 동안 평화 아닌 평화를 지켜 가며 숨죽여 살아가지만, 벽 밖의 세계가 궁금한 어린 ‘엘런 예거’는 새장에 갇힌 새처럼 사는 현실이 싫어 가족과 어릴 때부터 자신을 지켜 주었던 ‘미카사 아커만’의 반대 속에서도 그곳을 벗어나겠다는 고집을 꺾지 않는다. 이 때, 초대형 거인과 갑옷 거인이 나타나면서 허울뿐인 평화는 부서지는 벽과 함께 무참히 깨져 버린다. 거인들이 첫 번째 벽, 월 마리아를 부수고 안으로 들어오면서 절규와 죽음이 가득한 지옥 같은 상황이 이어지고, 눈 앞에서 잔혹하게 잡아 먹히는 어머니를 본 ‘엘런 예거’는 그들에게 복수를 다짐한다. 결국 두 번째 벽, 월 로제 안으로 도망친 '엘런 예거' 와 '미카사' 등은 훈련병에 지원하고 혹독한 수련을 거듭하며 거인에게 복수할 수 있는 힘을 키워나간다. 그리고 5년 후, 그들이 훈련병을 졸업하고 한 명의 병사로서 태어나는 바로 그날, 월 마리아를 파괴했던 초대형 거인이 '엘런' 앞에 다시 모습을 드러냈다. 과연 거인들은 어디로부터 오는가? 진짜 전쟁은 지금부터 시작이다!",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 379088,
-      "score": 8.1,
-      "scoreBy": "TMDB",
-      "voteCount": 555,
-      "showing": false
-    },
-    {
       "movieCd": "20265062",
       "title": "룩백",
       "titleEn": "Look Back",
@@ -1008,9 +1008,9 @@
       "synopsis": "인터넷 방송 중 발생한 사망 사고로 나락에 떨어진 몰카 크루 ‘킬링타임’. 방송을 그만두고 자숙하던 ‘킬링타임’의 스트리머 ‘연우’는 ‘주원’의 제안으로 새로운 콘텐츠 촬영을 위해 폐병원을 찾는다. 하지만 촬영이 시작되자 정체불명의 존재가 크루들을 위협하고 더는 물러설 곳이 없던 크루들은 이제 반대로 생존을 위해 달려야 한다.",
       "synopsisCredit": "TMDB",
       "tmdbId": 1376681,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
+      "score": 6,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
       "showing": false
     },
     {
@@ -1831,193 +1831,6 @@
       "score": 8.1,
       "scoreBy": "TMDB",
       "voteCount": 28,
-      "showing": false
-    },
-    {
-      "movieCd": "20265423",
-      "title": "더 드라마",
-      "titleEn": "The Drama",
-      "titleOriginal": "",
-      "openedAt": "2026-09-09",
-      "audienceAcc": 83097,
-      "genres": [
-        "드라마",
-        "멜로/로맨스"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260909",
-      "lastSeenAt": "20260922",
-      "days": 13,
-      "bestRank": 4,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 106,
-      "directors": [
-        "크리스토퍼 보글리"
-      ],
-      "cast": [
-        "젠데이아 콜먼",
-        "로버트 패틴슨"
-      ],
-      "producers": [],
-      "distributors": [
-        "워터홀컴퍼니(주)"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20265423.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "결혼식을 일주일 앞둔 행복한 커플 엠마와 찰리. 우연히 알게 된 상대방의 비밀로 인해 단단했던 믿음이 흔들린다. 첫만남부터 서로를 완벽히 안다고 생각했던 두 사람, 작은 균열은 걷잡을 수 없이 커진 채 모두의 모습을 비추고…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1325734,
-      "score": 6.9,
-      "scoreBy": "TMDB",
-      "voteCount": 1865,
-      "showing": false
-    },
-    {
-      "movieCd": "20070216",
-      "title": "시간을 달리는 소녀",
-      "titleEn": "The Girl Who Leapt Through Time",
-      "titleOriginal": "時をかける少女",
-      "openedAt": "2007-06-14",
-      "audienceAcc": 136226,
-      "genres": [
-        "애니메이션",
-        "판타지",
-        "멜로/로맨스"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260916",
-      "lastSeenAt": "20260922",
-      "days": 7,
-      "bestRank": 5,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 98,
-      "directors": [
-        "호소다 마모루"
-      ],
-      "cast": [
-        "이시다 타쿠야",
-        "나카 리이사"
-      ],
-      "producers": [],
-      "distributors": [
-        "와이드 릴리즈(주)",
-        "(주)얼리버드픽쳐스",
-        "THE 픽쳐스"
-      ],
-      "rating": "전체관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20070216.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "평범한 고등학생인 콘노 마코토는 어떤 사고를 계기로 시간을 이동하는 능력을 얻게 된다. 이모 요시야마 카즈코에게 상담을 해 본 결과, 그것은 타임 리프라 불리는 능력으로 또래의 여자아이들에게 자주 있는 일이라고 아무렇지도 않게 말하는 것. 원하는 시간으로 돌아가 원하는 것은 모두 할 수 있게 된 마코토는 세상이 자기 것이 된 듯한 기분에 빠진다. 그러나 머지 않아 친구인 마미야 치아키와 츠다 코스케와의 관계에 미묘한 변화가 생긴다. 치아키로부터 생각지도 못한 고백을 받게 된 마코토는 당황한 나머지 타임 리프 능력을 이용해 그 고백을 없었던 것으로 만들어 버리는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 14069,
-      "score": 7.8,
-      "scoreBy": "TMDB",
-      "voteCount": 2314,
-      "showing": false
-    },
-    {
-      "movieCd": "20233219",
-      "title": "호프",
-      "titleEn": "HOPE",
-      "titleOriginal": "",
-      "openedAt": "2026-07-15",
-      "audienceAcc": 4584115,
-      "genres": [
-        "SF",
-        "스릴러",
-        "액션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260824",
-      "lastSeenAt": "20260922",
-      "days": 14,
-      "bestRank": 5,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 156,
-      "directors": [
-        "나홍진"
-      ],
-      "cast": [
-        "황정민",
-        "조인성",
-        "정호연",
-        "마이클 패스벤더",
-        "알리시아 비칸데르",
-        "테일러 러셀"
-      ],
-      "producers": [
-        "(주)포지드필름스",
-        "메가박스중앙(주) 플러스엠 엔터테인먼트",
-        "(주)웨스트월드"
-      ],
-      "distributors": [
-        "메가박스중앙(주) 플러스엠 엔터테인먼트"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20233219.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "지원해 줄 인력들은 산불을 끄러 갔고, 이젠 통신도 두절됐다. 호포 출장소의 범석과 성애는 노인들뿐인 마을을 지키기 위해 사투를 벌이고, 놈을 쫓아서  산으로 향했던 청년들과 성기는 되려 놈들의 사냥감이 되어 버린다. 무지가 빚어낸 불행의 씨앗은 입장의 차이를 거쳐 온 우주의 비극이 되고야  만다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1058424,
-      "score": 7.3,
-      "scoreBy": "TMDB",
-      "voteCount": 92,
-      "showing": false
-    },
-    {
-      "movieCd": "20241110",
-      "title": "아이유 콘서트 : 더 위닝",
-      "titleEn": "IU CONCERT : THE WINNING",
-      "titleOriginal": "",
-      "openedAt": "2025-01-24",
-      "audienceAcc": 87389,
-      "genres": [
-        "공연"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260916",
-      "lastSeenAt": "20260922",
-      "days": 4,
-      "bestRank": 8,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 123,
-      "directors": [
-        "오윤동",
-        "이예지"
-      ],
-      "cast": [
-        "이지은"
-      ],
-      "producers": [
-        "씨제이포디플렉스 주식회사",
-        "스크린엑스 스튜디오"
-      ],
-      "distributors": [
-        "씨지브이 아이스콘",
-        "씨제이포디플렉스 주식회사"
-      ],
-      "rating": "전체관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20241110.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "최초의 아이콘 아이유, 100번째 콘서트로 완성된 찬란한 기록. 'Love wins all', '홀씨', 'Shopper', 'Celebrity', 'Last Fantasy' 등 수많은 명곡으로 서울월드컵경기장을 가득 채운 아이유와 유애나의 뜨거운 에너지와 함성. 상암 하늘을 수놓은 환상적인 드론쇼까지! 승리를 위해 달려온 여정의 마지막 챕터가 지금 스크린에서 펼쳐진다!",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1408553,
-      "score": 8.2,
-      "scoreBy": "TMDB",
-      "voteCount": 4,
       "showing": false
     }
   ]
