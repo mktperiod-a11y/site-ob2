@@ -3,6 +3,55 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20264801",
+      "title": "포가튼 아일랜드",
+      "titleEn": "Forgotten Island",
+      "titleOriginal": "",
+      "openedAt": "2026-09-23",
+      "audienceAcc": 18047,
+      "genres": [
+        "판타지",
+        "코미디",
+        "어드벤처"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260912",
+      "lastSeenAt": "20260923",
+      "days": 3,
+      "bestRank": 5,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 108,
+      "directors": [
+        "조엘 크로포드",
+        "제뉴얼 메르카도"
+      ],
+      "cast": [
+        "H.E.R",
+        "라이자 소베라노",
+        "데이브 프랭코",
+        "제니 슬레이트",
+        "매니 자신토",
+        "돌리 데 레온"
+      ],
+      "producers": [],
+      "distributors": [
+        "유니버설픽쳐스인터내셔널 코리아(유)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264801.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "성격은 달라도 마음만큼은 누구보다 잘 통했던 ‘조’와 ‘라이사’는 최고의 베프로 모든 순간을 함께하며 둘만의 기억을 쌓아간다. 그러나 졸업과 함께 서로 다른 환경을 살아가던 두 사람의 우정은 조금씩 흔들리기 시작한다. 그러던 어느 날, 전설처럼 전해지던 신비한 포털을 발견한 두 사람은 기억이 사라지는 세계, ‘포가튼 아일랜드’로 빨려 들어가게 되고, 시공간의 경계를 넘나드는 이 섬을 떠나기 위해선 가장 소중한 추억을 포기해야 하는 규칙이 주어진다. 기억을 훔치는 섬의 지배자 ‘마낭’이 두 사람을 위협하는 가운데 ‘조’와 ‘라이사’는 섬에서 만난 새로운 친구들과 비밀을 쫓기 시작하지만 진실에 가까워질수록 두 사람의 기억은 사라질 위기에 처하는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1465063,
+      "score": 8.1,
+      "scoreBy": "TMDB",
+      "voteCount": 28,
+      "showing": false
+    },
+    {
       "movieCd": "20265423",
       "title": "더 드라마",
       "titleEn": "The Drama",
@@ -42,8 +91,7 @@
       "tmdbId": 1325734,
       "score": 6.9,
       "scoreBy": "TMDB",
-      "voteCount": 1865,
-      "showing": false
+      "voteCount": 1865
     },
     {
       "movieCd": "20070216",
@@ -88,8 +136,7 @@
       "tmdbId": 14069,
       "score": 7.8,
       "scoreBy": "TMDB",
-      "voteCount": 2314,
-      "showing": false
+      "voteCount": 2314
     },
     {
       "movieCd": "20241110",
@@ -134,8 +181,7 @@
       "tmdbId": 1408553,
       "score": 8.2,
       "scoreBy": "TMDB",
-      "voteCount": 4,
-      "showing": false
+      "voteCount": 4
     },
     {
       "movieCd": "20233219",
@@ -186,8 +232,7 @@
       "tmdbId": 1058424,
       "score": 7.3,
       "scoreBy": "TMDB",
-      "voteCount": 92,
-      "showing": false
+      "voteCount": 92
     },
     {
       "movieCd": "20265587",
