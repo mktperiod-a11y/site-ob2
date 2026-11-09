@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-08",
-  "latestDt": "20261108",
+  "updatedAt": "2026-11-09",
+  "latestDt": "20261109",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2788839,
+      "audienceAcc": 2797524,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261108",
-      "days": 43,
+      "lastSeenAt": "20261109",
+      "days": 44,
       "bestRank": 1,
-      "rank": 1,
-      "audienceDay": 62972,
+      "rank": 3,
+      "audienceDay": 8681,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,7 +58,7 @@
       "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
       "titleOriginal": "名探偵コナン 30号殺人事件",
       "openedAt": "2026-11-05",
-      "audienceAcc": 108164,
+      "audienceAcc": 115609,
       "genres": [
         "애니메이션",
         "액션",
@@ -66,11 +66,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261105",
-      "lastSeenAt": "20261108",
-      "days": 4,
+      "lastSeenAt": "20261109",
+      "days": 5,
       "bestRank": 1,
       "rank": 4,
-      "audienceDay": 27386,
+      "audienceDay": 7445,
       "runtime": 93,
       "directors": [
         "카마나카 노부하루"
@@ -102,18 +102,18 @@
       "titleEn": "The Assassin(s)",
       "titleOriginal": "",
       "openedAt": "2026-09-23",
-      "audienceAcc": 3476469,
+      "audienceAcc": 3478353,
       "genres": [
         "범죄",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20260917",
-      "lastSeenAt": "20261108",
-      "days": 49,
+      "lastSeenAt": "20261109",
+      "days": 50,
       "bestRank": 1,
-      "rank": 9,
-      "audienceDay": 4472,
+      "rank": 7,
+      "audienceDay": 1882,
       "runtime": 130,
       "directors": [
         "허진호"
@@ -149,17 +149,17 @@
       "titleEn": "Final Interview",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 166774,
+      "audienceAcc": 179197,
       "genres": [
         "미스터리"
       ],
       "type": "영화",
       "firstSeenAt": "20261029",
-      "lastSeenAt": "20261108",
-      "days": 7,
+      "lastSeenAt": "20261109",
+      "days": 8,
       "bestRank": 1,
-      "rank": 2,
-      "audienceDay": 37087,
+      "rank": 1,
+      "audienceDay": 12395,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -192,23 +192,72 @@
       "showing": true
     },
     {
+      "movieCd": "20256161",
+      "title": "타짜: 벨제붑의 노래",
+      "titleEn": "TAZZA: The Song of Beelzebub",
+      "titleOriginal": "",
+      "openedAt": "2026-09-23",
+      "audienceAcc": 2073293,
+      "genres": [
+        "범죄",
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260914",
+      "lastSeenAt": "20261109",
+      "days": 49,
+      "bestRank": 1,
+      "rank": 8,
+      "audienceDay": 1329,
+      "runtime": 129,
+      "directors": [
+        "최국희"
+      ],
+      "cast": [
+        "변요한",
+        "노재원",
+        "미요시 아야카",
+        "김민호",
+        "임세미",
+        "스테파니 리"
+      ],
+      "producers": [
+        "(주)싸이더스"
+      ],
+      "distributors": [
+        "(주)씨제이이엔엠"
+      ],
+      "rating": "청소년관람불가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20256161.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "타고난 끗발로 사람의 마음을 사로잡는 장태영과 천부적인 머리와 노력으로 스스로를 증명하는 박태영. 학창 시절부터 절친한 친구인 두 사람은 온라인 카지노 사업에 뛰어들며 승승장구하고, 사업의 성공이 커질수록 럭키한 장태만 주목받자, 박태의 질투는 조용히 자라난다. 성공의 꼭대기에서 질투는 배신으로 변한다. 장태영은 베트남 출장 중 박태영의 예상치 못한 배신으로 나락에 떨어지고, 기적적으로 살아남아 전설의 타짜 곽동욱에게 포커를 사사 받는다. 한편, 야쿠자 조직이 배후에 있는 가네코는 한국의 온라인 카지노 사업에 관심을 갖고 일본과 베트남의 거물들이 참여한 거액의 글로벌 도박판을 셋팅 한다. 벼랑 끝 도박판, 같은 이름, 다른 운명의 친구 장태영과 박태영은 마침내 그 곳에서 마주하는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1394740,
+      "score": 4,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "showing": true
+    },
+    {
       "movieCd": "20264498",
       "title": "하트 오브 비스트",
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 379761,
+      "audienceAcc": 389841,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261108",
-      "days": 12,
+      "lastSeenAt": "20261109",
+      "days": 13,
       "bestRank": 1,
-      "rank": 3,
-      "audienceDay": 32395,
+      "rank": 2,
+      "audienceDay": 10086,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -240,17 +289,17 @@
       "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 43319,
+      "audienceAcc": 45535,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20261104",
-      "lastSeenAt": "20261108",
-      "days": 5,
+      "lastSeenAt": "20261109",
+      "days": 6,
       "bestRank": 4,
       "rank": 6,
-      "audienceDay": 6956,
+      "audienceDay": 2216,
       "runtime": 119,
       "directors": [
         "신보 아키유키"
@@ -277,63 +326,22 @@
       "showing": true
     },
     {
-      "movieCd": "20155762",
-      "title": "진격의 거인: 홍련의 화살",
-      "titleEn": "Attack on Titan: Crimson Arrows",
-      "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
-      "openedAt": "2015-01-28",
-      "audienceAcc": 97105,
-      "genres": [
-        "애니메이션",
-        "판타지"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261028",
-      "lastSeenAt": "20261108",
-      "days": 9,
-      "bestRank": 4,
-      "rank": 7,
-      "audienceDay": 6225,
-      "runtime": 119,
-      "directors": [
-        "아라키 테츠로"
-      ],
-      "cast": [],
-      "producers": [],
-      "distributors": [
-        "씨제이 씨지브이(CJ CGV)(주)",
-        "(주)박수엔터테인먼트"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20155762.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "무차별적으로 잡아먹는 식인 거인들이 나타나면서 멸망 위기에 놓인 인간 세계. 인간들은 그들을 피해 50미터의 거대한 벽을 쌓은 채 그 속에서 살아간다. 100년여 동안 평화 아닌 평화를 지켜 가며 숨죽여 살아가지만, 벽 밖의 세계가 궁금한 어린 ‘엘런 예거’는 새장에 갇힌 새처럼 사는 현실이 싫어 가족과 어릴 때부터 자신을 지켜 주었던 ‘미카사 아커만’의 반대 속에서도 그곳을 벗어나겠다는 고집을 꺾지 않는다. 이 때, 초대형 거인과 갑옷 거인이 나타나면서 허울뿐인 평화는 부서지는 벽과 함께 무참히 깨져 버린다. 거인들이 첫 번째 벽, 월 마리아를 부수고 안으로 들어오면서 절규와 죽음이 가득한 지옥 같은 상황이 이어지고, 눈 앞에서 잔혹하게 잡아 먹히는 어머니를 본 ‘엘런 예거’는 그들에게 복수를 다짐한다. 결국 두 번째 벽, 월 로제 안으로 도망친 '엘런 예거' 와 '미카사' 등은 훈련병에 지원하고 혹독한 수련을 거듭하며 거인에게 복수할 수 있는 힘을 키워나간다. 그리고 5년 후, 그들이 훈련병을 졸업하고 한 명의 병사로서 태어나는 바로 그날, 월 마리아를 파괴했던 초대형 거인이 '엘런' 앞에 다시 모습을 드러냈다. 과연 거인들은 어디로부터 오는가? 진짜 전쟁은 지금부터 시작이다!",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 379088,
-      "score": 8.1,
-      "scoreBy": "TMDB",
-      "voteCount": 555,
-      "showing": true
-    },
-    {
       "movieCd": "20264481",
       "title": "모자 쓴 고양이",
       "titleEn": "The Cat in the Hat",
       "titleOriginal": "",
       "openedAt": "2026-11-06",
-      "audienceAcc": 31448,
+      "audienceAcc": 32745,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20261106",
-      "lastSeenAt": "20261108",
-      "days": 3,
+      "lastSeenAt": "20261109",
+      "days": 4,
       "bestRank": 5,
-      "rank": 5,
-      "audienceDay": 14193,
+      "rank": 9,
+      "audienceDay": 1298,
       "runtime": 106,
       "directors": [
         "알레산드로 칼로니",
@@ -370,7 +378,7 @@
       "titleEn": "Wild Horse Nine",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 21394,
+      "audienceAcc": 24309,
       "genres": [
         "미스터리",
         "범죄",
@@ -378,11 +386,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261104",
-      "lastSeenAt": "20261108",
-      "days": 5,
-      "bestRank": 6,
-      "rank": 8,
-      "audienceDay": 5584,
+      "lastSeenAt": "20261109",
+      "days": 6,
+      "bestRank": 5,
+      "rank": 5,
+      "audienceDay": 2916,
       "runtime": 116,
       "directors": [
         "마틴 맥도나"
@@ -412,6 +420,90 @@
       "showing": true
     },
     {
+      "movieCd": "20192401",
+      "title": "포드 V 페라리",
+      "titleEn": "FORD v FERRARI",
+      "titleOriginal": "",
+      "openedAt": "2019-12-04",
+      "audienceAcc": 1377306,
+      "genres": [
+        "액션",
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261109",
+      "lastSeenAt": "20261109",
+      "days": 1,
+      "bestRank": 10,
+      "rank": 10,
+      "audienceDay": 1199,
+      "runtime": 152,
+      "directors": [
+        "제임스 맨골드"
+      ],
+      "cast": [
+        "맷 데이먼",
+        "크리스찬 베일"
+      ],
+      "producers": [],
+      "distributors": [
+        "월트디즈니컴퍼니코리아 유한책임회사"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "1960년대, 매출 감소에 빠진 포드는 판매 활로를 찾기 위해 페라리와의 인수 합병을 추진한다. 막대한 자금력에도 불구, 계약에 실패하고 엔초 페라리로부터 모욕까지 당한 헨리 포드 2세는 르망 24시간 레이스에서 페라리를 박살 낼 차를 만들 것을 지시한다. 지옥의 레이스로 불리는 르망 24시간 레이스. 출전 경험조차 없는 포드는 대회 6연패를 차지한 페라리에 대항하기 위해 르망 우승자 출신 자동차 디자이너 캐롤 셸비를 고용하고, 그는 누구와도 타협하지 않지만 열정과 실력만큼은 최고인 레이서 켄 마일스를 자신의 파트너로 영입하는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 359724,
+      "score": 8,
+      "scoreBy": "TMDB",
+      "voteCount": 9474,
+      "poster": "assets/posters/20192401.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20155762",
+      "title": "진격의 거인: 홍련의 화살",
+      "titleEn": "Attack on Titan: Crimson Arrows",
+      "titleOriginal": "劇場版 進撃の巨人 前編　紅蓮の弓矢",
+      "openedAt": "2015-01-28",
+      "audienceAcc": 97105,
+      "genres": [
+        "애니메이션",
+        "판타지"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261108",
+      "days": 9,
+      "bestRank": 4,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 119,
+      "directors": [
+        "아라키 테츠로"
+      ],
+      "cast": [],
+      "producers": [],
+      "distributors": [
+        "씨제이 씨지브이(CJ CGV)(주)",
+        "(주)박수엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20155762.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "무차별적으로 잡아먹는 식인 거인들이 나타나면서 멸망 위기에 놓인 인간 세계. 인간들은 그들을 피해 50미터의 거대한 벽을 쌓은 채 그 속에서 살아간다. 100년여 동안 평화 아닌 평화를 지켜 가며 숨죽여 살아가지만, 벽 밖의 세계가 궁금한 어린 ‘엘런 예거’는 새장에 갇힌 새처럼 사는 현실이 싫어 가족과 어릴 때부터 자신을 지켜 주었던 ‘미카사 아커만’의 반대 속에서도 그곳을 벗어나겠다는 고집을 꺾지 않는다. 이 때, 초대형 거인과 갑옷 거인이 나타나면서 허울뿐인 평화는 부서지는 벽과 함께 무참히 깨져 버린다. 거인들이 첫 번째 벽, 월 마리아를 부수고 안으로 들어오면서 절규와 죽음이 가득한 지옥 같은 상황이 이어지고, 눈 앞에서 잔혹하게 잡아 먹히는 어머니를 본 ‘엘런 예거’는 그들에게 복수를 다짐한다. 결국 두 번째 벽, 월 로제 안으로 도망친 '엘런 예거' 와 '미카사' 등은 훈련병에 지원하고 혹독한 수련을 거듭하며 거인에게 복수할 수 있는 힘을 키워나간다. 그리고 5년 후, 그들이 훈련병을 졸업하고 한 명의 병사로서 태어나는 바로 그날, 월 마리아를 파괴했던 초대형 거인이 '엘런' 앞에 다시 모습을 드러냈다. 과연 거인들은 어디로부터 오는가? 진짜 전쟁은 지금부터 시작이다!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 379088,
+      "score": 8.1,
+      "scoreBy": "TMDB",
+      "voteCount": 555,
+      "showing": false
+    },
+    {
       "movieCd": "20256757",
       "title": "극장판 체인소 맨: 레제편",
       "titleEn": "Chainsaw Man The Movie: Reze Arc",
@@ -428,8 +520,8 @@
       "lastSeenAt": "20261108",
       "days": 1,
       "bestRank": 10,
-      "rank": 10,
-      "audienceDay": 2467,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 99,
       "directors": [],
       "cast": [],
@@ -440,15 +532,15 @@
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20256757.webp",
+      "posterCredit": "TMDB",
       "synopsis": "데블 헌터로 일하는 소년 ‘덴지’는 조직의 배신으로 죽음에 내몰린 순간 전기톱 악마견 ‘포치타’와의 계약으로 하나로 합쳐져 누구도 막을 수 없는 존재 ‘체인소 맨’으로 다시 태어난다. 악마와 사냥꾼, 그리고 정체불명의 적들이 얽힌 잔혹한 전쟁 속에서 ‘레제’라는 이름의 미스터리한 소녀가 ‘덴지’ 앞에 나타나는데… ‘덴지’는 사랑이라는 감정에 이끌려 지금껏 가장 위험한 배틀에 몸을 던진다!",
       "synopsisCredit": "TMDB",
       "tmdbId": 1218925,
       "score": 8.5,
       "scoreBy": "TMDB",
       "voteCount": 1281,
-      "poster": "assets/posters/20256757.webp",
-      "posterCredit": "TMDB"
+      "showing": false
     },
     {
       "movieCd": "20231795",
@@ -539,55 +631,6 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": false
-    },
-    {
-      "movieCd": "20256161",
-      "title": "타짜: 벨제붑의 노래",
-      "titleEn": "TAZZA: The Song of Beelzebub",
-      "titleOriginal": "",
-      "openedAt": "2026-09-23",
-      "audienceAcc": 2065996,
-      "genres": [
-        "범죄",
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260914",
-      "lastSeenAt": "20261105",
-      "days": 48,
-      "bestRank": 1,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 129,
-      "directors": [
-        "최국희"
-      ],
-      "cast": [
-        "변요한",
-        "노재원",
-        "미요시 아야카",
-        "김민호",
-        "임세미",
-        "스테파니 리"
-      ],
-      "producers": [
-        "(주)싸이더스"
-      ],
-      "distributors": [
-        "(주)씨제이이엔엠"
-      ],
-      "rating": "청소년관람불가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20256161.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "타고난 끗발로 사람의 마음을 사로잡는 장태영과 천부적인 머리와 노력으로 스스로를 증명하는 박태영. 학창 시절부터 절친한 친구인 두 사람은 온라인 카지노 사업에 뛰어들며 승승장구하고, 사업의 성공이 커질수록 럭키한 장태만 주목받자, 박태의 질투는 조용히 자라난다. 성공의 꼭대기에서 질투는 배신으로 변한다. 장태영은 베트남 출장 중 박태영의 예상치 못한 배신으로 나락에 떨어지고, 기적적으로 살아남아 전설의 타짜 곽동욱에게 포커를 사사 받는다. 한편, 야쿠자 조직이 배후에 있는 가네코는 한국의 온라인 카지노 사업에 관심을 갖고 일본과 베트남의 거물들이 참여한 거액의 글로벌 도박판을 셋팅 한다. 벼랑 끝 도박판, 같은 이름, 다른 운명의 친구 장태영과 박태영은 마침내 그 곳에서 마주하는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1394740,
-      "score": 4,
-      "scoreBy": "TMDB",
-      "voteCount": 1,
       "showing": false
     },
     {
