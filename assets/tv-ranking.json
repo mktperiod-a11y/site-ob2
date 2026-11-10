@@ -2,7 +2,7 @@
   "note": "TMDB 최근 한국 TV 후보를 한국형 예외 필터로 드라마/예능 분류한 자동 데이터입니다.",
   "source": "TMDB",
   "rankedBy": "TMDB popularity 순",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "lookbackDays": 35,
   "rules": {
     "whitelistVarietyIds": [
@@ -24,7 +24,7 @@
       "originalTitle": "재혼 황후",
       "type": "드라마",
       "rank": 1,
-      "popularity": 213.3677,
+      "popularity": 210.4033,
       "genres": [
         18,
         10765
@@ -52,7 +52,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 1,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -62,7 +62,7 @@
       "originalTitle": "꿀알바",
       "type": "드라마",
       "rank": 2,
-      "popularity": 118.137,
+      "popularity": 108.0882,
       "genres": [
         9648,
         18
@@ -93,7 +93,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 2,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -103,7 +103,7 @@
       "originalTitle": "나의 유죄인간",
       "type": "드라마",
       "rank": 3,
-      "popularity": 82.4727,
+      "popularity": 99.7078,
       "genres": [
         35,
         18,
@@ -112,10 +112,10 @@
       ],
       "overview": "대한민국을 발칵 뒤집은 '캐비닛 살인 사건'의 유력한 용의자로 지목된 태강그룹의 후계자 윤이준 상무. 사건의 진실을 파악하기 위해 형사 강재희는 발칙한 계획을 실행한다. 이준을 밀착 감시하기 위해 여자가 아닌 남자로, 형사가 아닌 수행비서로 태강그룹에 잠입한 것! 아슬아슬한 동행 속, 사건은 새로운 국면을 맞이하며 잔혹한 진실이 드러나기 시작하는데... 사건이 진실에 가까워질수록 이준과 재희는 서로의 진심에 가까워지기 시작한다. 높아만 지는 심박수는 감출 길이 없고, 그 마음이 자꾸만 입 밖으로 새어 나오려 하니. 사건과 사심 사이, 이준과 재희는 위태로운 줄타기를 이어가는데...! 정체를 숨긴 재희와 비밀을 숨긴 이준. 과연 두 사람은 서로의 진심에 닿을 수 있을까?",
       "firstAirDate": "2026-10-19",
-      "lastAirDate": "2026-11-03",
+      "lastAirDate": "2026-11-09",
       "status": "Returning Series",
       "inProduction": true,
-      "nextAirDate": "2026-11-09",
+      "nextAirDate": "2026-11-10",
       "runtime": null,
       "episodes": 12,
       "score": 9.1,
@@ -135,7 +135,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 3,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -145,7 +145,7 @@
       "originalTitle": "닥터X: 하얀 마피아의 시대",
       "type": "드라마",
       "rank": 4,
-      "popularity": 58.1759,
+      "popularity": 53.9397,
       "genres": [
         9648,
         18,
@@ -177,50 +177,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 4,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 289423,
-      "title": "나를 충전해줘",
-      "originalTitle": "나를 충전해줘",
-      "type": "드라마",
-      "rank": 5,
-      "popularity": 32.4694,
-      "genres": [
-        10765,
-        35,
-        18
-      ],
-      "overview": "완벽한 재벌 3세 백호랑의 유일한 약점은 인공 심장. 심장 배터리가 방전되려는 위기의 순간, 온몸에 전기가 흐르는 나보배를 만나는데. 그녀와 맺은 짜릿한 계약, 배터리도 사랑도 충전될까?",
-      "firstAirDate": "2026-10-09",
-      "lastAirDate": "2026-10-09",
-      "status": "Ended",
-      "inProduction": false,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 10,
-      "score": 8.8,
-      "scoreBy": "TMDB",
-      "networks": [
-        "Netflix"
-      ],
-      "creators": [
-        "송유채",
-        "Park Soo-won"
-      ],
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 5,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -229,15 +186,15 @@
       "title": "100일의 거짓말",
       "originalTitle": "100일의 거짓말",
       "type": "드라마",
-      "rank": 6,
-      "popularity": 32.095,
+      "rank": 5,
+      "popularity": 30.5331,
       "genres": [
         10759,
         18
       ],
       "overview": "자유를 찾아 미국행을 꿈꾸던 경성 최고의 소매치기. 조선총독부에 잠입해 기밀을 훔치는 임무를 맡게 된 그녀는 뜻밖에도 표적의 아들과 사랑에 빠지고 만다.",
       "firstAirDate": "2026-10-10",
-      "lastAirDate": "2026-11-07",
+      "lastAirDate": "2026-11-08",
       "status": "Returning Series",
       "inProduction": true,
       "nextAirDate": "2026-11-14",
@@ -263,8 +220,89 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
+        "rank": 5,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 289423,
+      "title": "나를 충전해줘",
+      "originalTitle": "나를 충전해줘",
+      "type": "드라마",
+      "rank": 6,
+      "popularity": 30.2009,
+      "genres": [
+        10765,
+        35,
+        18
+      ],
+      "overview": "완벽한 재벌 3세 백호랑의 유일한 약점은 인공 심장. 심장 배터리가 방전되려는 위기의 순간, 온몸에 전기가 흐르는 나보배를 만나는데. 그녀와 맺은 짜릿한 계약, 배터리도 사랑도 충전될까?",
+      "firstAirDate": "2026-10-09",
+      "lastAirDate": "2026-10-09",
+      "status": "Ended",
+      "inProduction": false,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 10,
+      "score": 8.6,
+      "scoreBy": "TMDB",
+      "networks": [
+        "Netflix"
+      ],
+      "creators": [
+        "송유채",
+        "Park Soo-won"
+      ],
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
         "rank": 6,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 307106,
+      "title": "연애박사",
+      "originalTitle": "연애박사",
+      "type": "드라마",
+      "rank": 7,
+      "popularity": 19.5726,
+      "genres": [
+        18,
+        35
+      ],
+      "overview": "고등학교 때 수영선수였지만 병으로 한 쪽 다리를 잃은 박사 과정생 민재와 진로를 잃고 방황하다 새로운 길에 들어선 석사 과정생 유진. 로봇 연구실에서 피어난, 두 청춘들의 맵고, 쓰고, 달콤한 로맨스.",
+      "firstAirDate": "2026-10-05",
+      "lastAirDate": "2026-11-09",
+      "status": "Ended",
+      "inProduction": false,
+      "nextAirDate": "2026-11-10",
+      "runtime": null,
+      "episodes": 12,
+      "score": 9.2,
+      "scoreBy": "TMDB",
+      "networks": [
+        "ENA"
+      ],
+      "creators": [],
+      "providers": [
+        "Disney Plus"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 7,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -273,8 +311,8 @@
       "title": "너 말고 다른 연애",
       "originalTitle": "너 말고 다른 연애",
       "type": "드라마",
-      "rank": 7,
-      "popularity": 21.6821,
+      "rank": 8,
+      "popularity": 19.2991,
       "genres": [
         18
       ],
@@ -303,46 +341,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 7,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 307106,
-      "title": "연애박사",
-      "originalTitle": "연애박사",
-      "type": "드라마",
-      "rank": 8,
-      "popularity": 18.5754,
-      "genres": [
-        18,
-        35
-      ],
-      "overview": "고등학교 때 수영선수였지만 병으로 한 쪽 다리를 잃은 박사 과정생 민재와 진로를 잃고 방황하다 새로운 길에 들어선 석사 과정생 유진. 로봇 연구실에서 피어난, 두 청춘들의 맵고, 쓰고, 달콤한 로맨스.",
-      "firstAirDate": "2026-10-05",
-      "lastAirDate": "2026-11-03",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-11-09",
-      "runtime": null,
-      "episodes": 12,
-      "score": 9.2,
-      "scoreBy": "TMDB",
-      "networks": [
-        "ENA"
-      ],
-      "creators": [],
-      "providers": [
-        "Disney Plus"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
         "rank": 8,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -352,7 +352,7 @@
       "originalTitle": "옆자리, 프란체스카",
       "type": "드라마",
       "rank": 9,
-      "popularity": 18.5291,
+      "popularity": 18.4308,
       "genres": [
         18,
         35,
@@ -381,7 +381,48 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 9,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 311648,
+      "title": "내가 떨릴 수 있게",
+      "originalTitle": "내가 떨릴 수 있게",
+      "type": "드라마",
+      "rank": 10,
+      "popularity": 15.9968,
+      "genres": [
+        18,
+        35
+      ],
+      "overview": "한 해 제사만 스물두 번을 지내는 종갓집 장녀 공연수는 여중, 여고, 여대를 거치며 사랑과 결혼, 섹스에는 반드시 지켜야 할 순서가 있다고 믿어 온 '유교걸'이다. 그런데 트렌드를 누구보다 빨리 읽어 내는 실력파 마케터인 그녀에게 하필 섹스토이 마케팅이라는 난감한 일이 맡겨진다. 게다가 새 광고주인 프리미엄 섹스토이 스타트업 '로앤드'의 대표 독고달은 집안 어른들의 주선으로 나갔던 맞선 자리에서 서로 빨간불을 켰던 바로 그 남자다. 사랑과 육체적 끌림을 굳이 하나로 묶지 않는 독고달과 사사건건 부딪치면서, 굳게 닫혀 있던 연수의 세계에도 낯선 떨림이 조금씩 스며들기 시작하는데...",
+      "firstAirDate": "2026-10-15",
+      "lastAirDate": "2026-11-05",
+      "status": "Ended",
+      "inProduction": false,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 10,
+      "score": 8.6,
+      "scoreBy": "TMDB",
+      "networks": [
+        "TVING"
+      ],
+      "creators": [
+        "강은경",
+        "주화미"
+      ],
+      "providers": [
+        "TVING"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aGX71DFozG55achSbKd225LHGMj.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 10,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -390,8 +431,8 @@
       "title": "라이어",
       "originalTitle": "라이어",
       "type": "드라마",
-      "rank": 10,
-      "popularity": 17.7898,
+      "rank": 11,
+      "popularity": 15.5919,
       "genres": [
         18,
         80,
@@ -424,49 +465,127 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 10,
-        "observedAt": "2026-11-09"
+        "rank": 11,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
     {
-      "tmdbId": 311648,
-      "title": "내가 떨릴 수 있게",
-      "originalTitle": "내가 떨릴 수 있게",
+      "tmdbId": 313738,
+      "title": "유일무이 로맨스",
+      "originalTitle": "유일무이 로맨스",
       "type": "드라마",
-      "rank": 11,
-      "popularity": 17.7079,
+      "rank": 12,
+      "popularity": 9.6697,
       "genres": [
-        18,
-        35
+        35,
+        18
       ],
-      "overview": "한 해 제사만 스물두 번을 지내는 종갓집 장녀 공연수는 여중, 여고, 여대를 거치며 사랑과 결혼, 섹스에는 반드시 지켜야 할 순서가 있다고 믿어 온 '유교걸'이다. 그런데 트렌드를 누구보다 빨리 읽어 내는 실력파 마케터인 그녀에게 하필 섹스토이 마케팅이라는 난감한 일이 맡겨진다. 게다가 새 광고주인 프리미엄 섹스토이 스타트업 '로앤드'의 대표 독고달은 집안 어른들의 주선으로 나갔던 맞선 자리에서 서로 빨간불을 켰던 바로 그 남자다. 사랑과 육체적 끌림을 굳이 하나로 묶지 않는 독고달과 사사건건 부딪치면서, 굳게 닫혀 있던 연수의 세계에도 낯선 떨림이 조금씩 스며들기 시작하는데...",
-      "firstAirDate": "2026-10-15",
-      "lastAirDate": "2026-11-05",
-      "status": "Ended",
-      "inProduction": false,
-      "nextAirDate": "",
+      "overview": "평범한 취준생 공유일의 일상에 톱 배우 탁무이와 아이돌 류민이 침범해 오면서 벌어지는 사심 가득 로맨스",
+      "firstAirDate": "2026-11-09",
+      "lastAirDate": "2026-11-09",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "2026-11-16",
       "runtime": null,
-      "episodes": 10,
-      "score": 8.6,
+      "episodes": 12,
+      "score": null,
       "scoreBy": "TMDB",
       "networks": [
         "TVING"
       ],
       "creators": [
-        "강은경",
-        "주화미"
+        "두부"
       ],
       "providers": [
         "TVING"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/aGX71DFozG55achSbKd225LHGMj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6AsTEQ8w1En6mImS87YTLoQS7uD.jpg",
       "posterCredit": "TMDB",
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 11,
-        "observedAt": "2026-11-09"
+        "rank": 12,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 335951,
+      "title": "여름방학",
+      "originalTitle": "여름방학",
+      "type": "드라마",
+      "rank": 13,
+      "popularity": 8.561,
+      "genres": [
+        18,
+        10765,
+        9648
+      ],
+      "overview": "평범한 열여덞의 여름, 믿을 수 없을 만큼 신비한 이야기 평범한 열여덟 소녀에게 믿을 수 없이 신비하고 수상한 여름이 찾아왔다?! 현실과 판타지 사이, 신비로운 마을 우포리에서 펼쳐지는 뜨겁고 기묘한 한여름의 판타지 로맨스! 가장 눈부신 열여덟의 여름을 만나다!",
+      "firstAirDate": "2026-10-26",
+      "lastAirDate": "2026-11-03",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "2026-11-10",
+      "runtime": null,
+      "episodes": 10,
+      "score": null,
+      "scoreBy": "TMDB",
+      "networks": [
+        "Lifetime",
+        "wavve"
+      ],
+      "creators": [],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/n6di6hbhC2vQZmFOrfieQLHU8MI.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 13,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 320406,
+      "title": "가족관계증명서",
+      "originalTitle": "가족관계증명서",
+      "type": "드라마",
+      "rank": 14,
+      "popularity": 8.0527,
+      "genres": [
+        18,
+        10751
+      ],
+      "overview": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기",
+      "firstAirDate": "2026-07-06",
+      "lastAirDate": "2026-10-23",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "2026-11-10",
+      "runtime": null,
+      "episodes": 120,
+      "score": 10,
+      "scoreBy": "TMDB",
+      "networks": [
+        "MBC"
+      ],
+      "creators": [
+        "Park Ji-hyeon"
+      ],
+      "providers": [
+        "wavve",
+        "TVING"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qVK5lrPrRswoe542XEnufx8BH2j.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 14,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -475,8 +594,8 @@
       "title": "각설탕 소리",
       "originalTitle": "각설탕 소리",
       "type": "드라마",
-      "rank": 12,
-      "popularity": 8.9148,
+      "rank": 15,
+      "popularity": 7.9307,
       "genres": [
         18,
         9648,
@@ -506,87 +625,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 12,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 335951,
-      "title": "여름방학",
-      "originalTitle": "여름방학",
-      "type": "드라마",
-      "rank": 13,
-      "popularity": 8.251,
-      "genres": [
-        18,
-        10765,
-        9648
-      ],
-      "overview": "평범한 열여덞의 여름, 믿을 수 없을 만큼 신비한 이야기 평범한 열여덟 소녀에게 믿을 수 없이 신비하고 수상한 여름이 찾아왔다?! 현실과 판타지 사이, 신비로운 마을 우포리에서 펼쳐지는 뜨겁고 기묘한 한여름의 판타지 로맨스! 가장 눈부신 열여덟의 여름을 만나다!",
-      "firstAirDate": "2026-10-26",
-      "lastAirDate": "2026-11-03",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-11-09",
-      "runtime": null,
-      "episodes": 10,
-      "score": null,
-      "scoreBy": "TMDB",
-      "networks": [
-        "Lifetime",
-        "wavve"
-      ],
-      "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/n6di6hbhC2vQZmFOrfieQLHU8MI.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 13,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 320406,
-      "title": "가족관계증명서",
-      "originalTitle": "가족관계증명서",
-      "type": "드라마",
-      "rank": 14,
-      "popularity": 8.2248,
-      "genres": [
-        18,
-        10751
-      ],
-      "overview": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기",
-      "firstAirDate": "2026-07-06",
-      "lastAirDate": "2026-10-23",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-11-09",
-      "runtime": null,
-      "episodes": 120,
-      "score": 10,
-      "scoreBy": "TMDB",
-      "networks": [
-        "MBC"
-      ],
-      "creators": [
-        "Park Ji-hyeon"
-      ],
-      "providers": [
-        "wavve",
-        "TVING"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/qVK5lrPrRswoe542XEnufx8BH2j.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 14,
-        "observedAt": "2026-11-09"
+        "rank": 15,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -595,8 +635,8 @@
       "title": "사랑이 온다",
       "originalTitle": "사랑이 온다",
       "type": "드라마",
-      "rank": 15,
-      "popularity": 7.6698,
+      "rank": 16,
+      "popularity": 7.8129,
       "genres": [
         10751,
         18
@@ -609,7 +649,7 @@
       "nextAirDate": "2026-11-14",
       "runtime": null,
       "episodes": 50,
-      "score": 7.3,
+      "score": 5.6,
       "scoreBy": "TMDB",
       "networks": [
         "KBS2"
@@ -626,8 +666,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 15,
-        "observedAt": "2026-11-09"
+        "rank": 16,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -636,8 +676,8 @@
       "title": "엄마가 미쳤어요",
       "originalTitle": "엄마가 미쳤어요",
       "type": "드라마",
-      "rank": 16,
-      "popularity": 7.6424,
+      "rank": 17,
+      "popularity": 7.6633,
       "genres": [
         18,
         10751
@@ -647,7 +687,7 @@
       "lastAirDate": "2026-10-23",
       "status": "Returning Series",
       "inProduction": true,
-      "nextAirDate": "2026-11-09",
+      "nextAirDate": "2026-11-10",
       "runtime": null,
       "episodes": 120,
       "score": null,
@@ -666,47 +706,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 16,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 294636,
-      "title": "로또 1등도 출근합니다",
-      "originalTitle": "로또 1등도 출근합니다",
-      "type": "드라마",
-      "rank": 17,
-      "popularity": 7.5203,
-      "genres": [
-        18
-      ],
-      "overview": "홍성 인터내셔널 영업 5팀의 젊은 팀장 공은태는 위에서는 실적 압박에, 아래에서는 팀원들의 눈총에 치이며 어제와 다를 것 없는 하루를 버텨 낸다. 퇴근길 맥주를 사러 들른 편의점에서 얼떨결에 산 로또 한 장이 1등에 당첨되지만, 세금을 떼고 손에 쥔 돈은 13억 원. 큰돈이긴 해도 인생을 송두리째 바꾸기엔 애매한 금액 앞에서 은태는 사직서 대신 당첨금을 마음의 보험 삼아 다시 회사로 향한다. 잃을 것이 없어진 그는 이제 눈치 보지 않고 할 말을 하고, 회사가 짜 놓은 판을 뒤흔들기 시작한다. 어린 팀장을 못마땅해하는 만년 대리 양준호, 언제 잘릴지 몰라 불안한 비정규직 이지혜 등 저마다 사연을 지닌 팀원들과 함께 해외 브랜드 입점 협상에 뛰어든 은태 앞에, 회사의 앞날을 뒤흔들 경쟁자 정선혁 팀장이 모습을 드러낸다.",
-      "firstAirDate": "2026-09-10",
-      "lastAirDate": "2026-10-08",
-      "status": "Ended",
-      "inProduction": false,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 10,
-      "score": 7.4,
-      "scoreBy": "TMDB",
-      "networks": [
-        "TVING"
-      ],
-      "creators": [
-        "Yoon Young-bin"
-      ],
-      "providers": [
-        "TVING"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/bsNWg3aCpav258BerCx62T67t86.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
         "rank": 17,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -716,7 +717,7 @@
       "originalTitle": "밑도 끝도 없이, 너다",
       "type": "드라마",
       "rank": 18,
-      "popularity": 7.0441,
+      "popularity": 6.8799,
       "genres": [
         18,
         35,
@@ -746,7 +747,46 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 18,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 294636,
+      "title": "로또 1등도 출근합니다",
+      "originalTitle": "로또 1등도 출근합니다",
+      "type": "드라마",
+      "rank": 19,
+      "popularity": 6.5198,
+      "genres": [
+        18
+      ],
+      "overview": "홍성 인터내셔널 영업 5팀의 젊은 팀장 공은태는 위에서는 실적 압박에, 아래에서는 팀원들의 눈총에 치이며 어제와 다를 것 없는 하루를 버텨 낸다. 퇴근길 맥주를 사러 들른 편의점에서 얼떨결에 산 로또 한 장이 1등에 당첨되지만, 세금을 떼고 손에 쥔 돈은 13억 원. 큰돈이긴 해도 인생을 송두리째 바꾸기엔 애매한 금액 앞에서 은태는 사직서 대신 당첨금을 마음의 보험 삼아 다시 회사로 향한다. 잃을 것이 없어진 그는 이제 눈치 보지 않고 할 말을 하고, 회사가 짜 놓은 판을 뒤흔들기 시작한다. 어린 팀장을 못마땅해하는 만년 대리 양준호, 언제 잘릴지 몰라 불안한 비정규직 이지혜 등 저마다 사연을 지닌 팀원들과 함께 해외 브랜드 입점 협상에 뛰어든 은태 앞에, 회사의 앞날을 뒤흔들 경쟁자 정선혁 팀장이 모습을 드러낸다.",
+      "firstAirDate": "2026-09-10",
+      "lastAirDate": "2026-10-08",
+      "status": "Ended",
+      "inProduction": false,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 10,
+      "score": 7.4,
+      "scoreBy": "TMDB",
+      "networks": [
+        "TVING"
+      ],
+      "creators": [
+        "Yoon Young-bin"
+      ],
+      "providers": [
+        "TVING"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bsNWg3aCpav258BerCx62T67t86.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 19,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -755,8 +795,8 @@
       "title": "욕망의 덫",
       "originalTitle": "욕망의 덫",
       "type": "드라마",
-      "rank": 19,
-      "popularity": 6.2129,
+      "rank": 20,
+      "popularity": 5.7523,
       "genres": [
         9648,
         80,
@@ -767,7 +807,7 @@
       "lastAirDate": "2026-10-23",
       "status": "Returning Series",
       "inProduction": true,
-      "nextAirDate": "2026-11-09",
+      "nextAirDate": "2026-11-10",
       "runtime": null,
       "episodes": 100,
       "score": 10,
@@ -782,8 +822,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 19,
-        "observedAt": "2026-11-09"
+        "rank": 20,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -792,8 +832,8 @@
       "title": "날아올라라 나비",
       "originalTitle": "날아올라라 나비",
       "type": "드라마",
-      "rank": 20,
-      "popularity": 3.8197,
+      "rank": 21,
+      "popularity": 3.462,
       "genres": [
         18,
         35
@@ -824,46 +864,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 20,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 313738,
-      "title": "유일무이 로맨스",
-      "originalTitle": "유일무이 로맨스",
-      "type": "드라마",
-      "rank": 21,
-      "popularity": 3.0436,
-      "genres": [
-        35,
-        18
-      ],
-      "overview": "평범한 취준생 공유일의 일상에 톱 배우 탁무이와 아이돌 류민이 침범해 오면서 벌어지는 사심 가득 로맨스",
-      "firstAirDate": "2026-11-09",
-      "lastAirDate": "",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-11-09",
-      "runtime": null,
-      "episodes": 12,
-      "score": null,
-      "scoreBy": "TMDB",
-      "networks": [
-        "TVING"
-      ],
-      "creators": [
-        "두부"
-      ],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/pLIfcH8cZC5O8VtgbiqcrOFyy0h.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
         "rank": 21,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -873,7 +875,7 @@
       "originalTitle": "백도어",
       "type": "드라마",
       "rank": 22,
-      "popularity": 2.9739,
+      "popularity": 2.82,
       "genres": [
         18
       ],
@@ -898,7 +900,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 22,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -908,7 +910,7 @@
       "originalTitle": "소년, 주의",
       "type": "드라마",
       "rank": 23,
-      "popularity": 2.7542,
+      "popularity": 2.3798,
       "genres": [
         18
       ],
@@ -933,7 +935,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 23,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -943,7 +945,7 @@
       "originalTitle": "며느리가 친정을 숨김",
       "type": "드라마",
       "rank": 24,
-      "popularity": 0.2975,
+      "popularity": 0.3545,
       "genres": [
         18
       ],
@@ -968,7 +970,43 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 24,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 341480,
+      "title": "내 아이돌은 공익근무요원",
+      "originalTitle": "내 아이돌은 공익근무요원",
+      "type": "드라마",
+      "rank": 25,
+      "popularity": 0.0974,
+      "genres": [
+        18
+      ],
+      "overview": "",
+      "firstAirDate": "2026-11-05",
+      "lastAirDate": "2026-11-05",
+      "status": "Ended",
+      "inProduction": false,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 50,
+      "score": null,
+      "scoreBy": "TMDB",
+      "networks": [
+        "SoonShot",
+        "ONE store"
+      ],
+      "creators": [],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/nOEWQsZhH8xK8CqIeX7hRptaWn6.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 25,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     }
@@ -980,7 +1018,7 @@
       "originalTitle": "런닝맨",
       "type": "예능",
       "rank": 1,
-      "popularity": 492.9342,
+      "popularity": 443.4223,
       "genres": [
         35,
         10764
@@ -1014,7 +1052,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 1,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1024,7 +1062,7 @@
       "originalTitle": "라디오스타",
       "type": "예능",
       "rank": 2,
-      "popularity": 142.3836,
+      "popularity": 132.2576,
       "genres": [
         10767
       ],
@@ -1055,7 +1093,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 2,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1065,7 +1103,7 @@
       "originalTitle": "아는 형님",
       "type": "예능",
       "rank": 3,
-      "popularity": 138.4475,
+      "popularity": 125.8797,
       "genres": [
         10764,
         35
@@ -1095,7 +1133,48 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 3,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 65282,
+      "title": "나 혼자 산다",
+      "originalTitle": "나 혼자 산다",
+      "type": "예능",
+      "rank": 4,
+      "popularity": 109.1657,
+      "genres": [
+        10764
+      ],
+      "overview": "대한민국 1인 가구 453만 시대! 이제는 1인 가구가 대세! 연예계 역시 1/3은 1인 가구! 기러기 아빠, 주말부부, 상경 후 고군분투중인 청년, 독신남 등 각기 다른 이유로 싱글족이 된 스타들! 당당한 1인 가구의 싱글라이프는 과연 어떤 것일까? 1인 가구가 트렌드가 된 현 시점에서 프로그램을 통해 사회적 공감대를 형성해본다.",
+      "firstAirDate": "2013-03-22",
+      "lastAirDate": "2026-10-30",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "2026-11-13",
+      "runtime": 90,
+      "episodes": 672,
+      "score": 7.2,
+      "scoreBy": "TMDB",
+      "networks": [
+        "MBC"
+      ],
+      "creators": [
+        "Lee Ji-sun"
+      ],
+      "providers": [
+        "wavve",
+        "Watcha",
+        "TVING"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 4,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1104,8 +1183,8 @@
       "title": "미운 우리 새끼",
       "originalTitle": "미운 우리 새끼",
       "type": "예능",
-      "rank": 4,
-      "popularity": 116.3301,
+      "rank": 5,
+      "popularity": 108.4621,
       "genres": [
         10764,
         10767
@@ -1136,49 +1215,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 4,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 65282,
-      "title": "나 혼자 산다",
-      "originalTitle": "나 혼자 산다",
-      "type": "예능",
-      "rank": 5,
-      "popularity": 113.0421,
-      "genres": [
-        10764
-      ],
-      "overview": "대한민국 1인 가구 453만 시대! 이제는 1인 가구가 대세! 연예계 역시 1/3은 1인 가구! 기러기 아빠, 주말부부, 상경 후 고군분투중인 청년, 독신남 등 각기 다른 이유로 싱글족이 된 스타들! 당당한 1인 가구의 싱글라이프는 과연 어떤 것일까? 1인 가구가 트렌드가 된 현 시점에서 프로그램을 통해 사회적 공감대를 형성해본다.",
-      "firstAirDate": "2013-03-22",
-      "lastAirDate": "2026-10-30",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-11-13",
-      "runtime": 90,
-      "episodes": 672,
-      "score": 7.2,
-      "scoreBy": "TMDB",
-      "networks": [
-        "MBC"
-      ],
-      "creators": [
-        "Lee Ji-sun"
-      ],
-      "providers": [
-        "wavve",
-        "Watcha",
-        "TVING"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
         "rank": 5,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1188,7 +1226,7 @@
       "originalTitle": "1박 2일",
       "type": "예능",
       "rank": 6,
-      "popularity": 73.4753,
+      "popularity": 73.5519,
       "genres": [
         35,
         10764
@@ -1219,7 +1257,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 6,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1229,7 +1267,7 @@
       "originalTitle": "놀면 뭐하니?",
       "type": "예능",
       "rank": 7,
-      "popularity": 64.7886,
+      "popularity": 62.4322,
       "genres": [
         10764,
         35
@@ -1261,7 +1299,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 7,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1271,7 +1309,7 @@
       "originalTitle": "전지적 참견 시점",
       "type": "예능",
       "rank": 8,
-      "popularity": 47.0537,
+      "popularity": 46.8595,
       "genres": [
         10764
       ],
@@ -1302,7 +1340,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 8,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1312,7 +1350,7 @@
       "originalTitle": "냉장고를 부탁해",
       "type": "예능",
       "rank": 9,
-      "popularity": 32.2388,
+      "popularity": 32.6599,
       "genres": [
         10764
       ],
@@ -1341,7 +1379,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 9,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1351,7 +1389,7 @@
       "originalTitle": "리무진서비스",
       "type": "예능",
       "rank": 10,
-      "popularity": 29.2483,
+      "popularity": 29.0439,
       "genres": [
         10767
       ],
@@ -1376,7 +1414,87 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 10,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 74225,
+      "title": "GOING SEVENTEEN",
+      "originalTitle": "GOING SEVENTEEN",
+      "type": "예능",
+      "rank": 11,
+      "popularity": 25.4285,
+      "genres": [
+        10764,
+        35,
+        10767
+      ],
+      "overview": "",
+      "firstAirDate": "2017-06-05",
+      "lastAirDate": "2026-10-21",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "2026-11-11",
+      "runtime": 35,
+      "episodes": 311,
+      "score": 9.8,
+      "scoreBy": "TMDB",
+      "networks": [
+        "YouTube",
+        "V LIVE",
+        "Weverse"
+      ],
+      "creators": [],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/qQZvkevnkCWlfOg7fn6rHcqu5yC.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 11,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 111998,
+      "title": "꼬리에 꼬리를 무는 그날 이야기",
+      "originalTitle": "꼬리에 꼬리를 무는 그날 이야기",
+      "type": "예능",
+      "rank": 12,
+      "popularity": 23.3877,
+      "genres": [
+        10767,
+        9648,
+        80
+      ],
+      "overview": "‘너’ 에게 꼭 들려주고 싶어! 친구, 배우자, 동료... 세 명의 '이야기꾼'이 스스로 공부하며 느낀 바를 각자의 '이야기 친구'에게, 가장 일상적인 공간에서 1:1 로 전달하는 프로그램",
+      "firstAirDate": "2020-09-17",
+      "lastAirDate": "2026-10-22",
+      "status": "Ended",
+      "inProduction": false,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 279,
+      "score": 8,
+      "scoreBy": "TMDB",
+      "networks": [
+        "SBS"
+      ],
+      "creators": [],
+      "providers": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ty9wVEbzvJre9ClM7ETgBFreJZG.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 12,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1385,8 +1503,8 @@
       "title": "어서와~ 한국은 처음이지?",
       "originalTitle": "어서와~ 한국은 처음이지?",
       "type": "예능",
-      "rank": 11,
-      "popularity": 24.7171,
+      "rank": 13,
+      "popularity": 22.8853,
       "genres": [
         10764
       ],
@@ -1418,8 +1536,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 11,
-        "observedAt": "2026-11-09"
+        "rank": 13,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1428,8 +1546,8 @@
       "title": "핑계고",
       "originalTitle": "핑계고",
       "type": "예능",
-      "rank": 12,
-      "popularity": 24.6355,
+      "rank": 14,
+      "popularity": 22.6717,
       "genres": [
         10767
       ],
@@ -1456,47 +1574,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 12,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 74225,
-      "title": "GOING SEVENTEEN",
-      "originalTitle": "GOING SEVENTEEN",
-      "type": "예능",
-      "rank": 13,
-      "popularity": 24.3497,
-      "genres": [
-        10764,
-        35,
-        10767
-      ],
-      "overview": "",
-      "firstAirDate": "2017-06-05",
-      "lastAirDate": "2026-10-21",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-11-11",
-      "runtime": 35,
-      "episodes": 311,
-      "score": 9.8,
-      "scoreBy": "TMDB",
-      "networks": [
-        "YouTube",
-        "V LIVE",
-        "Weverse"
-      ],
-      "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/qQZvkevnkCWlfOg7fn6rHcqu5yC.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 13,
-        "observedAt": "2026-11-09"
+        "rank": 14,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1505,8 +1584,8 @@
       "title": "골 때리는 그녀들",
       "originalTitle": "골 때리는 그녀들",
       "type": "예능",
-      "rank": 14,
-      "popularity": 21.2937,
+      "rank": 15,
+      "popularity": 22.3837,
       "genres": [
         10764
       ],
@@ -1533,46 +1612,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 14,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 219783,
-      "title": "더 시즌즈",
-      "originalTitle": "더 시즌즈",
-      "type": "예능",
-      "rank": 15,
-      "popularity": 21.2385,
-      "genres": [
-        10767
-      ],
-      "overview": "당신의 모든 고민, 모든 걱정들을 싹 없애줄 음악과 이야기를 담은 토크쇼.",
-      "firstAirDate": "2023-02-05",
-      "lastAirDate": "2026-10-23",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 164,
-      "score": 7.5,
-      "scoreBy": "TMDB",
-      "networks": [
-        "KBS2"
-      ],
-      "creators": [],
-      "providers": [
-        "wavve",
-        "Watcha"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/5WUFnTXfJkadGV5Ho5JzhdZ3sH0.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
         "rank": 15,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1582,7 +1623,7 @@
       "originalTitle": "달려라 방탄!",
       "type": "예능",
       "rank": 16,
-      "popularity": 20.6575,
+      "popularity": 20.9207,
       "genres": [
         10764
       ],
@@ -1609,7 +1650,45 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 16,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 219783,
+      "title": "더 시즌즈",
+      "originalTitle": "더 시즌즈",
+      "type": "예능",
+      "rank": 17,
+      "popularity": 19.2747,
+      "genres": [
+        10767
+      ],
+      "overview": "당신의 모든 고민, 모든 걱정들을 싹 없애줄 음악과 이야기를 담은 토크쇼.",
+      "firstAirDate": "2023-02-05",
+      "lastAirDate": "2026-10-23",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 164,
+      "score": 7.5,
+      "scoreBy": "TMDB",
+      "networks": [
+        "KBS2"
+      ],
+      "creators": [],
+      "providers": [
+        "wavve",
+        "Watcha"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5WUFnTXfJkadGV5Ho5JzhdZ3sH0.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 17,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1618,8 +1697,8 @@
       "title": "나는 SOLO",
       "originalTitle": "나는 SOLO",
       "type": "예능",
-      "rank": 17,
-      "popularity": 19.5292,
+      "rank": 18,
+      "popularity": 17.4389,
       "genres": [
         10764
       ],
@@ -1649,8 +1728,45 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 17,
-        "observedAt": "2026-11-09"
+        "rank": 18,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 316702,
+      "title": "파이널 테이블",
+      "originalTitle": "파이널 테이블",
+      "type": "예능",
+      "rank": 19,
+      "popularity": 16.4652,
+      "genres": [
+        18
+      ],
+      "overview": "최고의 한국인 요리사를 뽑는 '더 테이블: K 셰프 2026'. 베일에 싸인 세계적인 셰프 'Chris K.' 강한과 레스토랑을 지키려는 송이, 완벽주의 스타셰프 우진, 그리고 저마다의 사연을 품은 셰프들이 오직 맛과 진심으로 치열한 요리 전쟁을 펼친다. 승부를 넘어 음식과 온기로 서로의 상처를 보듬어가는 힐링 서바이벌 드라마.",
+      "firstAirDate": "2026-10-24",
+      "lastAirDate": "2026-11-01",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "2026-11-14",
+      "runtime": null,
+      "episodes": 12,
+      "score": 8.7,
+      "scoreBy": "TMDB",
+      "networks": [
+        "JTBC"
+      ],
+      "creators": [],
+      "providers": [
+        "Disney Plus"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zNSBXSIOMZWFZ5dqtm7tFBKFMrk.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 19,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1659,8 +1775,8 @@
       "title": "돌박이일",
       "originalTitle": "돌박이일",
       "type": "예능",
-      "rank": 18,
-      "popularity": 17.3589,
+      "rank": 20,
+      "popularity": 15.8168,
       "genres": [
         10764,
         35
@@ -1683,122 +1799,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 18,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 316702,
-      "title": "파이널 테이블",
-      "originalTitle": "파이널 테이블",
-      "type": "예능",
-      "rank": 19,
-      "popularity": 16.9762,
-      "genres": [
-        18
-      ],
-      "overview": "최고의 한국인 요리사를 뽑는 '더 테이블: K 셰프 2026'. 베일에 싸인 세계적인 셰프 'Chris K.' 강한과 레스토랑을 지키려는 송이, 완벽주의 스타셰프 우진, 그리고 저마다의 사연을 품은 셰프들이 오직 맛과 진심으로 치열한 요리 전쟁을 펼친다. 승부를 넘어 음식과 온기로 서로의 상처를 보듬어가는 힐링 서바이벌 드라마.",
-      "firstAirDate": "2026-10-24",
-      "lastAirDate": "2026-11-01",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-11-14",
-      "runtime": null,
-      "episodes": 12,
-      "score": 8.5,
-      "scoreBy": "TMDB",
-      "networks": [
-        "JTBC"
-      ],
-      "creators": [],
-      "providers": [
-        "Disney Plus"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/zNSBXSIOMZWFZ5dqtm7tFBKFMrk.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 19,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 111998,
-      "title": "꼬리에 꼬리를 무는 그날 이야기",
-      "originalTitle": "꼬리에 꼬리를 무는 그날 이야기",
-      "type": "예능",
-      "rank": 20,
-      "popularity": 16.9522,
-      "genres": [
-        10767,
-        9648,
-        80
-      ],
-      "overview": "‘너’ 에게 꼭 들려주고 싶어! 친구, 배우자, 동료... 세 명의 '이야기꾼'이 스스로 공부하며 느낀 바를 각자의 '이야기 친구'에게, 가장 일상적인 공간에서 1:1 로 전달하는 프로그램",
-      "firstAirDate": "2020-09-17",
-      "lastAirDate": "2026-10-22",
-      "status": "Ended",
-      "inProduction": false,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 279,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "networks": [
-        "SBS"
-      ],
-      "creators": [],
-      "providers": [
-        "Netflix",
-        "Watcha",
-        "Netflix Standard with Ads"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/ty9wVEbzvJre9ClM7ETgBFreJZG.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
         "rank": 20,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 298101,
-      "title": "살롱드립",
-      "originalTitle": "살롱드립",
-      "type": "예능",
-      "rank": 21,
-      "popularity": 14.3313,
-      "genres": [
-        10764,
-        10767
-      ],
-      "overview": "",
-      "firstAirDate": "2023-03-23",
-      "lastAirDate": "2026-10-20",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 170,
-      "score": 4.5,
-      "scoreBy": "TMDB",
-      "networks": [
-        "YouTube"
-      ],
-      "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/VJu1NBtzFjhllXtpLhjJH3PtV8.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 21,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1807,8 +1809,8 @@
       "title": "TIME TO TWICE",
       "originalTitle": "TIME TO TWICE",
       "type": "예능",
-      "rank": 22,
-      "popularity": 13.4976,
+      "rank": 21,
+      "popularity": 14.6746,
       "genres": [
         10764
       ],
@@ -1834,45 +1836,44 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 22,
-        "observedAt": "2026-11-09"
+        "rank": 21,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
     {
-      "tmdbId": 110195,
-      "title": "TO DO X TXT",
-      "originalTitle": "TO DO X TXT",
+      "tmdbId": 298101,
+      "title": "살롱드립",
+      "originalTitle": "살롱드립",
       "type": "예능",
-      "rank": 23,
-      "popularity": 12.3712,
+      "rank": 22,
+      "popularity": 13.6622,
       "genres": [
-        10764
+        10764,
+        10767
       ],
       "overview": "",
-      "firstAirDate": "2020-01-13",
-      "lastAirDate": "2026-10-12",
+      "firstAirDate": "2023-03-23",
+      "lastAirDate": "2026-10-20",
       "status": "Returning Series",
       "inProduction": true,
       "nextAirDate": "",
-      "runtime": 30,
-      "episodes": 175,
-      "score": 9.9,
+      "runtime": null,
+      "episodes": 170,
+      "score": 4.5,
       "scoreBy": "TMDB",
       "networks": [
-        "YouTube",
-        "V LIVE",
-        "Weverse"
+        "YouTube"
       ],
       "creators": [],
       "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/9Uqxdkb5evD1O8wBzGm0NWX03Es.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/VJu1NBtzFjhllXtpLhjJH3PtV8.jpg",
       "posterCredit": "TMDB",
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 23,
-        "observedAt": "2026-11-09"
+        "rank": 22,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1881,8 +1882,8 @@
       "title": "심야괴담회",
       "originalTitle": "심야괴담회",
       "type": "예능",
-      "rank": 24,
-      "popularity": 11.5755,
+      "rank": 23,
+      "popularity": 12.8238,
       "genres": [
         10767
       ],
@@ -1910,8 +1911,85 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
+        "rank": 23,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 110195,
+      "title": "TO DO X TXT",
+      "originalTitle": "TO DO X TXT",
+      "type": "예능",
+      "rank": 24,
+      "popularity": 12.5487,
+      "genres": [
+        10764
+      ],
+      "overview": "",
+      "firstAirDate": "2020-01-13",
+      "lastAirDate": "2026-10-12",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": 30,
+      "episodes": 175,
+      "score": 9.9,
+      "scoreBy": "TMDB",
+      "networks": [
+        "YouTube",
+        "V LIVE",
+        "Weverse"
+      ],
+      "creators": [],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/9Uqxdkb5evD1O8wBzGm0NWX03Es.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
         "rank": 24,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 214582,
+      "title": "데블스 플랜",
+      "originalTitle": "데블스 플랜",
+      "type": "예능",
+      "rank": 25,
+      "popularity": 10.5508,
+      "genres": [
+        10764
+      ],
+      "overview": "인간의 사회적 가면을 벗기겠다는 악마의 제안. 최고의 두뇌 플레이어 자리를 두고 참가자들이 일주일간 대결을 펼친다. 극강의 브레인 서바이벌 예능.",
+      "firstAirDate": "2023-09-26",
+      "lastAirDate": "2025-05-20",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "2026-11-10",
+      "runtime": null,
+      "episodes": 38,
+      "score": 7.6,
+      "scoreBy": "TMDB",
+      "networks": [
+        "Netflix"
+      ],
+      "creators": [
+        "정종연"
+      ],
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ezsnPeIru8Z7iomV89EbABjaIlU.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 25,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1920,8 +1998,8 @@
       "title": "틈만나면,",
       "originalTitle": "틈만나면,",
       "type": "예능",
-      "rank": 25,
-      "popularity": 10.5594,
+      "rank": 26,
+      "popularity": 9.696,
       "genres": [
         10764
       ],
@@ -1951,8 +2029,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 25,
-        "observedAt": "2026-11-09"
+        "rank": 26,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -1961,8 +2039,8 @@
       "title": "용감한 형사들",
       "originalTitle": "용감한 형사들",
       "type": "예능",
-      "rank": 26,
-      "popularity": 9.2093,
+      "rank": 27,
+      "popularity": 9.5794,
       "genres": [
         80,
         10764
@@ -1993,8 +2071,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 26,
-        "observedAt": "2026-11-09"
+        "rank": 27,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2003,8 +2081,8 @@
       "title": "나는 SOLO, 그 후 사랑은 계속된다",
       "originalTitle": "나는 SOLO, 그 후 사랑은 계속된다",
       "type": "예능",
-      "rank": 27,
-      "popularity": 8.9243,
+      "rank": 28,
+      "popularity": 8.8591,
       "genres": [
         10764
       ],
@@ -2033,43 +2111,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 27,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 333266,
-      "title": "홍.건.데",
-      "originalTitle": "홍.건.데",
-      "type": "예능",
-      "rank": 28,
-      "popularity": 8.6459,
-      "genres": [
-        10764
-      ],
-      "overview": "",
-      "firstAirDate": "2024-03-15",
-      "lastAirDate": "2026-10-16",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": 35,
-      "episodes": 71,
-      "score": null,
-      "scoreBy": "TMDB",
-      "networks": [],
-      "creators": [
-        "이언주"
-      ],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/u3twtrPE8iDjDoiBcI6s5iMi3Br.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
         "rank": 28,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2079,7 +2122,7 @@
       "originalTitle": "너에게 다이브",
       "type": "예능",
       "rank": 29,
-      "popularity": 8.5621,
+      "popularity": 8.2496,
       "genres": [
         35,
         18,
@@ -2108,48 +2151,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 29,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 227395,
-      "title": "니돈내산 독박투어",
-      "originalTitle": "니돈내산 독박투어",
-      "type": "예능",
-      "rank": 30,
-      "popularity": 8.0999,
-      "genres": [
-        10764
-      ],
-      "overview": "여행의 모든 과정을 '복불복 게임'을 통해 진행해, 출연자 사비로 결제하는 초유의 리얼리티 여행 예능 프로그램",
-      "firstAirDate": "2023-06-03",
-      "lastAirDate": "2026-10-24",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 159,
-      "score": null,
-      "scoreBy": "TMDB",
-      "networks": [
-        "Channel S"
-      ],
-      "creators": [],
-      "providers": [
-        "Netflix",
-        "wavve",
-        "Watcha",
-        "Netflix Standard with Ads",
-        "TVING"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/msKgNBpXJLuM8pa6HSVyXUWJXJm.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 30,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2158,8 +2160,8 @@
       "title": "뮤직뱅크",
       "originalTitle": "뮤직뱅크",
       "type": "예능",
-      "rank": 31,
-      "popularity": 6.7738,
+      "rank": 30,
+      "popularity": 7.9254,
       "genres": [
         10764
       ],
@@ -2186,8 +2188,43 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
+        "rank": 30,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 333266,
+      "title": "홍.건.데",
+      "originalTitle": "홍.건.데",
+      "type": "예능",
+      "rank": 31,
+      "popularity": 7.7872,
+      "genres": [
+        10764
+      ],
+      "overview": "",
+      "firstAirDate": "2024-03-15",
+      "lastAirDate": "2026-10-16",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": 35,
+      "episodes": 71,
+      "score": null,
+      "scoreBy": "TMDB",
+      "networks": [],
+      "creators": [
+        "이언주"
+      ],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/u3twtrPE8iDjDoiBcI6s5iMi3Br.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
         "rank": 31,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2197,7 +2234,7 @@
       "originalTitle": "도라이버",
       "type": "예능",
       "rank": 32,
-      "popularity": 6.6494,
+      "popularity": 7.5481,
       "genres": [
         10764,
         35
@@ -2228,7 +2265,86 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 32,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 227395,
+      "title": "니돈내산 독박투어",
+      "originalTitle": "니돈내산 독박투어",
+      "type": "예능",
+      "rank": 33,
+      "popularity": 7.1996,
+      "genres": [
+        10764
+      ],
+      "overview": "여행의 모든 과정을 '복불복 게임'을 통해 진행해, 출연자 사비로 결제하는 초유의 리얼리티 여행 예능 프로그램",
+      "firstAirDate": "2023-06-03",
+      "lastAirDate": "2026-10-24",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 159,
+      "score": null,
+      "scoreBy": "TMDB",
+      "networks": [
+        "Channel S"
+      ],
+      "creators": [],
+      "providers": [
+        "Netflix",
+        "wavve",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "TVING"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/msKgNBpXJLuM8pa6HSVyXUWJXJm.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 33,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 220255,
+      "title": "전과자",
+      "originalTitle": "전과자",
+      "type": "예능",
+      "rank": 34,
+      "popularity": 6.5849,
+      "genres": [
+        10767,
+        10764
+      ],
+      "overview": "비투비 이창섭, 전국 모든 대학의 학교를 리뷰한다!",
+      "firstAirDate": "2022-11-11",
+      "lastAirDate": "2026-10-22",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 202,
+      "score": 10,
+      "scoreBy": "TMDB",
+      "networks": [
+        "YouTube"
+      ],
+      "creators": [
+        "Go Dong-wan"
+      ],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/rlSklR8UT8UVwQwOGdjl7gDvIY4.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 34,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2237,8 +2353,8 @@
       "title": "전현무계획",
       "originalTitle": "전현무계획",
       "type": "예능",
-      "rank": 33,
-      "popularity": 6.3436,
+      "rank": 35,
+      "popularity": 6.101,
       "genres": [
         10767
       ],
@@ -2269,196 +2385,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 33,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 284358,
-      "title": "식스센스: 시티투어",
-      "originalTitle": "식스센스: 시티투어",
-      "type": "예능",
-      "rank": 34,
-      "popularity": 6.1972,
-      "genres": [
-        10759,
-        35,
-        10764
-      ],
-      "overview": "<식스센스>가 ‘시티투어’로 돌아왔다! SNS를 점령한 핫플, 트렌디한 이슈들을 찾아 떠나는 특별한 여행 속에 단 하나의 가짜가 숨어 있다! 유재석X송은이X고경표X미미의 레전드 입담 4인방의 도심 속 가짜 찾기 여행!",
-      "firstAirDate": "2025-02-13",
-      "lastAirDate": "2026-10-25",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": 98,
-      "episodes": 24,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "networks": [
-        "tvN"
-      ],
-      "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/ytABly0xgjR46X0qOzv3pvXHsr3.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 34,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 220255,
-      "title": "전과자",
-      "originalTitle": "전과자",
-      "type": "예능",
-      "rank": 35,
-      "popularity": 6.1139,
-      "genres": [
-        10767,
-        10764
-      ],
-      "overview": "비투비 이창섭, 전국 모든 대학의 학교를 리뷰한다!",
-      "firstAirDate": "2022-11-11",
-      "lastAirDate": "2026-10-22",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 202,
-      "score": 10,
-      "scoreBy": "TMDB",
-      "networks": [
-        "YouTube"
-      ],
-      "creators": [
-        "Go Dong-wan"
-      ],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/rlSklR8UT8UVwQwOGdjl7gDvIY4.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
         "rank": 35,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 240247,
-      "title": "워크돌",
-      "originalTitle": "워크돌",
-      "type": "예능",
-      "rank": 36,
-      "popularity": 6.0231,
-      "genres": [
-        10764,
-        35
-      ],
-      "overview": "",
-      "firstAirDate": "2023-05-25",
-      "lastAirDate": "2026-08-26",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": 15,
-      "episodes": 108,
-      "score": 9.5,
-      "scoreBy": "TMDB",
-      "networks": [
-        "YouTube"
-      ],
-      "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/ji9KKycDoG9EjPRJjxe04pKjvJ5.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 36,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 258932,
-      "title": "언니네 산지직송",
-      "originalTitle": "언니네 산지직송",
-      "type": "예능",
-      "rank": 37,
-      "popularity": 5.9146,
-      "genres": [
-        10764,
-        10751
-      ],
-      "overview": "염정아, 안은진, 박준면, 덱스! 사 남매의 어촌 마을 일상기! 바다를 품은 각양각색의 일거리와 그곳에서만 볼 수 있는 제철밥상 먹거리까지!? 쉴 틈 없는 사 남매의 뜨거운 여름 리얼리티",
-      "firstAirDate": "2024-07-18",
-      "lastAirDate": "2026-10-22",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": 110,
-      "episodes": 52,
-      "score": 7.5,
-      "scoreBy": "TMDB",
-      "networks": [
-        "tvN"
-      ],
-      "creators": [],
-      "providers": [
-        "TVING"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/kWQCQdx0ADS9FjnUo8STcR4pBH0.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 37,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 283645,
-      "title": "미친맛집: 미식가 친구의 맛집",
-      "originalTitle": "미친맛집: 미식가 친구의 맛집",
-      "type": "예능",
-      "rank": 38,
-      "popularity": 5.7735,
-      "genres": [
-        10764,
-        10767
-      ],
-      "overview": "한국과 일본을 대표하는 미식가 성시경과 마츠시게 유타카가 밥친구가 되어 서로의 추천 맛집을 공유한다.",
-      "firstAirDate": "2025-02-27",
-      "lastAirDate": "2026-11-05",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 87,
-      "score": 6.2,
-      "scoreBy": "TMDB",
-      "networks": [
-        "Netflix"
-      ],
-      "creators": [],
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/99JldizwZEvXelt6p5igcKTm0pK.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 38,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2467,8 +2395,8 @@
       "title": "이혼숙려캠프",
       "originalTitle": "이혼숙려캠프",
       "type": "예능",
-      "rank": 39,
-      "popularity": 5.4853,
+      "rank": 36,
+      "popularity": 5.8529,
       "genres": [
         10764
       ],
@@ -2498,8 +2426,121 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
+        "rank": 36,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 258932,
+      "title": "언니네 산지직송",
+      "originalTitle": "언니네 산지직송",
+      "type": "예능",
+      "rank": 37,
+      "popularity": 5.8253,
+      "genres": [
+        10764,
+        10751
+      ],
+      "overview": "염정아, 안은진, 박준면, 덱스! 사 남매의 어촌 마을 일상기! 바다를 품은 각양각색의 일거리와 그곳에서만 볼 수 있는 제철밥상 먹거리까지!? 쉴 틈 없는 사 남매의 뜨거운 여름 리얼리티",
+      "firstAirDate": "2024-07-18",
+      "lastAirDate": "2026-10-22",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": 110,
+      "episodes": 52,
+      "score": 7.5,
+      "scoreBy": "TMDB",
+      "networks": [
+        "tvN"
+      ],
+      "creators": [],
+      "providers": [
+        "TVING"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kWQCQdx0ADS9FjnUo8STcR4pBH0.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 37,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 240247,
+      "title": "워크돌",
+      "originalTitle": "워크돌",
+      "type": "예능",
+      "rank": 38,
+      "popularity": 5.7133,
+      "genres": [
+        10764,
+        35
+      ],
+      "overview": "",
+      "firstAirDate": "2023-05-25",
+      "lastAirDate": "2026-08-26",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": 15,
+      "episodes": 108,
+      "score": 9.5,
+      "scoreBy": "TMDB",
+      "networks": [
+        "YouTube"
+      ],
+      "creators": [],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/ji9KKycDoG9EjPRJjxe04pKjvJ5.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 38,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 283645,
+      "title": "미친맛집: 미식가 친구의 맛집",
+      "originalTitle": "미친맛집: 미식가 친구의 맛집",
+      "type": "예능",
+      "rank": 39,
+      "popularity": 5.5992,
+      "genres": [
+        10764,
+        10767
+      ],
+      "overview": "한국과 일본을 대표하는 미식가 성시경과 마츠시게 유타카가 밥친구가 되어 서로의 추천 맛집을 공유한다.",
+      "firstAirDate": "2025-02-27",
+      "lastAirDate": "2026-11-05",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 87,
+      "score": 6.2,
+      "scoreBy": "TMDB",
+      "networks": [
+        "Netflix"
+      ],
+      "creators": [],
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/99JldizwZEvXelt6p5igcKTm0pK.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
         "rank": 39,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2509,7 +2550,7 @@
       "originalTitle": "남겨서 뭐하게",
       "type": "예능",
       "rank": 40,
-      "popularity": 5.2433,
+      "popularity": 5.5761,
       "genres": [
         10764
       ],
@@ -2537,83 +2578,7 @@
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 40,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 302173,
-      "title": "비서진",
-      "originalTitle": "비서진",
-      "type": "예능",
-      "rank": 41,
-      "popularity": 5.1976,
-      "genres": [
-        10764,
-        35,
-        10767
-      ],
-      "overview": "오늘은 매니저 대신, 프로 수발러가 간다! 이서진·김광규가 스타의 하루를 밀착 동행하며 케어와 토크를 책임진다. 어디서든 펼쳐지는 리얼 로드 토크, 그리고 그 속에서 드러나는 무방비한 진짜 모습. 밀착 수발 로드 토크쇼, <비서진>에서만 만날 수 있는 스타들의 솔직한 매력이 공개된다.",
-      "firstAirDate": "2025-10-03",
-      "lastAirDate": "2026-10-23",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-11-13",
-      "runtime": null,
-      "episodes": 28,
-      "score": 8.3,
-      "scoreBy": "TMDB",
-      "networks": [
-        "SBS"
-      ],
-      "creators": [],
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/7H2hHWyYTR0nnlsvqxLYfrhw21m.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 41,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 324784,
-      "title": "인기가요 끝나면 매점가요",
-      "originalTitle": "인기가요 끝나면 매점가요",
-      "type": "예능",
-      "rank": 42,
-      "popularity": 5.088,
-      "genres": [
-        10764,
-        10767
-      ],
-      "overview": "",
-      "firstAirDate": "2025-04-04",
-      "lastAirDate": "2026-10-09",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 47,
-      "score": null,
-      "scoreBy": "TMDB",
-      "networks": [
-        "YouTube"
-      ],
-      "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/paRdksjEdCMZKpNia40XwlSvCO5.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 42,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2622,8 +2587,8 @@
       "title": "대환장 기안장",
       "originalTitle": "대환장 기안장",
       "type": "예능",
-      "rank": 43,
-      "popularity": 5.0597,
+      "rank": 41,
+      "popularity": 5.1424,
       "genres": [
         10764
       ],
@@ -2654,8 +2619,48 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 43,
-        "observedAt": "2026-11-09"
+        "rank": 41,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 302173,
+      "title": "비서진",
+      "originalTitle": "비서진",
+      "type": "예능",
+      "rank": 42,
+      "popularity": 4.9529,
+      "genres": [
+        10764,
+        35,
+        10767
+      ],
+      "overview": "오늘은 매니저 대신, 프로 수발러가 간다! 이서진·김광규가 스타의 하루를 밀착 동행하며 케어와 토크를 책임진다. 어디서든 펼쳐지는 리얼 로드 토크, 그리고 그 속에서 드러나는 무방비한 진짜 모습. 밀착 수발 로드 토크쇼, <비서진>에서만 만날 수 있는 스타들의 솔직한 매력이 공개된다.",
+      "firstAirDate": "2025-10-03",
+      "lastAirDate": "2026-10-23",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "2026-11-13",
+      "runtime": null,
+      "episodes": 28,
+      "score": 8.3,
+      "scoreBy": "TMDB",
+      "networks": [
+        "SBS"
+      ],
+      "creators": [],
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7H2hHWyYTR0nnlsvqxLYfrhw21m.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 42,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2664,8 +2669,8 @@
       "title": "크래비티 파크",
       "originalTitle": "크래비티 파크",
       "type": "예능",
-      "rank": 44,
-      "popularity": 4.857,
+      "rank": 43,
+      "popularity": 4.5671,
       "genres": [
         10764
       ],
@@ -2674,7 +2679,7 @@
       "lastAirDate": "2026-08-31",
       "status": "Returning Series",
       "inProduction": true,
-      "nextAirDate": "2026-11-09",
+      "nextAirDate": "",
       "runtime": null,
       "episodes": 128,
       "score": null,
@@ -2687,41 +2692,44 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 44,
-        "observedAt": "2026-11-09"
+        "rank": 43,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
     {
-      "tmdbId": 253122,
-      "title": "이쪽으로 올래",
-      "originalTitle": "이쪽으로 올래",
+      "tmdbId": 324784,
+      "title": "인기가요 끝나면 매점가요",
+      "originalTitle": "인기가요 끝나면 매점가요",
       "type": "예능",
-      "rank": 45,
-      "popularity": 4.4437,
+      "rank": 44,
+      "popularity": 3.7858,
       "genres": [
+        10764,
         10767
       ],
       "overview": "",
-      "firstAirDate": "2024-03-28",
-      "lastAirDate": "2026-10-05",
+      "firstAirDate": "2025-04-04",
+      "lastAirDate": "2026-10-09",
       "status": "Returning Series",
       "inProduction": true,
       "nextAirDate": "",
       "runtime": null,
-      "episodes": 66,
-      "score": 7,
+      "episodes": 47,
+      "score": null,
       "scoreBy": "TMDB",
-      "networks": [],
+      "networks": [
+        "YouTube"
+      ],
       "creators": [],
       "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/hQKAIYf4M5ME9ei5RS2oBnpF4Pc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/paRdksjEdCMZKpNia40XwlSvCO5.jpg",
       "posterCredit": "TMDB",
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 45,
-        "observedAt": "2026-11-09"
+        "rank": 44,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2730,8 +2738,8 @@
       "title": "상남자의 여행법",
       "originalTitle": "상남자의 여행법",
       "type": "예능",
-      "rank": 46,
-      "popularity": 3.9379,
+      "rank": 45,
+      "popularity": 3.6005,
       "genres": [
         10764
       ],
@@ -2763,8 +2771,191 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
+        "rank": 45,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 137687,
+      "title": "EN-loG",
+      "originalTitle": "EN-loG",
+      "type": "예능",
+      "rank": 46,
+      "popularity": 3.2203,
+      "genres": [
+        10764
+      ],
+      "overview": "",
+      "firstAirDate": "2021-08-08",
+      "lastAirDate": "2026-10-11",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 69,
+      "score": 10,
+      "scoreBy": "TMDB",
+      "networks": [],
+      "creators": [],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/uycLm1snuG1ZvNXnJhso6Cp9sY6.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
         "rank": 46,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 290553,
+      "title": "사나의 냉터뷰",
+      "originalTitle": "사나의 냉터뷰",
+      "type": "예능",
+      "rank": 47,
+      "popularity": 3.079,
+      "genres": [
+        10764
+      ],
+      "overview": "",
+      "firstAirDate": "2024-03-28",
+      "lastAirDate": "2026-10-15",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 25,
+      "score": 10,
+      "scoreBy": "TMDB",
+      "networks": [
+        "YouTube"
+      ],
+      "creators": [],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/7bnzSHRvgOaOHNuhl0qlPKBTsJ4.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 47,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 294619,
+      "title": "TWS:CLUB",
+      "originalTitle": "TWS:CLUB",
+      "type": "예능",
+      "rank": 48,
+      "popularity": 2.9133,
+      "genres": [
+        10764,
+        35,
+        10767
+      ],
+      "overview": "",
+      "firstAirDate": "2024-03-19",
+      "lastAirDate": "2026-10-06",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 73,
+      "score": 10,
+      "scoreBy": "TMDB",
+      "networks": [
+        "YouTube"
+      ],
+      "creators": [
+        "PLEDIS Entertainment"
+      ],
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/dVqybratnlNN250afmJxgFXwdh6.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 48,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 297561,
+      "title": "개와 늑대의 시간",
+      "originalTitle": "개와 늑대의 시간",
+      "type": "예능",
+      "rank": 49,
+      "popularity": 2.81,
+      "genres": [
+        10764
+      ],
+      "overview": "당신이 모르는 불편한(?) 진실. 당신의 반려견은 수만 년 전, 늑대였다! 그런데 2025년. 다시 수만 년을 거슬러 ‘늑대’로 돌아갔다는 반려견들이 나타났다?! 물고, 뜯고, 맛보고 즐기며(?) 가족의 행복을 부수는 ‘우리 집 늑대’ 때문에 고민인 보호자들을 위해 ‘개 전문가’ 개통령 강형욱과 ‘사람 전문가’ 국민 MC 김성주가 뭉쳤다! 반려 가족의 일상을 밀착 관찰, 분석하고 개는 물론 반려인을 위한 맞춤형 솔루션까지 제공하는 견생X인생 개선 프로젝트! 당신의 반려견은 개일까, 늑대일까? 당신은 반려견에게 보호자일까, 주인일까?\n\n나와 반려견의 문제가 무엇인지 마주하고 고민하며 진짜 문제의 원인을 찾아가는 시간. '개'의 시선으로 보고 '인간'의 입장에서 듣는 극사실 밀착 관찰 & 행동 교정 솔루션. 문제견들의 늑대 탈출 프로젝트 ‘개와 늑대의 시간‘",
+      "firstAirDate": "2025-08-05",
+      "lastAirDate": "2026-10-21",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 51,
+      "score": null,
+      "scoreBy": "TMDB",
+      "networks": [],
+      "creators": [],
+      "providers": [
+        "wavve",
+        "Watcha",
+        "TVING"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xsG3v9Tc3qtiJLamawu7D8NCybH.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 49,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 238888,
+      "title": "성적을 부탁해 티처스",
+      "originalTitle": "성적을 부탁해 티처스",
+      "type": "예능",
+      "rank": 50,
+      "popularity": 2.6012,
+      "genres": [
+        10764,
+        10767
+      ],
+      "overview": "공부와 성적이 고민인 중•고등학생에게 대한민국 최고의 강사진이 직접 코칭해 성적을 올려주는 에듀 솔루션 버라이어티",
+      "firstAirDate": "2023-11-05",
+      "lastAirDate": "2026-10-16",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 47,
+      "score": 10,
+      "scoreBy": "TMDB",
+      "networks": [
+        "Channel A"
+      ],
+      "creators": [],
+      "providers": [
+        "Disney Plus",
+        "wavve"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vmJcd2u690KwZFZq4SmF5JBIR7D.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 50,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2773,8 +2964,8 @@
       "title": "연애기숙학교 돌싱N모솔",
       "originalTitle": "연애기숙학교 돌싱N모솔",
       "type": "예능",
-      "rank": 47,
-      "popularity": 3.1396,
+      "rank": 51,
+      "popularity": 2.5554,
       "genres": [
         10764
       ],
@@ -2805,115 +2996,45 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 47,
-        "observedAt": "2026-11-09"
+        "rank": 51,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
     {
-      "tmdbId": 137687,
-      "title": "EN-loG",
-      "originalTitle": "EN-loG",
+      "tmdbId": 330932,
+      "title": "술래게임",
+      "originalTitle": "술래게임",
       "type": "예능",
-      "rank": 48,
-      "popularity": 3.04,
+      "rank": 52,
+      "popularity": 2.3647,
       "genres": [
         10764
       ],
-      "overview": "",
-      "firstAirDate": "2021-08-08",
-      "lastAirDate": "2026-10-11",
-      "status": "Returning Series",
-      "inProduction": true,
+      "overview": "끝없이 펼쳐진 광활한 공간에서 펼쳐지는 극한의 추격전. 플레이어들은 끊임없이 달리고 숨으며 몸으로 부딪쳐 살아남아야 한다. 누구도 믿을 수 없는 가운데, 플레이어들 사이에는 정체를 숨긴 술래가 존재한다. 끝없는 추격과 의심 속에서, 마지막까지 살아남는 자만이 승리를 차지한다.",
+      "firstAirDate": "2026-09-30",
+      "lastAirDate": "2026-10-21",
+      "status": "Ended",
+      "inProduction": false,
       "nextAirDate": "",
       "runtime": null,
-      "episodes": 69,
-      "score": 10,
-      "scoreBy": "TMDB",
-      "networks": [],
-      "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/uycLm1snuG1ZvNXnJhso6Cp9sY6.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 48,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 290553,
-      "title": "사나의 냉터뷰",
-      "originalTitle": "사나의 냉터뷰",
-      "type": "예능",
-      "rank": 49,
-      "popularity": 3.0379,
-      "genres": [
-        10764
-      ],
-      "overview": "",
-      "firstAirDate": "2024-03-28",
-      "lastAirDate": "2026-10-15",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 25,
-      "score": 10,
+      "episodes": 10,
+      "score": null,
       "scoreBy": "TMDB",
       "networks": [
-        "YouTube"
+        "Disney+"
       ],
       "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/7bnzSHRvgOaOHNuhl0qlPKBTsJ4.jpg",
+      "providers": [
+        "Disney Plus"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fTqUfov4zAB8XKScpl7kQtaauTj.jpg",
       "posterCredit": "TMDB",
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 49,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 294619,
-      "title": "TWS:CLUB",
-      "originalTitle": "TWS:CLUB",
-      "type": "예능",
-      "rank": 50,
-      "popularity": 2.9505,
-      "genres": [
-        10764,
-        35,
-        10767
-      ],
-      "overview": "",
-      "firstAirDate": "2024-03-19",
-      "lastAirDate": "2026-10-06",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 73,
-      "score": 10,
-      "scoreBy": "TMDB",
-      "networks": [
-        "YouTube"
-      ],
-      "creators": [
-        "PLEDIS Entertainment"
-      ],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/dVqybratnlNN250afmJxgFXwdh6.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 50,
-        "observedAt": "2026-11-09"
+        "rank": 52,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -2922,8 +3043,8 @@
       "title": "유재석 캠프",
       "originalTitle": "유재석 캠프",
       "type": "예능",
-      "rank": 51,
-      "popularity": 2.7907,
+      "rank": 53,
+      "popularity": 2.3124,
       "genres": [
         10764,
         35
@@ -2955,120 +3076,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 51,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 297561,
-      "title": "개와 늑대의 시간",
-      "originalTitle": "개와 늑대의 시간",
-      "type": "예능",
-      "rank": 52,
-      "popularity": 2.7903,
-      "genres": [
-        10764
-      ],
-      "overview": "당신이 모르는 불편한(?) 진실. 당신의 반려견은 수만 년 전, 늑대였다! 그런데 2025년. 다시 수만 년을 거슬러 ‘늑대’로 돌아갔다는 반려견들이 나타났다?! 물고, 뜯고, 맛보고 즐기며(?) 가족의 행복을 부수는 ‘우리 집 늑대’ 때문에 고민인 보호자들을 위해 ‘개 전문가’ 개통령 강형욱과 ‘사람 전문가’ 국민 MC 김성주가 뭉쳤다! 반려 가족의 일상을 밀착 관찰, 분석하고 개는 물론 반려인을 위한 맞춤형 솔루션까지 제공하는 견생X인생 개선 프로젝트! 당신의 반려견은 개일까, 늑대일까? 당신은 반려견에게 보호자일까, 주인일까?\n\n나와 반려견의 문제가 무엇인지 마주하고 고민하며 진짜 문제의 원인을 찾아가는 시간. '개'의 시선으로 보고 '인간'의 입장에서 듣는 극사실 밀착 관찰 & 행동 교정 솔루션. 문제견들의 늑대 탈출 프로젝트 ‘개와 늑대의 시간‘",
-      "firstAirDate": "2025-08-05",
-      "lastAirDate": "2026-10-21",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 51,
-      "score": null,
-      "scoreBy": "TMDB",
-      "networks": [],
-      "creators": [],
-      "providers": [
-        "wavve",
-        "Watcha",
-        "TVING"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/xsG3v9Tc3qtiJLamawu7D8NCybH.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 52,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 238888,
-      "title": "성적을 부탁해 티처스",
-      "originalTitle": "성적을 부탁해 티처스",
-      "type": "예능",
-      "rank": 53,
-      "popularity": 2.4193,
-      "genres": [
-        10764,
-        10767
-      ],
-      "overview": "공부와 성적이 고민인 중•고등학생에게 대한민국 최고의 강사진이 직접 코칭해 성적을 올려주는 에듀 솔루션 버라이어티",
-      "firstAirDate": "2023-11-05",
-      "lastAirDate": "2026-10-16",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "",
-      "runtime": null,
-      "episodes": 47,
-      "score": 10,
-      "scoreBy": "TMDB",
-      "networks": [
-        "Channel A"
-      ],
-      "creators": [],
-      "providers": [
-        "Disney Plus",
-        "wavve"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/vmJcd2u690KwZFZq4SmF5JBIR7D.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
         "rank": 53,
-        "observedAt": "2026-11-09"
-      },
-      "metadataSource": "TMDB"
-    },
-    {
-      "tmdbId": 334553,
-      "title": "식스센스: B사이드",
-      "originalTitle": "식스센스: B사이드",
-      "type": "예능",
-      "rank": 54,
-      "popularity": 2.4158,
-      "genres": [
-        35,
-        10764
-      ],
-      "overview": "더 치밀해진 가짜 찾기. 정답은 언제나 그 뒷면에 숨어 있다. 반전에 반전을 거듭하는 추리 끝 '식스센스: B사이드'",
-      "firstAirDate": "2026-09-13",
-      "lastAirDate": "2026-10-25",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-11-15",
-      "runtime": 90,
-      "episodes": 10,
-      "score": 8,
-      "scoreBy": "TMDB",
-      "networks": [
-        "tvN"
-      ],
-      "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/mGCQQlLobyKPianz2gU0vtVcnvT.jpg",
-      "posterCredit": "TMDB",
-      "rankingSource": {
-        "provider": "TMDB",
-        "metric": "popularity",
-        "rank": 54,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -3077,8 +3086,8 @@
       "title": "더 커뮤니티",
       "originalTitle": "더 커뮤니티",
       "type": "예능",
-      "rank": 55,
-      "popularity": 2.3908,
+      "rank": 54,
+      "popularity": 2.1131,
       "genres": [
         10764,
         10767
@@ -3107,8 +3116,8 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 55,
-        "observedAt": "2026-11-09"
+        "rank": 54,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -3117,8 +3126,8 @@
       "title": "언더커버 셰프",
       "originalTitle": "언더커버 셰프",
       "type": "예능",
-      "rank": 56,
-      "popularity": 2.3859,
+      "rank": 55,
+      "popularity": 2.0831,
       "genres": [
         10764
       ],
@@ -3144,45 +3153,44 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 56,
-        "observedAt": "2026-11-09"
+        "rank": 55,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
     {
-      "tmdbId": 330932,
-      "title": "술래게임",
-      "originalTitle": "술래게임",
+      "tmdbId": 334553,
+      "title": "식스센스: B사이드",
+      "originalTitle": "식스센스: B사이드",
       "type": "예능",
-      "rank": 57,
-      "popularity": 2.3595,
+      "rank": 56,
+      "popularity": 2.0345,
       "genres": [
+        35,
         10764
       ],
-      "overview": "끝없이 펼쳐진 광활한 공간에서 펼쳐지는 극한의 추격전. 플레이어들은 끊임없이 달리고 숨으며 몸으로 부딪쳐 살아남아야 한다. 누구도 믿을 수 없는 가운데, 플레이어들 사이에는 정체를 숨긴 술래가 존재한다. 끝없는 추격과 의심 속에서, 마지막까지 살아남는 자만이 승리를 차지한다.",
-      "firstAirDate": "2026-09-30",
-      "lastAirDate": "2026-10-21",
-      "status": "Ended",
-      "inProduction": false,
-      "nextAirDate": "",
-      "runtime": null,
+      "overview": "더 치밀해진 가짜 찾기. 정답은 언제나 그 뒷면에 숨어 있다. 반전에 반전을 거듭하는 추리 끝 '식스센스: B사이드'",
+      "firstAirDate": "2026-09-13",
+      "lastAirDate": "2026-10-25",
+      "status": "Returning Series",
+      "inProduction": true,
+      "nextAirDate": "2026-11-15",
+      "runtime": 90,
       "episodes": 10,
-      "score": null,
+      "score": 8,
       "scoreBy": "TMDB",
       "networks": [
-        "Disney+"
+        "tvN"
       ],
       "creators": [],
-      "providers": [
-        "Disney Plus"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/fTqUfov4zAB8XKScpl7kQtaauTj.jpg",
+      "providers": [],
+      "poster": "https://image.tmdb.org/t/p/w500/mGCQQlLobyKPianz2gU0vtVcnvT.jpg",
       "posterCredit": "TMDB",
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 57,
-        "observedAt": "2026-11-09"
+        "rank": 56,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
@@ -3191,8 +3199,8 @@
       "title": "우리들의 발라드",
       "originalTitle": "우리들의 발라드",
       "type": "예능",
-      "rank": 58,
-      "popularity": 2.2233,
+      "rank": 57,
+      "popularity": 1.9489,
       "genres": [
         10764
       ],
@@ -3220,79 +3228,126 @@
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
-        "rank": 58,
-        "observedAt": "2026-11-09"
+        "rank": 57,
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
     {
-      "tmdbId": 336181,
-      "title": "디스이즈 현무로드",
-      "originalTitle": "디스이즈 현무로드",
+      "tmdbId": 327830,
+      "title": "우주떡집",
+      "originalTitle": "우주떡집",
       "type": "예능",
-      "rank": 59,
-      "popularity": 2.0899,
+      "rank": 58,
+      "popularity": 1.8416,
       "genres": [
         10764
       ],
-      "overview": "정해진 길은 없지만 기준은 분명하다. 전현무와 이준이 마음 가는 대로 발걸음을 옮기며 현지인만 아는 골목과 맛집을 찾아 나선다. 눈앞의 풍경에 멈추고 우연히 만난 사람의 한마디에 방향을 트는 두 사람. 불확실한 선택이 뜻밖의 만남과 새로운 여정으로 이어지는 예측불가 로드 트립이 시작된다.",
-      "firstAirDate": "2026-09-20",
-      "lastAirDate": "2026-10-25",
-      "status": "Returning Series",
-      "inProduction": true,
-      "nextAirDate": "2026-11-15",
+      "overview": "떡에서 요리까지! 토롱이의 계략으로 우주떡집 알바생이 된 지락이들. 본격 강제취업 식당 노동 어드벤처!",
+      "firstAirDate": "2026-07-31",
+      "lastAirDate": "2026-10-16",
+      "status": "Ended",
+      "inProduction": false,
+      "nextAirDate": "",
       "runtime": null,
       "episodes": 12,
+      "score": 8.5,
+      "scoreBy": "TMDB",
+      "networks": [
+        "tvN"
+      ],
+      "creators": [
+        "나영석"
+      ],
+      "providers": [
+        "TVING"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fj6x2sGpndSZVvoPfA8KzRT4xt.jpg",
+      "posterCredit": "TMDB",
+      "rankingSource": {
+        "provider": "TMDB",
+        "metric": "popularity",
+        "rank": 58,
+        "observedAt": "2026-11-10"
+      },
+      "metadataSource": "TMDB"
+    },
+    {
+      "tmdbId": 332179,
+      "title": "스트릿 월드 파이터: 디렉터스 워",
+      "originalTitle": "스트릿 월드 파이터: 디렉터스 워",
+      "type": "예능",
+      "rank": 59,
+      "popularity": 1.8141,
+      "genres": [
+        10764
+      ],
+      "overview": "ALL GENRE PERFORMANCE DIRECTOR\n\n춤·안무·연출, 무대 위 모든 것을 설계하는 퍼포먼스 디렉터들의 작품 승부\n\n안무가들의 디렉 전쟁",
+      "firstAirDate": "2026-08-18",
+      "lastAirDate": "2026-10-20",
+      "status": "Ended",
+      "inProduction": false,
+      "nextAirDate": "",
+      "runtime": null,
+      "episodes": 10,
       "score": null,
       "scoreBy": "TMDB",
       "networks": [
-        "MBN"
+        "Mnet",
+        "TVING"
       ],
       "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/904ugLoQib2bzEcD3jhRUwr1BfC.jpg",
+      "providers": [
+        "TVING"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ihciyUa2BwS5I26pkOA7rwt6i1X.jpg",
       "posterCredit": "TMDB",
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 59,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     },
     {
-      "tmdbId": 339900,
-      "title": "뭔데뭔데! 이게 무슨 난리고",
-      "originalTitle": "뭔데뭔데! 이게 무슨 난리고",
+      "tmdbId": 135094,
+      "title": "더 리슨",
+      "originalTitle": "더 리슨",
       "type": "예능",
       "rank": 60,
-      "popularity": 2.0389,
+      "popularity": 1.6949,
       "genres": [
-        35,
         10764
       ],
-      "overview": "쉬는 것마저 내 맘대로 안 되는 세 남자의 타의적 여행기 (놀면 뭐하니? 스핀오프)",
-      "firstAirDate": "2026-10-09",
-      "lastAirDate": "2026-10-23",
+      "overview": "발이 닿는 곳 어디든 무대가 된다!\n\n매력적인 음색 여신 5인의 음악 여행 리얼 버라이어티.\n\n대한민국 음색 여신 솔지, 김나영, 케이시, 승희, HYNN(박혜원)이 프로젝트 그룹 ‘더 리슨’을 결성했다.\n\n아름다운 항구 도시 목포에 도착한 다섯 명의 보컬리스트!\n\n목포 어디든 발길이 닿는 곳마다 이들의 무대가 된다.\n\n사랑이 깃든 섬, 수많은 발걸음이 녹아든 옛 골목,  바다 내음 가득한 해변에서 5인 5색의 감성이 고스란히 스며든 개별 신곡과 다섯 명이 함께한 단체 신곡까지 들을 수 있다.\n\n음악이라는 공통점 하나로 모인 그들의 진솔한 이야기와 어디서도 터놓지 못했던  보컬리스트로서의 고민을 공유하는 다섯 멤버.\n\n닮은 듯 다른 서로를 알아가고 이해하며 음악으로 하나 되는 프로젝트 그룹 ‘더 리슨’을 만나보자!",
+      "firstAirDate": "2021-09-27",
+      "lastAirDate": "2026-10-21",
       "status": "Returning Series",
       "inProduction": true,
       "nextAirDate": "",
       "runtime": null,
-      "episodes": 3,
+      "episodes": 23,
       "score": null,
       "scoreBy": "TMDB",
       "networks": [
-        "MBC"
+        "SBS"
       ],
       "creators": [],
-      "providers": [],
-      "poster": "https://image.tmdb.org/t/p/w500/h011aGUugixJIOjUpckdlxKyHyX.jpg",
+      "providers": [
+        "Netflix",
+        "wavve",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "TVING"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fk51V5d65VufqdAJVEea8gaJXkT.jpg",
       "posterCredit": "TMDB",
       "rankingSource": {
         "provider": "TMDB",
         "metric": "popularity",
         "rank": 60,
-        "observedAt": "2026-11-09"
+        "observedAt": "2026-11-10"
       },
       "metadataSource": "TMDB"
     }
