@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-10",
-  "latestDt": "20261110",
+  "updatedAt": "2026-11-11",
+  "latestDt": "20261111",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2805457,
+      "audienceAcc": 2825122,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261110",
-      "days": 45,
+      "lastSeenAt": "20261111",
+      "days": 46,
       "bestRank": 1,
-      "rank": 3,
-      "audienceDay": 7933,
+      "rank": 1,
+      "audienceDay": 19666,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,7 +58,7 @@
       "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
       "titleOriginal": "名探偵コナン 30号殺人事件",
       "openedAt": "2026-11-05",
-      "audienceAcc": 121907,
+      "audienceAcc": 131191,
       "genres": [
         "애니메이션",
         "액션",
@@ -66,11 +66,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261105",
-      "lastSeenAt": "20261110",
-      "days": 6,
+      "lastSeenAt": "20261111",
+      "days": 7,
       "bestRank": 1,
-      "rank": 4,
-      "audienceDay": 6298,
+      "rank": 6,
+      "audienceDay": 9284,
       "runtime": 93,
       "directors": [
         "카마나카 노부하루"
@@ -97,69 +97,22 @@
       "showing": true
     },
     {
-      "movieCd": "20255033",
-      "title": "암살자(들)",
-      "titleEn": "The Assassin(s)",
-      "titleOriginal": "",
-      "openedAt": "2026-09-23",
-      "audienceAcc": 3479992,
-      "genres": [
-        "범죄",
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260917",
-      "lastSeenAt": "20261110",
-      "days": 51,
-      "bestRank": 1,
-      "rank": 8,
-      "audienceDay": 1639,
-      "runtime": 130,
-      "directors": [
-        "허진호"
-      ],
-      "cast": [
-        "유해진",
-        "박해일",
-        "이민호",
-        "소타 신고"
-      ],
-      "producers": [
-        "(주)하이브미디어코프"
-      ],
-      "distributors": [
-        "(주)하이브미디어코프"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20255033.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "1974년 8월 15일, 제29회 광복절 경축식. 전 국민이 지켜보는 생중계 현장에서 영부인이 저격당하는 초유의 사태가 발생한다. 순식간에 아수라장이 된 식장에서 용의자가 체포되고, 사건은 국가적 비극으로 기록되며 서둘러 종결된다. 하지만, 현장 경호를 담당했던 형사 철구, 사건의 이면을 응시하던 신문사 사회부 부장 재환, 그날의 혼란을 직접 목격한 신입 기자 영일은 발표된 수사 결과와 실제 정황 사이, 지워지지 않는 의문을 품기 시작하는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1418428,
-      "score": 10,
-      "scoreBy": "TMDB",
-      "voteCount": 1,
-      "showing": true
-    },
-    {
       "movieCd": "20259894",
       "title": "최종면접",
       "titleEn": "Final Interview",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 191069,
+      "audienceAcc": 203878,
       "genres": [
         "미스터리"
       ],
       "type": "영화",
       "firstSeenAt": "20261029",
-      "lastSeenAt": "20261110",
-      "days": 9,
+      "lastSeenAt": "20261111",
+      "days": 10,
       "bestRank": 1,
-      "rank": 1,
-      "audienceDay": 12003,
+      "rank": 4,
+      "audienceDay": 12802,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -197,18 +150,18 @@
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 399054,
+      "audienceAcc": 408341,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261110",
-      "days": 14,
+      "lastSeenAt": "20261111",
+      "days": 15,
       "bestRank": 1,
-      "rank": 2,
-      "audienceDay": 9217,
+      "rank": 5,
+      "audienceDay": 9287,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -235,6 +188,324 @@
       "showing": true
     },
     {
+      "movieCd": "20264957",
+      "title": "폴2: 데드포인트",
+      "titleEn": "Fall 2: Deadpoint",
+      "titleOriginal": "",
+      "openedAt": "2026-11-11",
+      "audienceAcc": 20131,
+      "genres": [
+        "스릴러",
+        "액션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261111",
+      "lastSeenAt": "20261111",
+      "days": 1,
+      "bestRank": 2,
+      "rank": 2,
+      "audienceDay": 18207,
+      "runtime": 98,
+      "directors": [
+        "마이클 스피어리그",
+        "피터 스피어이그"
+      ],
+      "cast": [
+        "버지니아 가드너",
+        "그레이스 캐롤라인 커리",
+        "해리엇 슬레이터",
+        "아르세마 토마스",
+        "톰 브리트니"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)바이포엠스튜디오"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "고도 제한 해제. 숨쉬기조차 힘든 해발 3,300m. 수십 년간 출입이 금지된 가장 위험한 산, '콴'. 한 번의 실수가 죽음으로 이어지는 곳. 이곳에선 비명마저 공중분해 된다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1101412,
+      "score": 7.3,
+      "scoreBy": "TMDB",
+      "voteCount": 766,
+      "poster": "assets/posters/20264957.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20167904",
+      "title": "라라랜드",
+      "titleEn": "LA LA LAND",
+      "titleOriginal": "",
+      "openedAt": "2016-12-07",
+      "audienceAcc": 3817391,
+      "genres": [
+        "드라마",
+        "뮤지컬",
+        "멜로/로맨스"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261111",
+      "lastSeenAt": "20261111",
+      "days": 1,
+      "bestRank": 3,
+      "rank": 3,
+      "audienceDay": 15225,
+      "runtime": 127,
+      "directors": [
+        "데이미언 셔젤"
+      ],
+      "cast": [
+        "엠마 스톤",
+        "라이언 고슬링",
+        "핀 위트록",
+        "J.K. 시몬스",
+        "로즈마리 드윗"
+      ],
+      "producers": [],
+      "distributors": [
+        "판씨네마(주)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "차들로 빽빽이 들어찬 LA의 고속도로. 거북이 걸음이던 도로가 뚫리기 시작하지만 미아 지금 손에 든 연기 오디션 대본을 놓지 못한다. 세바스찬은 경적을 누르며 미아를 노려보고는 사라진다. 악연의 시작. 이후 미아는 감미로운 피아노 선율에 이끌려 재즈바로 향하는데, 연주자가 바로 세바스찬이다. 미아가 세바스찬에게 인사를 건네려고 다가가던 순간은 하필 그가 재즈바의 레퍼토리를 무시하고 연주한 탓에 해고된 직후. 세바스찬은 인사를 건네려 다가온 미아를 쌩하니 스쳐 지나가버린다. 세 번째로 두 사람은 파티에 온 손님과 출장 밴드의 키보드 연주자로 다시 만나는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 313369,
+      "score": 7.9,
+      "scoreBy": "TMDB",
+      "voteCount": 18723,
+      "poster": "assets/posters/20167904.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20267412",
+      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 51495,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261104",
+      "lastSeenAt": "20261111",
+      "days": 8,
+      "bestRank": 4,
+      "rank": 9,
+      "audienceDay": 4089,
+      "runtime": 119,
+      "directors": [
+        "신보 아키유키"
+      ],
+      "cast": [
+        "유키 아오이",
+        "사이토 치와"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)애니플러스"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "",
+      "posterCredit": "",
+      "synopsis": "",
+      "synopsisCredit": "",
+      "tmdbId": null,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
+      "movieCd": "20266589",
+      "title": "프레셔",
+      "titleEn": "Pressure",
+      "titleOriginal": "",
+      "openedAt": "2026-11-11",
+      "audienceAcc": 9503,
+      "genres": [
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261111",
+      "lastSeenAt": "20261111",
+      "days": 1,
+      "bestRank": 7,
+      "rank": 7,
+      "audienceDay": 5416,
+      "runtime": 100,
+      "directors": [
+        "앤소니 마라스"
+      ],
+      "cast": [
+        "앤드류 스캇",
+        "브렌든 프레이저"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)디스테이션"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "D-데이 전 72시간 동안, 자유 세계의 운명이 위태로운 가운데, 드와이트 D. 아이젠하워 장군과 제임스 스태그 대위는 역사상 가장 대규모이자 가장 위험한 해상 상륙 작전을 감행할 것인지, 아니면 전쟁에서 완전히 패배할 위험을 감수할 것인지라는 불가능한 선택의 기로에 서게 된다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1318413,
+      "score": 7.7,
+      "scoreBy": "TMDB",
+      "voteCount": 540,
+      "poster": "assets/posters/20266589.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20210087",
+      "title": "듄",
+      "titleEn": "DUNE",
+      "titleOriginal": "",
+      "openedAt": "2021-10-20",
+      "audienceAcc": 1669992,
+      "genres": [
+        "SF"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261111",
+      "lastSeenAt": "20261111",
+      "days": 1,
+      "bestRank": 8,
+      "rank": 8,
+      "audienceDay": 5392,
+      "runtime": 155,
+      "directors": [
+        "드니 빌뇌브"
+      ],
+      "cast": [
+        "티모시 샬라메",
+        "레베카 퍼거슨",
+        "오스카 아이삭",
+        "조슈 브롤린",
+        "제이슨 모모아",
+        "하비에르 바르뎀"
+      ],
+      "producers": [],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "10191년, 아트레이데스 가문의 후계자인 폴은 시간과 공간을 초월해 과거와 미래를 모두 볼 수 있고, 더 나은 미래를 만들 유일한 구원자인 예지된 자의 운명을 타고났다. 그리고 어떤 계시처럼 매일 꿈에서 아라키스의 행성에 있는 한 여인을 만난다. 귀족들이 지지하는 아트레이데스 가문에 대한 황제의 질투는 폴과 그 일족들을 죽음이 기다리는 아라키스로 이끄는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 438631,
+      "score": 7.8,
+      "scoreBy": "TMDB",
+      "voteCount": 15928,
+      "poster": "assets/posters/20210087.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20265420",
+      "title": "스크루지: 크리스마스 캐럴",
+      "titleEn": "Ebenezer: A Christmas Carol",
+      "titleOriginal": "",
+      "openedAt": "2026-11-11",
+      "audienceAcc": 3873,
+      "genres": [
+        "드라마",
+        "판타지",
+        "스릴러"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261111",
+      "lastSeenAt": "20261111",
+      "days": 1,
+      "bestRank": 10,
+      "rank": 10,
+      "audienceDay": 3749,
+      "runtime": 115,
+      "directors": [
+        "티 웨스트"
+      ],
+      "cast": [
+        "조니 뎁",
+        "이안 맥켈런",
+        "루퍼트 그린트",
+        "샘 클라플린",
+        "데이지 리들리"
+      ],
+      "producers": [],
+      "distributors": [
+        "롯데컬처웍스(주)롯데엔터테인먼트"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "거지도 구걸하지 않을 만큼 괴팍한 구두쇠 영감 스크루지. 모두가 즐거운 크리스마스조차 그에겐 시끌벅적하고 성가신 하루일 뿐이다. 그러던 크리스마스 이브, 그의 앞에 죽은 동업자의 유령이 나타나 지금처럼 살아간다면 끔찍한 운명을 맞이하게 될 것이라 경고하고, 이를 증명하기라도 하듯 곧이어 과거, 현재, 미래의 유령들이 차례로 스크루지를 찾아오며 그는 자신의 삶을 뒤바꿀 기묘한 모험을 하게 되는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1567605,
+      "score": 8.3,
+      "scoreBy": "TMDB",
+      "voteCount": 6,
+      "poster": "assets/posters/20265420.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20255033",
+      "title": "암살자(들)",
+      "titleEn": "The Assassin(s)",
+      "titleOriginal": "",
+      "openedAt": "2026-09-23",
+      "audienceAcc": 3479992,
+      "genres": [
+        "범죄",
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260917",
+      "lastSeenAt": "20261110",
+      "days": 51,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 130,
+      "directors": [
+        "허진호"
+      ],
+      "cast": [
+        "유해진",
+        "박해일",
+        "이민호",
+        "소타 신고"
+      ],
+      "producers": [
+        "(주)하이브미디어코프"
+      ],
+      "distributors": [
+        "(주)하이브미디어코프"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20255033.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "1974년 8월 15일, 제29회 광복절 경축식. 전 국민이 지켜보는 생중계 현장에서 영부인이 저격당하는 초유의 사태가 발생한다. 순식간에 아수라장이 된 식장에서 용의자가 체포되고, 사건은 국가적 비극으로 기록되며 서둘러 종결된다. 하지만, 현장 경호를 담당했던 형사 철구, 사건의 이면을 응시하던 신문사 사회부 부장 재환, 그날의 혼란을 직접 목격한 신입 기자 영일은 발표된 수사 결과와 실제 정황 사이, 지워지지 않는 의문을 품기 시작하는데…",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1418428,
+      "score": 10,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "showing": false
+    },
+    {
       "movieCd": "20231795",
       "title": "수능, 출제의 비밀",
       "titleEn": "Ugly Duckling Ms. Maeng",
@@ -249,8 +520,8 @@
       "lastSeenAt": "20261110",
       "days": 13,
       "bestRank": 3,
-      "rank": 6,
-      "audienceDay": 2163,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 99,
       "directors": [
         "이용재"
@@ -281,49 +552,7 @@
       "score": 7,
       "scoreBy": "TMDB",
       "voteCount": 1,
-      "showing": true
-    },
-    {
-      "movieCd": "20267412",
-      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
-      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
-      "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 47406,
-      "genres": [
-        "애니메이션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261104",
-      "lastSeenAt": "20261110",
-      "days": 7,
-      "bestRank": 4,
-      "rank": 7,
-      "audienceDay": 1871,
-      "runtime": 119,
-      "directors": [
-        "신보 아키유키"
-      ],
-      "cast": [
-        "유키 아오이",
-        "사이토 치와"
-      ],
-      "producers": [],
-      "distributors": [
-        "(주)애니플러스"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "",
-      "posterCredit": "",
-      "synopsis": "",
-      "synopsisCredit": "",
-      "tmdbId": null,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20264481",
@@ -340,8 +569,8 @@
       "lastSeenAt": "20261110",
       "days": 5,
       "bestRank": 5,
-      "rank": 10,
-      "audienceDay": 1246,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 106,
       "directors": [
         "알레산드로 칼로니",
@@ -370,7 +599,7 @@
       "score": 7.1,
       "scoreBy": "TMDB",
       "voteCount": 11,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20266765",
@@ -389,8 +618,8 @@
       "lastSeenAt": "20261110",
       "days": 7,
       "bestRank": 5,
-      "rank": 5,
-      "audienceDay": 2910,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 116,
       "directors": [
         "마틴 맥도나"
@@ -417,7 +646,7 @@
       "score": 8.8,
       "scoreBy": "TMDB",
       "voteCount": 20,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20266189",
@@ -434,8 +663,8 @@
       "lastSeenAt": "20261110",
       "days": 12,
       "bestRank": 6,
-      "rank": 9,
-      "audienceDay": 1312,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 117,
       "directors": [
         "송일곤"
@@ -465,7 +694,7 @@
       "score": 10,
       "scoreBy": "TMDB",
       "voteCount": 1,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20256161",
