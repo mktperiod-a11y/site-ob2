@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-12",
-  "latestDt": "20261112",
+  "updatedAt": "2026-11-13",
+  "latestDt": "20261113",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2832920,
+      "audienceAcc": 2845874,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261112",
-      "days": 47,
+      "lastSeenAt": "20261113",
+      "days": 48,
       "bestRank": 1,
       "rank": 3,
-      "audienceDay": 7808,
+      "audienceDay": 12954,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,7 +58,7 @@
       "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
       "titleOriginal": "名探偵コナン 30号殺人事件",
       "openedAt": "2026-11-05",
-      "audienceAcc": 136755,
+      "audienceAcc": 143815,
       "genres": [
         "애니메이션",
         "액션",
@@ -66,11 +66,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261105",
-      "lastSeenAt": "20261112",
-      "days": 8,
+      "lastSeenAt": "20261113",
+      "days": 9,
       "bestRank": 1,
       "rank": 6,
-      "audienceDay": 5564,
+      "audienceDay": 7060,
       "runtime": 93,
       "directors": [
         "카마나카 노부하루"
@@ -102,17 +102,17 @@
       "titleEn": "Final Interview",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 213797,
+      "audienceAcc": 227532,
       "genres": [
         "미스터리"
       ],
       "type": "영화",
       "firstSeenAt": "20261029",
-      "lastSeenAt": "20261112",
-      "days": 11,
+      "lastSeenAt": "20261113",
+      "days": 12,
       "bestRank": 1,
       "rank": 2,
-      "audienceDay": 9912,
+      "audienceDay": 13748,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -150,18 +150,18 @@
       "titleEn": "Fall 2: Deadpoint",
       "titleOriginal": "",
       "openedAt": "2026-11-11",
-      "audienceAcc": 32504,
+      "audienceAcc": 51662,
       "genres": [
         "스릴러",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261112",
-      "days": 2,
+      "lastSeenAt": "20261113",
+      "days": 3,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 12371,
+      "audienceDay": 19157,
       "runtime": 98,
       "directors": [
         "마이클 스피어리그",
@@ -197,18 +197,18 @@
       "titleEn": "Heart of the Beast",
       "titleOriginal": "",
       "openedAt": "2026-10-28",
-      "audienceAcc": 414939,
+      "audienceAcc": 422856,
       "genres": [
         "드라마",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261028",
-      "lastSeenAt": "20261112",
-      "days": 16,
+      "lastSeenAt": "20261113",
+      "days": 17,
       "bestRank": 1,
       "rank": 5,
-      "audienceDay": 6592,
+      "audienceDay": 7910,
       "runtime": 101,
       "directors": [
         "데이비드 에이어"
@@ -240,7 +240,7 @@
       "titleEn": "LA LA LAND",
       "titleOriginal": "",
       "openedAt": "2016-12-07",
-      "audienceAcc": 3824603,
+      "audienceAcc": 3833314,
       "genres": [
         "드라마",
         "뮤지컬",
@@ -248,11 +248,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261112",
-      "days": 2,
+      "lastSeenAt": "20261113",
+      "days": 3,
       "bestRank": 3,
       "rank": 4,
-      "audienceDay": 7212,
+      "audienceDay": 8712,
       "runtime": 127,
       "directors": [
         "데이미언 셔젤"
@@ -282,22 +282,64 @@
       "showing": true
     },
     {
+      "movieCd": "20267412",
+      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 56127,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261104",
+      "lastSeenAt": "20261113",
+      "days": 9,
+      "bestRank": 4,
+      "rank": 10,
+      "audienceDay": 2810,
+      "runtime": 119,
+      "directors": [
+        "신보 아키유키"
+      ],
+      "cast": [
+        "유키 아오이",
+        "사이토 치와"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)애니플러스"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "",
+      "posterCredit": "",
+      "synopsis": "",
+      "synopsisCredit": "",
+      "tmdbId": null,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
       "movieCd": "20210087",
       "title": "듄",
       "titleEn": "DUNE",
       "titleOriginal": "",
       "openedAt": "2021-10-20",
-      "audienceAcc": 1673951,
+      "audienceAcc": 1678578,
       "genres": [
         "SF"
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261112",
-      "days": 2,
+      "lastSeenAt": "20261113",
+      "days": 3,
       "bestRank": 7,
       "rank": 7,
-      "audienceDay": 3959,
+      "audienceDay": 4627,
       "runtime": 155,
       "directors": [
         "드니 빌뇌브"
@@ -333,17 +375,17 @@
       "titleEn": "Pressure",
       "titleOriginal": "",
       "openedAt": "2026-11-11",
-      "audienceAcc": 12691,
+      "audienceAcc": 15655,
       "genres": [
         "스릴러"
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261112",
-      "days": 2,
+      "lastSeenAt": "20261113",
+      "days": 3,
       "bestRank": 7,
       "rank": 9,
-      "audienceDay": 3188,
+      "audienceDay": 2964,
       "runtime": 100,
       "directors": [
         "앤소니 마라스"
@@ -370,59 +412,12 @@
       "showing": true
     },
     {
-      "movieCd": "20247221",
-      "title": "폭설",
-      "titleEn": "White Blast",
-      "titleOriginal": "",
-      "openedAt": "2026-11-18",
-      "audienceAcc": 3831,
-      "genres": [
-        "미스터리",
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261112",
-      "lastSeenAt": "20261112",
-      "days": 1,
-      "bestRank": 8,
-      "rank": 8,
-      "audienceDay": 3680,
-      "runtime": 88,
-      "directors": [
-        "박선우",
-        "홍의정"
-      ],
-      "cast": [
-        "김윤석",
-        "구교환",
-        "박수영",
-        "노윤서",
-        "이혜진",
-        "허은주"
-      ],
-      "producers": [
-        "(주)루이스 픽쳐스"
-      ],
-      "distributors": [
-        "(주)쇼박스"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "showing": true,
-      "synopsis": "퇴직을 하루 앞둔 역장 갑수는 마지막 열차를 통과시키고 평생을 지켜오던 설오역을 떠날 준비를 한다. 하지만 하필 폭설이 쏟아지며 후임의 도착이 늦어지고, 설오역은 눈 속에 고립되고 만다. 다음 날, 후임이라는 놈이 설오역에 도착하지만 어딘가 수상하다. 그렇게 찝찝한 기분으로 인수인계를 이어가던 두 사람 앞에 의문의 시신이 나타나는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1244809,
-      "poster": "assets/posters/20247221.webp",
-      "posterCredit": "TMDB"
-    },
-    {
       "movieCd": "20265420",
       "title": "스크루지: 크리스마스 캐럴",
       "titleEn": "Ebenezer: A Christmas Carol",
       "titleOriginal": "",
       "openedAt": "2026-11-11",
-      "audienceAcc": 6077,
+      "audienceAcc": 9293,
       "genres": [
         "드라마",
         "판타지",
@@ -430,11 +425,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261112",
-      "days": 2,
-      "bestRank": 10,
-      "rank": 10,
-      "audienceDay": 2203,
+      "lastSeenAt": "20261113",
+      "days": 3,
+      "bestRank": 8,
+      "rank": 8,
+      "audienceDay": 3215,
       "runtime": 115,
       "directors": [
         "티 웨스트"
@@ -464,42 +459,50 @@
       "showing": true
     },
     {
-      "movieCd": "20267412",
-      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
-      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "movieCd": "20247221",
+      "title": "폭설",
+      "titleEn": "White Blast",
       "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 51495,
+      "openedAt": "2026-11-18",
+      "audienceAcc": 3831,
       "genres": [
-        "애니메이션"
+        "미스터리",
+        "드라마"
       ],
       "type": "영화",
-      "firstSeenAt": "20261104",
-      "lastSeenAt": "20261111",
-      "days": 8,
-      "bestRank": 4,
+      "firstSeenAt": "20261112",
+      "lastSeenAt": "20261112",
+      "days": 1,
+      "bestRank": 8,
       "rank": null,
       "audienceDay": null,
-      "runtime": 119,
+      "runtime": 88,
       "directors": [
-        "신보 아키유키"
+        "박선우",
+        "홍의정"
       ],
       "cast": [
-        "유키 아오이",
-        "사이토 치와"
+        "김윤석",
+        "구교환",
+        "박수영",
+        "노윤서",
+        "이혜진",
+        "허은주"
       ],
-      "producers": [],
+      "producers": [
+        "(주)루이스 픽쳐스"
+      ],
       "distributors": [
-        "(주)애니플러스"
+        "(주)쇼박스"
       ],
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "poster": "",
-      "posterCredit": "",
-      "synopsis": "",
-      "synopsisCredit": "",
-      "tmdbId": null,
+      "poster": "assets/posters/20247221.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "퇴직을 하루 앞둔 역장 갑수는 마지막 열차를 통과시키고 평생을 지켜오던 설오역을 떠날 준비를 한다. 하지만 하필 폭설이 쏟아지며 후임의 도착이 늦어지고, 설오역은 눈 속에 고립되고 만다. 다음 날, 후임이라는 놈이 설오역에 도착하지만 어딘가 수상하다. 그렇게 찝찝한 기분으로 인수인계를 이어가던 두 사람 앞에 의문의 시신이 나타나는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1244809,
       "score": null,
       "scoreBy": "",
       "voteCount": null,
