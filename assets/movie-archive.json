@@ -3,6 +3,56 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20266148",
+      "title": "아버지의 집밥",
+      "titleEn": "My Father’s Table",
+      "titleOriginal": "",
+      "openedAt": "2026-09-09",
+      "audienceAcc": 14256,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260922",
+      "lastSeenAt": "20260929",
+      "days": 2,
+      "bestRank": 10,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 146,
+      "directors": [
+        "이준익"
+      ],
+      "cast": [
+        "정진영",
+        "이정은",
+        "변요한",
+        "박지연",
+        "강형석",
+        "박세준"
+      ],
+      "producers": [
+        "(주)레진엔터테인먼트",
+        "(주)영화사두둥"
+      ],
+      "distributors": [
+        "(주)키다리스튜디오",
+        "(주)삼백상회"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20266148.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "평생 부엌 근처엔 가본 적도 없는 가부장 아버지 ‘하응’. 결혼 이후 줄곧 가족들의 밥상을 차려온 아내 ‘순애’의 고마움은 모른 채, 삼시세끼 까탈스럽게 집밥만 찾는다. 어느 날 ‘순애’가 요리를 하지 못하는 ‘요리백지증’에 걸리자 집밥의 평화가 깨진 ‘하응’은 생존을 위해 인생 첫 요리에 도전한다. ‘순애’는 ‘하응’의 요리가 맛있으면 칭찬, 맛 없으면 벌점을 주기로 하고 “벌점 10점을 채우면 이혼!”이라는 청천벽력 선언을 내뱉는데…! 과연 ‘하응’은 집밥에 성공할 수 있을까?",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1708755,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": false
+    },
+    {
       "movieCd": "20266051",
       "title": "바다 탐험대 옥토넛 어보브 앤 비욘드 : 두근두근 대자연 어드벤처",
       "titleEn": "Octonauts Above & Beyond : Heart-pounding Great Nature Adventure",
