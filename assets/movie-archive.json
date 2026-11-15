@@ -3,6 +3,50 @@
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "movies": [
     {
+      "movieCd": "20262961",
+      "title": "이방인",
+      "titleEn": "The Stranger",
+      "titleOriginal": "L'étranger",
+      "openedAt": "2026-09-30",
+      "audienceAcc": 3723,
+      "genres": [
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20260930",
+      "lastSeenAt": "20260930",
+      "days": 1,
+      "bestRank": 10,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 122,
+      "directors": [
+        "프랑수아 오종"
+      ],
+      "cast": [
+        "벤자민 부아쟁",
+        "드니 라방",
+        "스완 아를로"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)영화사 진진",
+        "(주)레드아이스 엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20262961.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "청년 ‘뫼르소’는 어머니의 부고 소식을 듣고 장례를 치르지만 어딘가 무감하다. 집으로 돌아온 그는 해수욕장에서 옛 동료 ‘마리’를 우연히 만나 사랑을 나눈다. 이웃 ‘레몽’과 가깝게 지내던 ‘뫼르소’는 예상치 못한 비극에 휘말린다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1429348,
+      "score": 6.8,
+      "scoreBy": "TMDB",
+      "voteCount": 240,
+      "showing": false
+    },
+    {
       "movieCd": "20266148",
       "title": "아버지의 집밥",
       "titleEn": "My Father’s Table",
@@ -49,8 +93,7 @@
       "tmdbId": 1708755,
       "score": null,
       "scoreBy": "",
-      "voteCount": null,
-      "showing": false
+      "voteCount": null
     },
     {
       "movieCd": "20266051",
