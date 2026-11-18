@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-17",
-  "latestDt": "20261117",
+  "updatedAt": "2026-11-18",
+  "latestDt": "20261118",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2960938,
+      "audienceAcc": 2969265,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261117",
-      "days": 52,
+      "lastSeenAt": "20261118",
+      "days": 53,
       "bestRank": 1,
-      "rank": 3,
-      "audienceDay": 5706,
+      "rank": 5,
+      "audienceDay": 8328,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,7 +58,7 @@
       "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
       "titleOriginal": "名探偵コナン 30号殺人事件",
       "openedAt": "2026-11-05",
-      "audienceAcc": 179904,
+      "audienceAcc": 182521,
       "genres": [
         "애니메이션",
         "액션",
@@ -66,11 +66,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261105",
-      "lastSeenAt": "20261117",
-      "days": 13,
+      "lastSeenAt": "20261118",
+      "days": 14,
       "bestRank": 1,
-      "rank": 7,
-      "audienceDay": 3212,
+      "rank": 9,
+      "audienceDay": 2617,
       "runtime": 93,
       "directors": [
         "카마나카 노부하루"
@@ -102,17 +102,17 @@
       "titleEn": "Final Interview",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 298250,
+      "audienceAcc": 302710,
       "genres": [
         "미스터리"
       ],
       "type": "영화",
       "firstSeenAt": "20261029",
-      "lastSeenAt": "20261117",
-      "days": 16,
+      "lastSeenAt": "20261118",
+      "days": 17,
       "bestRank": 1,
-      "rank": 2,
-      "audienceDay": 7368,
+      "rank": 7,
+      "audienceDay": 4456,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -145,23 +145,73 @@
       "showing": true
     },
     {
+      "movieCd": "20247221",
+      "title": "폭설",
+      "titleEn": "White Blast",
+      "titleOriginal": "",
+      "openedAt": "2026-11-18",
+      "audienceAcc": 63673,
+      "genres": [
+        "미스터리",
+        "드라마"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261112",
+      "lastSeenAt": "20261118",
+      "days": 2,
+      "bestRank": 1,
+      "rank": 1,
+      "audienceDay": 58014,
+      "runtime": 88,
+      "directors": [
+        "박선우",
+        "홍의정"
+      ],
+      "cast": [
+        "김윤석",
+        "구교환",
+        "박수영",
+        "노윤서",
+        "이혜진",
+        "허은주"
+      ],
+      "producers": [
+        "(주)루이스 픽쳐스"
+      ],
+      "distributors": [
+        "(주)쇼박스"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20247221.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "퇴직을 하루 앞둔 역장 갑수는 마지막 열차를 통과시키고 평생을 지켜오던 설오역을 떠날 준비를 한다. 하지만 하필 폭설이 쏟아지며 후임의 도착이 늦어지고, 설오역은 눈 속에 고립되고 만다. 다음 날, 후임이라는 놈이 설오역에 도착하지만 어딘가 수상하다. 그렇게 찝찝한 기분으로 인수인계를 이어가던 두 사람 앞에 의문의 시신이 나타나는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1244809,
+      "score": 6,
+      "scoreBy": "TMDB",
+      "voteCount": 1,
+      "showing": true
+    },
+    {
       "movieCd": "20264957",
       "title": "폴2: 데드포인트",
       "titleEn": "Fall 2: Deadpoint",
       "titleOriginal": "",
       "openedAt": "2026-11-11",
-      "audienceAcc": 163184,
+      "audienceAcc": 175288,
       "genres": [
         "스릴러",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261117",
-      "days": 7,
+      "lastSeenAt": "20261118",
+      "days": 8,
       "bestRank": 1,
-      "rank": 1,
-      "audienceDay": 11541,
+      "rank": 4,
+      "audienceDay": 12106,
       "runtime": 98,
       "directors": [
         "마이클 스피어리그",
@@ -192,46 +242,41 @@
       "showing": true
     },
     {
-      "movieCd": "20264498",
-      "title": "하트 오브 비스트",
-      "titleEn": "Heart of the Beast",
+      "movieCd": "20268264",
+      "title": "임영웅ㅣ아임 히어로 더 스타디움 2",
+      "titleEn": "LIM YOUNG WOONGㅣIM HERO THE STADIUM 2",
       "titleOriginal": "",
-      "openedAt": "2026-10-28",
-      "audienceAcc": 460120,
+      "openedAt": "2026-11-18",
+      "audienceAcc": 21257,
       "genres": [
-        "드라마",
-        "액션"
+        "공연"
       ],
       "type": "영화",
-      "firstSeenAt": "20261028",
-      "lastSeenAt": "20261117",
-      "days": 21,
-      "bestRank": 1,
-      "rank": 5,
-      "audienceDay": 4009,
-      "runtime": 101,
+      "firstSeenAt": "20261118",
+      "lastSeenAt": "20261118",
+      "days": 1,
+      "bestRank": 2,
+      "rank": 2,
+      "audienceDay": 21257,
+      "runtime": 144,
       "directors": [
-        "데이비드 에이어"
+        "오윤동",
+        "송두선"
       ],
       "cast": [
-        "브래드 피트",
-        "J.K. 시몬스"
+        "임영웅"
       ],
-      "producers": [],
+      "producers": [
+        "씨제이포디플렉스 주식회사",
+        "스크린엑스 스튜디오"
+      ],
       "distributors": [
-        "롯데컬처웍스(주)롯데엔터테인먼트"
+        "씨제이포디플렉스 주식회사",
+        "씨지브이 아이스콘"
       ],
-      "rating": "12세이상관람가",
+      "rating": "전체관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "poster": "assets/posters/20264498.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "비행기 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부대원 ‘제임스’와 그의 은퇴한 군견 ‘오딘’이 매 순간 닥쳐오는 죽음의 위협 속에서 오직 서로에게만 의지한 채 처절한 사투를 벌이는 어드벤처 생존 드라마",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1263337,
-      "score": 7.3,
-      "scoreBy": "TMDB",
-      "voteCount": 358,
       "showing": true
     },
     {
@@ -240,7 +285,7 @@
       "titleEn": "LA LA LAND",
       "titleOriginal": "",
       "openedAt": "2016-12-07",
-      "audienceAcc": 3869819,
+      "audienceAcc": 3877339,
       "genres": [
         "드라마",
         "뮤지컬",
@@ -248,11 +293,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261117",
-      "days": 7,
+      "lastSeenAt": "20261118",
+      "days": 8,
       "bestRank": 3,
-      "rank": 4,
-      "audienceDay": 4459,
+      "rank": 6,
+      "audienceDay": 7518,
       "runtime": 127,
       "directors": [
         "데이미언 셔젤"
@@ -282,6 +327,181 @@
       "showing": true
     },
     {
+      "movieCd": "20267121",
+      "title": "헝거게임 50번째 추첨의 날",
+      "titleEn": "The Hunger Games: Sunrise on the Reaping",
+      "titleOriginal": "",
+      "openedAt": "2026-11-18",
+      "audienceAcc": 21591,
+      "genres": [
+        "액션",
+        "스릴러",
+        "어드벤처"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261118",
+      "lastSeenAt": "20261118",
+      "days": 1,
+      "bestRank": 3,
+      "rank": 3,
+      "audienceDay": 20073,
+      "runtime": 158,
+      "directors": [
+        "프란시스 로렌스"
+      ],
+      "cast": [
+        "조셉 자다",
+        "맥케나 그레이스",
+        "엘 패닝",
+        "랄프 파인즈",
+        "제시 플레먼스",
+        "글렌 클로즈"
+      ],
+      "producers": [
+        "(주)누리픽쳐스"
+      ],
+      "distributors": [
+        "(주)누리픽쳐스",
+        "메가박스중앙(주)"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "캐피톨을 비웃어 ‘역대 최하점’을 받은 흙수저 소년 헤이미치. 모두가 소년이 가장 먼저 죽을 것이라며 돈을 걸 때, 1점짜리 천재의 머릿속엔 이미 데스게임의 룰을 부술 완벽한 설계가 끝나 있었다. 생존율 0%, 맹독의 숲에 던져진 48명의 희생양, 오직 완력만 믿고 돌진하는 엘리트들 사이에서 헤이미치의 진짜 사냥감은 다른 참가자가 아닌 ‘시스템’ 그 자체다. 무기는 필요 없다. 오직 지능으로 판을 지배하는 1점짜리 천재의 뇌지컬 생존기가 폭발한다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1300968,
+      "score": 8.1,
+      "scoreBy": "TMDB",
+      "voteCount": 20,
+      "poster": "assets/posters/20267121.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20267412",
+      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 73235,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261104",
+      "lastSeenAt": "20261118",
+      "days": 12,
+      "bestRank": 4,
+      "rank": 10,
+      "audienceDay": 2599,
+      "runtime": 119,
+      "directors": [
+        "신보 아키유키"
+      ],
+      "cast": [
+        "유키 아오이",
+        "사이토 치와"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)애니플러스"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "",
+      "posterCredit": "",
+      "synopsis": "",
+      "synopsisCredit": "",
+      "tmdbId": null,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
+      "movieCd": "20265321",
+      "title": "아름다운 초저녁달",
+      "titleEn": "In the Clear Moonlit Dusk",
+      "titleOriginal": "うるわしの宵の月",
+      "openedAt": "2026-11-18",
+      "audienceAcc": 4668,
+      "genres": [
+        "멜로/로맨스"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261118",
+      "lastSeenAt": "20261118",
+      "days": 1,
+      "bestRank": 8,
+      "rank": 8,
+      "audienceDay": 3993,
+      "runtime": 118,
+      "directors": [
+        "타케무라 켄타로"
+      ],
+      "cast": [
+        "미치에다 슌스케",
+        "안자이 세이라"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)넥스트엔터테인먼트월드(NEW)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "외모와 지성을 겸비해 ′왕자′라 불리지만, 이성보다는 동성에게 ′멋진 남자′ 취급을 받는 현실에 복잡한 속내를 안고 살아가는 여고생 요이. 그녀의 앞에 또 다른 ′왕자′이자 화려한 존재감의 선배 코하쿠가 나타난다. 가벼워 보이는 인상과 달리 직진으로 마음을 전해오는 코하쿠의 애정 공세에 두 사람은 마침내 연애를 시작한다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1410955,
+      "poster": "assets/posters/20265321.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20264498",
+      "title": "하트 오브 비스트",
+      "titleEn": "Heart of the Beast",
+      "titleOriginal": "",
+      "openedAt": "2026-10-28",
+      "audienceAcc": 460120,
+      "genres": [
+        "드라마",
+        "액션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261117",
+      "days": 21,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 101,
+      "directors": [
+        "데이비드 에이어"
+      ],
+      "cast": [
+        "브래드 피트",
+        "J.K. 시몬스"
+      ],
+      "producers": [],
+      "distributors": [
+        "롯데컬처웍스(주)롯데엔터테인먼트"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264498.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "비행기 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부대원 ‘제임스’와 그의 은퇴한 군견 ‘오딘’이 매 순간 닥쳐오는 죽음의 위협 속에서 오직 서로에게만 의지한 채 처절한 사투를 벌이는 어드벤처 생존 드라마",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1263337,
+      "score": 7.3,
+      "scoreBy": "TMDB",
+      "voteCount": 358,
+      "showing": false
+    },
+    {
       "movieCd": "20210087",
       "title": "듄",
       "titleEn": "DUNE",
@@ -296,8 +516,8 @@
       "lastSeenAt": "20261117",
       "days": 7,
       "bestRank": 6,
-      "rank": 6,
-      "audienceDay": 3725,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 155,
       "directors": [
         "드니 빌뇌브"
@@ -325,7 +545,7 @@
       "score": 7.8,
       "scoreBy": "TMDB",
       "voteCount": 15928,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20265420",
@@ -344,8 +564,8 @@
       "lastSeenAt": "20261117",
       "days": 6,
       "bestRank": 8,
-      "rank": 9,
-      "audienceDay": 2193,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 115,
       "directors": [
         "티 웨스트"
@@ -372,7 +592,7 @@
       "score": 8.3,
       "scoreBy": "TMDB",
       "voteCount": 6,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20265410",
@@ -389,8 +609,8 @@
       "lastSeenAt": "20261117",
       "days": 1,
       "bestRank": 8,
-      "rank": 8,
-      "audienceDay": 3121,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 92,
       "directors": [
         "롭 새비지"
@@ -410,15 +630,15 @@
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20265410.webp",
+      "posterCredit": "TMDB",
       "synopsis": "여덟 살 소녀 벨라의 집은 겉보기엔 평온하지만, 일에 쫓겨 늘 집을 비우는 엄마 어슐라와 집안을 돌보는 아빠 러스 사이에는 말하지 못한 균열이 깊어져 간다. 부모의 다툼을 숨죽여 듣는 밤이 늘어갈 무렵, 벨라의 방 옷장 속에서 엄마와 똑같은 얼굴을 한 존재가 모습을 드러낸다. 벨라가 '아더 마미'라 부르게 된 그것은 자주 비어 있던 엄마의 자리를 대신하듯 아이의 곁을 맴돌며 끊임없이 속삭인다. \"네 마음속에 들어가도 될까?\" 벨라는 그때마다 고개를 젓지만 차마 그것을 쫓아내지는 못한다. 그리고 러스가 아내와 똑같이 생긴 낯선 침입자를 목격하면서, 옷장 속에 머물던 기척은 집 안 곳곳으로 번져가기 시작한다. 눈앞의 엄마가 진짜인지조차 분간할 수 없게 된 가족, 아이의 마음을 원하는 그것이 노리는 것은 과연 무엇일까.",
       "synopsisCredit": "TMDB",
       "tmdbId": 1400837,
       "score": 6.4,
       "scoreBy": "TMDB",
       "voteCount": 471,
-      "poster": "assets/posters/20265410.webp",
-      "posterCredit": "TMDB"
+      "showing": false
     },
     {
       "movieCd": "20255110",
@@ -435,8 +655,8 @@
       "lastSeenAt": "20261117",
       "days": 1,
       "bestRank": 10,
-      "rank": 10,
-      "audienceDay": 1722,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 100,
       "directors": [
         "이일하"
@@ -455,50 +675,11 @@
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20255110.webp",
+      "posterCredit": "TMDB",
       "synopsis": "2017년, 일본의 지상파 방송이 쏘아 올린 가짜 뉴스 한 발. 재일 코리안 3세 신숙옥은 순식간에 나라의 적이 됐다. 제지공장으로 팔려 온 할머니, 어디에도 뿌리내리지 못한 채 떠돌았던 어머니. 그리고 버려진 내장 ‘호루몽’을 씹어 삼키며 살아낸 사람들. 100년의 시간이 켜켜이 쌓여, 마침내 한 사람의 목소리로 터진다. 얌전히 당해주지 않은 반격이 시작된다. 550만 엔 배상 판결. 방송은 결국 폐지됐다. 끝까지 물러서지 않은 한 사람이 마침내 세상을 뒤흔든 순간. 그러나 신숙옥의 싸움은 아직 끝나지 않았다.",
       "synopsisCredit": "TMDB",
       "tmdbId": 1453303,
-      "poster": "assets/posters/20255110.webp",
-      "posterCredit": "TMDB"
-    },
-    {
-      "movieCd": "20267412",
-      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
-      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
-      "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 69416,
-      "genres": [
-        "애니메이션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261104",
-      "lastSeenAt": "20261116",
-      "days": 11,
-      "bestRank": 4,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 119,
-      "directors": [
-        "신보 아키유키"
-      ],
-      "cast": [
-        "유키 아오이",
-        "사이토 치와"
-      ],
-      "producers": [],
-      "distributors": [
-        "(주)애니플러스"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "",
-      "posterCredit": "",
-      "synopsis": "",
-      "synopsisCredit": "",
-      "tmdbId": null,
       "score": null,
       "scoreBy": "",
       "voteCount": null,
@@ -679,56 +860,6 @@
       "score": 7.7,
       "scoreBy": "TMDB",
       "voteCount": 540,
-      "showing": false
-    },
-    {
-      "movieCd": "20247221",
-      "title": "폭설",
-      "titleEn": "White Blast",
-      "titleOriginal": "",
-      "openedAt": "2026-11-18",
-      "audienceAcc": 3831,
-      "genres": [
-        "미스터리",
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261112",
-      "lastSeenAt": "20261112",
-      "days": 1,
-      "bestRank": 8,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 88,
-      "directors": [
-        "박선우",
-        "홍의정"
-      ],
-      "cast": [
-        "김윤석",
-        "구교환",
-        "박수영",
-        "노윤서",
-        "이혜진",
-        "허은주"
-      ],
-      "producers": [
-        "(주)루이스 픽쳐스"
-      ],
-      "distributors": [
-        "(주)쇼박스"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20247221.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "퇴직을 하루 앞둔 역장 갑수는 마지막 열차를 통과시키고 평생을 지켜오던 설오역을 떠날 준비를 한다. 하지만 하필 폭설이 쏟아지며 후임의 도착이 늦어지고, 설오역은 눈 속에 고립되고 만다. 다음 날, 후임이라는 놈이 설오역에 도착하지만 어딘가 수상하다. 그렇게 찝찝한 기분으로 인수인계를 이어가던 두 사람 앞에 의문의 시신이 나타나는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1244809,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
       "showing": false
     },
     {
