@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-18",
-  "latestDt": "20261118",
+  "updatedAt": "2026-11-19",
+  "latestDt": "20261119",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2969265,
+      "audienceAcc": 2978093,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261118",
-      "days": 53,
+      "lastSeenAt": "20261119",
+      "days": 54,
       "bestRank": 1,
       "rank": 5,
-      "audienceDay": 8328,
+      "audienceDay": 8828,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,7 +58,7 @@
       "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
       "titleOriginal": "名探偵コナン 30号殺人事件",
       "openedAt": "2026-11-05",
-      "audienceAcc": 182521,
+      "audienceAcc": 185319,
       "genres": [
         "애니메이션",
         "액션",
@@ -66,11 +66,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261105",
-      "lastSeenAt": "20261118",
-      "days": 14,
+      "lastSeenAt": "20261119",
+      "days": 15,
       "bestRank": 1,
       "rank": 9,
-      "audienceDay": 2617,
+      "audienceDay": 2798,
       "runtime": 93,
       "directors": [
         "카마나카 노부하루"
@@ -102,17 +102,17 @@
       "titleEn": "Final Interview",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 302710,
+      "audienceAcc": 307077,
       "genres": [
         "미스터리"
       ],
       "type": "영화",
       "firstSeenAt": "20261029",
-      "lastSeenAt": "20261118",
-      "days": 17,
+      "lastSeenAt": "20261119",
+      "days": 18,
       "bestRank": 1,
       "rank": 7,
-      "audienceDay": 4456,
+      "audienceDay": 4366,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -150,18 +150,18 @@
       "titleEn": "White Blast",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 63673,
+      "audienceAcc": 112295,
       "genres": [
         "미스터리",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261112",
-      "lastSeenAt": "20261118",
-      "days": 2,
+      "lastSeenAt": "20261119",
+      "days": 3,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 58014,
+      "audienceDay": 48598,
       "runtime": 88,
       "directors": [
         "박선우",
@@ -200,18 +200,18 @@
       "titleEn": "Fall 2: Deadpoint",
       "titleOriginal": "",
       "openedAt": "2026-11-11",
-      "audienceAcc": 175288,
+      "audienceAcc": 187520,
       "genres": [
         "스릴러",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261118",
-      "days": 8,
+      "lastSeenAt": "20261119",
+      "days": 9,
       "bestRank": 1,
-      "rank": 4,
-      "audienceDay": 12106,
+      "rank": 2,
+      "audienceDay": 12234,
       "runtime": 98,
       "directors": [
         "마이클 스피어리그",
@@ -247,17 +247,17 @@
       "titleEn": "LIM YOUNG WOONGㅣIM HERO THE STADIUM 2",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 21257,
+      "audienceAcc": 30326,
       "genres": [
         "공연"
       ],
       "type": "영화",
       "firstSeenAt": "20261118",
-      "lastSeenAt": "20261118",
-      "days": 1,
+      "lastSeenAt": "20261119",
+      "days": 2,
       "bestRank": 2,
-      "rank": 2,
-      "audienceDay": 21257,
+      "rank": 4,
+      "audienceDay": 9069,
       "runtime": 144,
       "directors": [
         "오윤동",
@@ -277,6 +277,14 @@
       "rating": "전체관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
+      "poster": "",
+      "posterCredit": "",
+      "synopsis": "",
+      "synopsisCredit": "",
+      "tmdbId": null,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
       "showing": true
     },
     {
@@ -285,7 +293,7 @@
       "titleEn": "LA LA LAND",
       "titleOriginal": "",
       "openedAt": "2016-12-07",
-      "audienceAcc": 3877339,
+      "audienceAcc": 3882128,
       "genres": [
         "드라마",
         "뮤지컬",
@@ -293,11 +301,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261118",
-      "days": 8,
+      "lastSeenAt": "20261119",
+      "days": 9,
       "bestRank": 3,
       "rank": 6,
-      "audienceDay": 7518,
+      "audienceDay": 4787,
       "runtime": 127,
       "directors": [
         "데이미언 셔젤"
@@ -332,7 +340,7 @@
       "titleEn": "The Hunger Games: Sunrise on the Reaping",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 21591,
+      "audienceAcc": 32617,
       "genres": [
         "액션",
         "스릴러",
@@ -340,11 +348,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261118",
-      "lastSeenAt": "20261118",
-      "days": 1,
+      "lastSeenAt": "20261119",
+      "days": 2,
       "bestRank": 3,
       "rank": 3,
-      "audienceDay": 20073,
+      "audienceDay": 11028,
       "runtime": 158,
       "directors": [
         "프란시스 로렌스"
@@ -367,14 +375,93 @@
       "rating": "15세이상관람가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "showing": true,
+      "poster": "assets/posters/20267121.webp",
+      "posterCredit": "TMDB",
       "synopsis": "캐피톨을 비웃어 ‘역대 최하점’을 받은 흙수저 소년 헤이미치. 모두가 소년이 가장 먼저 죽을 것이라며 돈을 걸 때, 1점짜리 천재의 머릿속엔 이미 데스게임의 룰을 부술 완벽한 설계가 끝나 있었다. 생존율 0%, 맹독의 숲에 던져진 48명의 희생양, 오직 완력만 믿고 돌진하는 엘리트들 사이에서 헤이미치의 진짜 사냥감은 다른 참가자가 아닌 ‘시스템’ 그 자체다. 무기는 필요 없다. 오직 지능으로 판을 지배하는 1점짜리 천재의 뇌지컬 생존기가 폭발한다.",
       "synopsisCredit": "TMDB",
       "tmdbId": 1300968,
       "score": 8.1,
       "scoreBy": "TMDB",
       "voteCount": 20,
-      "poster": "assets/posters/20267121.webp",
+      "showing": true
+    },
+    {
+      "movieCd": "20265321",
+      "title": "아름다운 초저녁달",
+      "titleEn": "In the Clear Moonlit Dusk",
+      "titleOriginal": "うるわしの宵の月",
+      "openedAt": "2026-11-18",
+      "audienceAcc": 7572,
+      "genres": [
+        "멜로/로맨스"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261118",
+      "lastSeenAt": "20261119",
+      "days": 2,
+      "bestRank": 8,
+      "rank": 8,
+      "audienceDay": 2904,
+      "runtime": 118,
+      "directors": [
+        "타케무라 켄타로"
+      ],
+      "cast": [
+        "미치에다 슌스케",
+        "안자이 세이라"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)넥스트엔터테인먼트월드(NEW)"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20265321.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "외모와 지성을 겸비해 ′왕자′라 불리지만, 이성보다는 동성에게 ′멋진 남자′ 취급을 받는 현실에 복잡한 속내를 안고 살아가는 여고생 요이. 그녀의 앞에 또 다른 ′왕자′이자 화려한 존재감의 선배 코하쿠가 나타난다. 가벼워 보이는 인상과 달리 직진으로 마음을 전해오는 코하쿠의 애정 공세에 두 사람은 마침내 연애를 시작한다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1410955,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
+      "movieCd": "20268463",
+      "title": "영화 뱅드림! 아베 무지카 프리마 오로라",
+      "titleEn": "BanG Dream! Ave Mujica prima aurora",
+      "titleOriginal": "",
+      "openedAt": "2026-11-19",
+      "audienceAcc": 2753,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261119",
+      "lastSeenAt": "20261119",
+      "days": 1,
+      "bestRank": 10,
+      "rank": 10,
+      "audienceDay": 2753,
+      "runtime": 81,
+      "directors": [],
+      "cast": [],
+      "producers": [],
+      "distributors": [
+        "(주)애니플러스"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "Ave Mujica의 재데뷔 후 반년 이상이 지났고, 계절은 봄이다. 밴드는 더욱 인기를 얻었고, 멤버 각자의 활동도 순조롭게 진행되고 있었다. 사키코가 다음 무대로 내세운 것은 시크릿 매스커레이드였다. 신이 되겠다고 맹세한 그녀의 속셈은 과연 무엇일까......",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1614539,
+      "score": 9,
+      "scoreBy": "TMDB",
+      "voteCount": 2,
+      "poster": "assets/posters/20268463.webp",
       "posterCredit": "TMDB"
     },
     {
@@ -392,8 +479,8 @@
       "lastSeenAt": "20261118",
       "days": 12,
       "bestRank": 4,
-      "rank": 10,
-      "audienceDay": 2599,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 119,
       "directors": [
         "신보 아키유키"
@@ -417,46 +504,7 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": true
-    },
-    {
-      "movieCd": "20265321",
-      "title": "아름다운 초저녁달",
-      "titleEn": "In the Clear Moonlit Dusk",
-      "titleOriginal": "うるわしの宵の月",
-      "openedAt": "2026-11-18",
-      "audienceAcc": 4668,
-      "genres": [
-        "멜로/로맨스"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261118",
-      "lastSeenAt": "20261118",
-      "days": 1,
-      "bestRank": 8,
-      "rank": 8,
-      "audienceDay": 3993,
-      "runtime": 118,
-      "directors": [
-        "타케무라 켄타로"
-      ],
-      "cast": [
-        "미치에다 슌스케",
-        "안자이 세이라"
-      ],
-      "producers": [],
-      "distributors": [
-        "(주)넥스트엔터테인먼트월드(NEW)"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "showing": true,
-      "synopsis": "외모와 지성을 겸비해 ′왕자′라 불리지만, 이성보다는 동성에게 ′멋진 남자′ 취급을 받는 현실에 복잡한 속내를 안고 살아가는 여고생 요이. 그녀의 앞에 또 다른 ′왕자′이자 화려한 존재감의 선배 코하쿠가 나타난다. 가벼워 보이는 인상과 달리 직진으로 마음을 전해오는 코하쿠의 애정 공세에 두 사람은 마침내 연애를 시작한다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1410955,
-      "poster": "assets/posters/20265321.webp",
-      "posterCredit": "TMDB"
+      "showing": false
     },
     {
       "movieCd": "20264498",
@@ -2212,55 +2260,6 @@
       "score": 7.3,
       "scoreBy": "TMDB",
       "voteCount": 540,
-      "showing": false
-    },
-    {
-      "movieCd": "20254904",
-      "title": "가능한 사랑",
-      "titleEn": "Possible Love",
-      "titleOriginal": "",
-      "openedAt": "2026-09-23",
-      "audienceAcc": 230481,
-      "genres": [
-        "드라마"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260921",
-      "lastSeenAt": "20261004",
-      "days": 12,
-      "bestRank": 4,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 164,
-      "directors": [
-        "이창동"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "조여정",
-        "조유리",
-        "송근창"
-      ],
-      "producers": [
-        "파인하우스필름(주)",
-        "나우필름(주)"
-      ],
-      "distributors": [
-        "(주)넥스트엔터테인먼트월드(NEW)"
-      ],
-      "rating": "청소년관람불가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20254904.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "해고 노동자와 그의 아내 그리고 다큐멘터리 감독과 그녀의 남편. 두 부부가 다큐멘터리 제작을 계기로 만나, 서로의 다른 삶과 숨은 욕망을 마주한다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1483525,
-      "score": 9,
-      "scoreBy": "TMDB",
-      "voteCount": 1,
       "showing": false
     }
   ]
