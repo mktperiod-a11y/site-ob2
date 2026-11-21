@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-20",
-  "latestDt": "20261120",
+  "updatedAt": "2026-11-21",
+  "latestDt": "20261121",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 2988603,
+      "audienceAcc": 3031605,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261120",
-      "days": 55,
+      "lastSeenAt": "20261121",
+      "days": 56,
       "bestRank": 1,
-      "rank": 4,
-      "audienceDay": 10510,
+      "rank": 2,
+      "audienceDay": 42995,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,7 +58,7 @@
       "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
       "titleOriginal": "名探偵コナン 30号殺人事件",
       "openedAt": "2026-11-05",
-      "audienceAcc": 188446,
+      "audienceAcc": 194392,
       "genres": [
         "애니메이션",
         "액션",
@@ -66,11 +66,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261105",
-      "lastSeenAt": "20261120",
-      "days": 16,
+      "lastSeenAt": "20261121",
+      "days": 17,
       "bestRank": 1,
-      "rank": 9,
-      "audienceDay": 3127,
+      "rank": 8,
+      "audienceDay": 5946,
       "runtime": 93,
       "directors": [
         "카마나카 노부하루"
@@ -102,17 +102,17 @@
       "titleEn": "Final Interview",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 312890,
+      "audienceAcc": 318747,
       "genres": [
         "미스터리"
       ],
       "type": "영화",
       "firstSeenAt": "20261029",
-      "lastSeenAt": "20261120",
-      "days": 19,
+      "lastSeenAt": "20261121",
+      "days": 20,
       "bestRank": 1,
-      "rank": 6,
-      "audienceDay": 5814,
+      "rank": 9,
+      "audienceDay": 5855,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -150,18 +150,18 @@
       "titleEn": "White Blast",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 180913,
+      "audienceAcc": 311686,
       "genres": [
         "미스터리",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261112",
-      "lastSeenAt": "20261120",
-      "days": 4,
+      "lastSeenAt": "20261121",
+      "days": 5,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 68607,
+      "audienceDay": 130747,
       "runtime": 88,
       "directors": [
         "박선우",
@@ -200,18 +200,18 @@
       "titleEn": "Fall 2: Deadpoint",
       "titleOriginal": "",
       "openedAt": "2026-11-11",
-      "audienceAcc": 199999,
+      "audienceAcc": 222380,
       "genres": [
         "스릴러",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261120",
-      "days": 10,
+      "lastSeenAt": "20261121",
+      "days": 11,
       "bestRank": 1,
-      "rank": 3,
-      "audienceDay": 12473,
+      "rank": 4,
+      "audienceDay": 22379,
       "runtime": 98,
       "directors": [
         "마이클 스피어리그",
@@ -242,65 +242,22 @@
       "showing": true
     },
     {
-      "movieCd": "20264498",
-      "title": "하트 오브 비스트",
-      "titleEn": "Heart of the Beast",
-      "titleOriginal": "",
-      "openedAt": "2026-10-28",
-      "audienceAcc": 467765,
-      "genres": [
-        "드라마",
-        "액션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261028",
-      "lastSeenAt": "20261120",
-      "days": 22,
-      "bestRank": 1,
-      "rank": 8,
-      "audienceDay": 3150,
-      "runtime": 101,
-      "directors": [
-        "데이비드 에이어"
-      ],
-      "cast": [
-        "브래드 피트",
-        "J.K. 시몬스"
-      ],
-      "producers": [],
-      "distributors": [
-        "롯데컬처웍스(주)롯데엔터테인먼트"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20264498.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "비행기 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부대원 ‘제임스’와 그의 은퇴한 군견 ‘오딘’이 매 순간 닥쳐오는 죽음의 위협 속에서 오직 서로에게만 의지한 채 처절한 사투를 벌이는 어드벤처 생존 드라마",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1263337,
-      "score": 7.3,
-      "scoreBy": "TMDB",
-      "voteCount": 358,
-      "showing": true
-    },
-    {
       "movieCd": "20268264",
       "title": "임영웅ㅣ아임 히어로 더 스타디움 2",
       "titleEn": "LIM YOUNG WOONGㅣIM HERO THE STADIUM 2",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 37943,
+      "audienceAcc": 51466,
       "genres": [
         "공연"
       ],
       "type": "영화",
       "firstSeenAt": "20261118",
-      "lastSeenAt": "20261120",
-      "days": 3,
+      "lastSeenAt": "20261121",
+      "days": 4,
       "bestRank": 2,
       "rank": 5,
-      "audienceDay": 7617,
+      "audienceDay": 13525,
       "runtime": 144,
       "directors": [
         "오윤동",
@@ -336,7 +293,7 @@
       "titleEn": "The Hunger Games: Sunrise on the Reaping",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 47380,
+      "audienceAcc": 72096,
       "genres": [
         "액션",
         "스릴러",
@@ -344,11 +301,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261118",
-      "lastSeenAt": "20261120",
-      "days": 3,
+      "lastSeenAt": "20261121",
+      "days": 4,
       "bestRank": 2,
-      "rank": 2,
-      "audienceDay": 14762,
+      "rank": 3,
+      "audienceDay": 24727,
       "runtime": 158,
       "directors": [
         "프란시스 로렌스"
@@ -387,7 +344,7 @@
       "titleEn": "LA LA LAND",
       "titleOriginal": "",
       "openedAt": "2016-12-07",
-      "audienceAcc": 3887566,
+      "audienceAcc": 3896212,
       "genres": [
         "드라마",
         "뮤지컬",
@@ -395,11 +352,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261120",
-      "days": 10,
+      "lastSeenAt": "20261121",
+      "days": 11,
       "bestRank": 3,
-      "rank": 7,
-      "audienceDay": 5438,
+      "rank": 6,
+      "audienceDay": 8646,
       "runtime": 127,
       "directors": [
         "데이미언 셔젤"
@@ -429,6 +386,132 @@
       "showing": true
     },
     {
+      "movieCd": "20267412",
+      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 80595,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261104",
+      "lastSeenAt": "20261121",
+      "days": 13,
+      "bestRank": 4,
+      "rank": 10,
+      "audienceDay": 4219,
+      "runtime": 119,
+      "directors": [
+        "신보 아키유키"
+      ],
+      "cast": [
+        "유키 아오이",
+        "사이토 치와"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)애니플러스"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "",
+      "posterCredit": "",
+      "synopsis": "",
+      "synopsisCredit": "",
+      "tmdbId": null,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
+      "movieCd": "20267846",
+      "title": "극장판 마카앤로니: 기억탐험 대소동!",
+      "titleEn": "Maca and Roni The Movie: The Great Memory Exploration Adventure!",
+      "titleOriginal": "",
+      "openedAt": "2026-11-14",
+      "audienceAcc": 33798,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261114",
+      "lastSeenAt": "20261121",
+      "days": 3,
+      "bestRank": 5,
+      "rank": 7,
+      "audienceDay": 6786,
+      "runtime": 71,
+      "directors": [
+        "우경민"
+      ],
+      "cast": [],
+      "producers": [
+        "(주)에이컴즈"
+      ],
+      "distributors": [
+        "(주)에이컴즈"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20267846.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "언제나 티격태격하지만 둘도 없는 콤비였던 마카와 로니! 어느 날, 사소한 오해와 말다툼 끝에 대격돌하게 된 로니는 홧김에 발명품을 사용해 마카에 대한 기억을 몽땅 지워버리기로 결심한다. 하지만, 그 결심도 잠시 로니는 마카와 함께 보냈던 깊은 기억 속으로 들어가게 되는데…! 과연 마카와 로니는 엉켜버린 기억 속에서 서로의 마음을 확인하고 무사히 돌아올 수 있을까? 사고뭉치 콤비의 엉뚱하고 스펙터클한 기억 탐험이 시작된다!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1791261,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": true
+    },
+    {
+      "movieCd": "20264498",
+      "title": "하트 오브 비스트",
+      "titleEn": "Heart of the Beast",
+      "titleOriginal": "",
+      "openedAt": "2026-10-28",
+      "audienceAcc": 467765,
+      "genres": [
+        "드라마",
+        "액션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261120",
+      "days": 22,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 101,
+      "directors": [
+        "데이비드 에이어"
+      ],
+      "cast": [
+        "브래드 피트",
+        "J.K. 시몬스"
+      ],
+      "producers": [],
+      "distributors": [
+        "롯데컬처웍스(주)롯데엔터테인먼트"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264498.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "비행기 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부대원 ‘제임스’와 그의 은퇴한 군견 ‘오딘’이 매 순간 닥쳐오는 죽음의 위협 속에서 오직 서로에게만 의지한 채 처절한 사투를 벌이는 어드벤처 생존 드라마",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1263337,
+      "score": 7.3,
+      "scoreBy": "TMDB",
+      "voteCount": 358,
+      "showing": false
+    },
+    {
       "movieCd": "20265321",
       "title": "아름다운 초저녁달",
       "titleEn": "In the Clear Moonlit Dusk",
@@ -443,8 +526,8 @@
       "lastSeenAt": "20261120",
       "days": 3,
       "bestRank": 8,
-      "rank": 10,
-      "audienceDay": 2356,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 118,
       "directors": [
         "타케무라 켄타로"
@@ -468,7 +551,7 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20268463",
@@ -505,48 +588,6 @@
       "score": 9,
       "scoreBy": "TMDB",
       "voteCount": 2,
-      "showing": false
-    },
-    {
-      "movieCd": "20267412",
-      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
-      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
-      "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 73235,
-      "genres": [
-        "애니메이션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261104",
-      "lastSeenAt": "20261118",
-      "days": 12,
-      "bestRank": 4,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 119,
-      "directors": [
-        "신보 아키유키"
-      ],
-      "cast": [
-        "유키 아오이",
-        "사이토 치와"
-      ],
-      "producers": [],
-      "distributors": [
-        "(주)애니플러스"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "",
-      "posterCredit": "",
-      "synopsis": "",
-      "synopsisCredit": "",
-      "tmdbId": null,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
       "showing": false
     },
     {
@@ -778,47 +819,6 @@
       "score": 8.8,
       "scoreBy": "TMDB",
       "voteCount": 20,
-      "showing": false
-    },
-    {
-      "movieCd": "20267846",
-      "title": "극장판 마카앤로니: 기억탐험 대소동!",
-      "titleEn": "Maca and Roni The Movie: The Great Memory Exploration Adventure!",
-      "titleOriginal": "",
-      "openedAt": "2026-11-14",
-      "audienceAcc": 25481,
-      "genres": [
-        "애니메이션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261114",
-      "lastSeenAt": "20261115",
-      "days": 2,
-      "bestRank": 5,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 71,
-      "directors": [
-        "우경민"
-      ],
-      "cast": [],
-      "producers": [
-        "(주)에이컴즈"
-      ],
-      "distributors": [
-        "(주)에이컴즈"
-      ],
-      "rating": "전체관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20267846.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "언제나 티격태격하지만 둘도 없는 콤비였던 마카와 로니! 어느 날, 사소한 오해와 말다툼 끝에 대격돌하게 된 로니는 홧김에 발명품을 사용해 마카에 대한 기억을 몽땅 지워버리기로 결심한다. 하지만, 그 결심도 잠시 로니는 마카와 함께 보냈던 깊은 기억 속으로 들어가게 되는데…! 과연 마카와 로니는 엉켜버린 기억 속에서 서로의 마음을 확인하고 무사히 돌아올 수 있을까? 사고뭉치 콤비의 엉뚱하고 스펙터클한 기억 탐험이 시작된다!",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1791261,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
       "showing": false
     },
     {
@@ -2169,97 +2169,6 @@
       "score": 8.2,
       "scoreBy": "TMDB",
       "voteCount": 816,
-      "showing": false
-    },
-    {
-      "movieCd": "20262770",
-      "title": "스파이더맨: 브랜드 뉴 데이",
-      "titleEn": "Spider-Man: Brand New Day",
-      "titleOriginal": "",
-      "openedAt": "2026-07-29",
-      "audienceAcc": 9046973,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "판타지"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260824",
-      "lastSeenAt": "20261006",
-      "days": 37,
-      "bestRank": 2,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 144,
-      "directors": [
-        "데스틴 다니엘 크리튼"
-      ],
-      "cast": [
-        "톰 홀랜드",
-        "젠데이아 콜먼",
-        "세이디 싱크",
-        "제이콥 배덜런",
-        "존 번탈",
-        "트라멜 틸먼"
-      ],
-      "producers": [],
-      "distributors": [
-        "소니픽쳐스엔터테인먼트코리아주식회사극장배급지점"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20262770.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "4년 전 소중한 사람들을 지키기 위해 모두의 기억에서 사라진 피터 파커. 친절한 이웃 스파이더맨으로서 뉴욕을 지키며 고독한 삶을 살아가던 피터는 어느 날, 예상치 못한 DNA 변이로 인해 통제 불가능한 힘에 사로잡히고 그의 진짜 정체를 알고 있는 적까지 마주하게 된다. 타인의 의식을 조종하는 정체불명의 존재로 인해 모두가 피터를 노리는 적이 될 수 있는 혼란 속에서 피터는 다시 위협에 빠진 MJ와 모두를 지키기 위해 스파이더맨으로 그들 앞에 서게 되는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 969681,
-      "score": 7.9,
-      "scoreBy": "TMDB",
-      "voteCount": 2906,
-      "showing": false
-    },
-    {
-      "movieCd": "20263870",
-      "title": "레지던트 이블: 0번째 밤",
-      "titleEn": "Resident Evil",
-      "titleOriginal": "",
-      "openedAt": "2026-09-17",
-      "audienceAcc": 214628,
-      "genres": [
-        "공포(호러)",
-        "액션",
-        "SF"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260917",
-      "lastSeenAt": "20261006",
-      "days": 16,
-      "bestRank": 3,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 93,
-      "directors": [
-        "잭 크레거"
-      ],
-      "cast": [
-        "오스틴 에이브람스"
-      ],
-      "producers": [],
-      "distributors": [
-        "소니픽쳐스엔터테인먼트코리아주식회사극장배급지점"
-      ],
-      "rating": "청소년관람불가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20263870.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "의료 택배 기사 브라이언은 긴급 배달을 맡아 심야에 라쿤 시티 종합 병원으로 향한다. 눈발을 헤치며 가던 중 갑자기 차로 뛰어든 누군가를 치게 되고, 죽은 줄 알았던 이가 다시 그를 덮쳐온다. 하나인 줄 알았던 정체불명의 존재들은 끊임없이 늘어나고, 통신마저 끊긴다. 브라이언은 자신이 무엇을 배달하고 있는지도 모른 채 눈앞에 닥친 존재들을 피해 필사의 사투를 벌이는데…",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1423191,
-      "score": 7.3,
-      "scoreBy": "TMDB",
-      "voteCount": 540,
       "showing": false
     }
   ]
