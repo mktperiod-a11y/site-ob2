@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-21",
-  "latestDt": "20261121",
+  "updatedAt": "2026-11-22",
+  "latestDt": "20261122",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 3031605,
+      "audienceAcc": 3069416,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261121",
-      "days": 56,
+      "lastSeenAt": "20261122",
+      "days": 57,
       "bestRank": 1,
       "rank": 2,
-      "audienceDay": 42995,
+      "audienceDay": 37803,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,7 +58,7 @@
       "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
       "titleOriginal": "名探偵コナン 30号殺人事件",
       "openedAt": "2026-11-05",
-      "audienceAcc": 194392,
+      "audienceAcc": 199460,
       "genres": [
         "애니메이션",
         "액션",
@@ -66,11 +66,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261105",
-      "lastSeenAt": "20261121",
-      "days": 17,
+      "lastSeenAt": "20261122",
+      "days": 18,
       "bestRank": 1,
-      "rank": 8,
-      "audienceDay": 5946,
+      "rank": 9,
+      "audienceDay": 5068,
       "runtime": 93,
       "directors": [
         "카마나카 노부하루"
@@ -102,17 +102,17 @@
       "titleEn": "Final Interview",
       "titleOriginal": "",
       "openedAt": "2026-11-04",
-      "audienceAcc": 318747,
+      "audienceAcc": 325272,
       "genres": [
         "미스터리"
       ],
       "type": "영화",
       "firstSeenAt": "20261029",
-      "lastSeenAt": "20261121",
-      "days": 20,
+      "lastSeenAt": "20261122",
+      "days": 21,
       "bestRank": 1,
-      "rank": 9,
-      "audienceDay": 5855,
+      "rank": 8,
+      "audienceDay": 6517,
       "runtime": 107,
       "directors": [
         "김정훈"
@@ -150,18 +150,18 @@
       "titleEn": "White Blast",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 311686,
+      "audienceAcc": 423166,
       "genres": [
         "미스터리",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261112",
-      "lastSeenAt": "20261121",
-      "days": 5,
+      "lastSeenAt": "20261122",
+      "days": 6,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 130747,
+      "audienceDay": 111457,
       "runtime": 88,
       "directors": [
         "박선우",
@@ -200,18 +200,18 @@
       "titleEn": "Fall 2: Deadpoint",
       "titleOriginal": "",
       "openedAt": "2026-11-11",
-      "audienceAcc": 222380,
+      "audienceAcc": 240826,
       "genres": [
         "스릴러",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261121",
-      "days": 11,
+      "lastSeenAt": "20261122",
+      "days": 12,
       "bestRank": 1,
       "rank": 4,
-      "audienceDay": 22379,
+      "audienceDay": 18443,
       "runtime": 98,
       "directors": [
         "마이클 스피어리그",
@@ -247,17 +247,17 @@
       "titleEn": "LIM YOUNG WOONGㅣIM HERO THE STADIUM 2",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 51466,
+      "audienceAcc": 61861,
       "genres": [
         "공연"
       ],
       "type": "영화",
       "firstSeenAt": "20261118",
-      "lastSeenAt": "20261121",
-      "days": 4,
+      "lastSeenAt": "20261122",
+      "days": 5,
       "bestRank": 2,
       "rank": 5,
-      "audienceDay": 13525,
+      "audienceDay": 10395,
       "runtime": 144,
       "directors": [
         "오윤동",
@@ -293,7 +293,7 @@
       "titleEn": "The Hunger Games: Sunrise on the Reaping",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 72096,
+      "audienceAcc": 91629,
       "genres": [
         "액션",
         "스릴러",
@@ -301,11 +301,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261118",
-      "lastSeenAt": "20261121",
-      "days": 4,
+      "lastSeenAt": "20261122",
+      "days": 5,
       "bestRank": 2,
       "rank": 3,
-      "audienceDay": 24727,
+      "audienceDay": 19528,
       "runtime": 158,
       "directors": [
         "프란시스 로렌스"
@@ -344,7 +344,7 @@
       "titleEn": "LA LA LAND",
       "titleOriginal": "",
       "openedAt": "2016-12-07",
-      "audienceAcc": 3896212,
+      "audienceAcc": 3903545,
       "genres": [
         "드라마",
         "뮤지컬",
@@ -352,11 +352,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261121",
-      "days": 11,
+      "lastSeenAt": "20261122",
+      "days": 12,
       "bestRank": 3,
       "rank": 6,
-      "audienceDay": 8646,
+      "audienceDay": 7335,
       "runtime": 127,
       "directors": [
         "데이미언 셔젤"
@@ -386,64 +386,22 @@
       "showing": true
     },
     {
-      "movieCd": "20267412",
-      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
-      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
-      "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 80595,
-      "genres": [
-        "애니메이션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261104",
-      "lastSeenAt": "20261121",
-      "days": 13,
-      "bestRank": 4,
-      "rank": 10,
-      "audienceDay": 4219,
-      "runtime": 119,
-      "directors": [
-        "신보 아키유키"
-      ],
-      "cast": [
-        "유키 아오이",
-        "사이토 치와"
-      ],
-      "producers": [],
-      "distributors": [
-        "(주)애니플러스"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "",
-      "posterCredit": "",
-      "synopsis": "",
-      "synopsisCredit": "",
-      "tmdbId": null,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
-      "showing": true
-    },
-    {
       "movieCd": "20267846",
       "title": "극장판 마카앤로니: 기억탐험 대소동!",
       "titleEn": "Maca and Roni The Movie: The Great Memory Exploration Adventure!",
       "titleOriginal": "",
       "openedAt": "2026-11-14",
-      "audienceAcc": 33798,
+      "audienceAcc": 41101,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20261114",
-      "lastSeenAt": "20261121",
-      "days": 3,
+      "lastSeenAt": "20261122",
+      "days": 4,
       "bestRank": 5,
       "rank": 7,
-      "audienceDay": 6786,
+      "audienceDay": 7303,
       "runtime": 71,
       "directors": [
         "우경민"
@@ -467,6 +425,95 @@
       "scoreBy": "",
       "voteCount": null,
       "showing": true
+    },
+    {
+      "movieCd": "20264481",
+      "title": "모자 쓴 고양이",
+      "titleEn": "The Cat in the Hat",
+      "titleOriginal": "",
+      "openedAt": "2026-11-06",
+      "audienceAcc": 66730,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261106",
+      "lastSeenAt": "20261122",
+      "days": 8,
+      "bestRank": 5,
+      "rank": 10,
+      "audienceDay": 3576,
+      "runtime": 106,
+      "directors": [
+        "알레산드로 칼로니",
+        "에리카 리비노자"
+      ],
+      "cast": [
+        "조정석",
+        "사성웅",
+        "배정미",
+        "여민정",
+        "석승훈",
+        "송준석"
+      ],
+      "producers": [],
+      "distributors": [
+        "워너브러더스 코리아(주)"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264481.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "이제껏 본 적 없는 ‘씽’나는 ‘냥’리법석이 펼쳐진다! 기상천외한 마법으로 소동을 일으키는 ‘모자 쓴 고양이’에게 주어진 특급 임무! 잃어버린 ‘돌림시계’를 되찾기 위해 떠나는 새로운 모험! 상상력과 영감을 담당하는 비밀 기관 I.I.I.I.의 요원인 ‘모자 쓴 고양이’는 새로운 동네로 이사한 뒤 적응에 힘들어하는 남매 ‘가비’와 ‘세바스찬’에게 웃음과 기쁨을 되찾아 주라는 임무를 맡게 된다. 하지만 사고뭉치 ‘모자 쓴 고양이’는 집안을 난장판으로 만드는 것도 모자라 마법의 ‘돌림시계’를 잃어버리고 만다. 요원으로서의 능력을 검증받을 수 있는 마지막 기회, ‘모자 쓴 고양이’는 ‘가비’와 ‘세바스찬’ 남매에게 도움을 요청하는데... 과연 ‘돌림시계’를 되찾고 남매의 소원도 이루어줄 수 있을까?",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1117898,
+      "score": 7.1,
+      "scoreBy": "TMDB",
+      "voteCount": 11,
+      "showing": true
+    },
+    {
+      "movieCd": "20267412",
+      "title": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+      "titleEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 80595,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261104",
+      "lastSeenAt": "20261121",
+      "days": 13,
+      "bestRank": 4,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 119,
+      "directors": [
+        "신보 아키유키"
+      ],
+      "cast": [
+        "유키 아오이",
+        "사이토 치와"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)애니플러스"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "",
+      "posterCredit": "",
+      "synopsis": "",
+      "synopsisCredit": "",
+      "tmdbId": null,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": false
     },
     {
       "movieCd": "20264498",
@@ -819,53 +866,6 @@
       "score": 8.8,
       "scoreBy": "TMDB",
       "voteCount": 20,
-      "showing": false
-    },
-    {
-      "movieCd": "20264481",
-      "title": "모자 쓴 고양이",
-      "titleEn": "The Cat in the Hat",
-      "titleOriginal": "",
-      "openedAt": "2026-11-06",
-      "audienceAcc": 52669,
-      "genres": [
-        "애니메이션"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261106",
-      "lastSeenAt": "20261115",
-      "days": 7,
-      "bestRank": 5,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 106,
-      "directors": [
-        "알레산드로 칼로니",
-        "에리카 리비노자"
-      ],
-      "cast": [
-        "조정석",
-        "사성웅",
-        "배정미",
-        "여민정",
-        "석승훈",
-        "송준석"
-      ],
-      "producers": [],
-      "distributors": [
-        "워너브러더스 코리아(주)"
-      ],
-      "rating": "전체관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20264481.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "이제껏 본 적 없는 ‘씽’나는 ‘냥’리법석이 펼쳐진다! 기상천외한 마법으로 소동을 일으키는 ‘모자 쓴 고양이’에게 주어진 특급 임무! 잃어버린 ‘돌림시계’를 되찾기 위해 떠나는 새로운 모험! 상상력과 영감을 담당하는 비밀 기관 I.I.I.I.의 요원인 ‘모자 쓴 고양이’는 새로운 동네로 이사한 뒤 적응에 힘들어하는 남매 ‘가비’와 ‘세바스찬’에게 웃음과 기쁨을 되찾아 주라는 임무를 맡게 된다. 하지만 사고뭉치 ‘모자 쓴 고양이’는 집안을 난장판으로 만드는 것도 모자라 마법의 ‘돌림시계’를 잃어버리고 만다. 요원으로서의 능력을 검증받을 수 있는 마지막 기회, ‘모자 쓴 고양이’는 ‘가비’와 ‘세바스찬’ 남매에게 도움을 요청하는데... 과연 ‘돌림시계’를 되찾고 남매의 소원도 이루어줄 수 있을까?",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1117898,
-      "score": 7.1,
-      "scoreBy": "TMDB",
-      "voteCount": 11,
       "showing": false
     },
     {
@@ -2125,50 +2125,6 @@
       "score": 8.2,
       "scoreBy": "TMDB",
       "voteCount": 28819,
-      "showing": false
-    },
-    {
-      "movieCd": "20265486",
-      "title": "퓨리어스",
-      "titleEn": "The Furious",
-      "titleOriginal": "",
-      "openedAt": "2026-10-07",
-      "audienceAcc": 3941,
-      "genres": [
-        "액션",
-        "범죄"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261007",
-      "lastSeenAt": "20261007",
-      "days": 1,
-      "bestRank": 9,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 113,
-      "directors": [
-        "타니가키 켄지"
-      ],
-      "cast": [
-        "사묘",
-        "조 타슬림",
-        "야얀 루히안"
-      ],
-      "producers": [],
-      "distributors": [
-        "(주)스튜디오디에이치엘"
-      ],
-      "rating": "청소년관람불가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20265486.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "말을 할 수 없는 평범한 아버지 왕웨이. 어느 날 그의 딸 레이니가 거대 범죄 조직에 납치되고, 부패한 경찰마저 외면하자 직접 딸을 찾아 나선다. 그는 실종된 아내를 찾는 기자인 나빈과 힘을 합쳐 거침없이 조직의 심장부로 돌진한다. 마침내 마주한 딸 레이니. 하지만 그곳에는 수많은 아이들이 갇혀 있었고, 참담한 광경에 그들은 분노한다. 왕웨이와 나빈 그리고 레이니는 범죄 조직을 향해 거침없이 몸을 던지며, 폭발적인 무술 액션의 사투를 벌인다.",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1280738,
-      "score": 8.2,
-      "scoreBy": "TMDB",
-      "voteCount": 816,
       "showing": false
     }
   ]
