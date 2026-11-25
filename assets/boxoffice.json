@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-24",
-  "latestDt": "20261124",
+  "updatedAt": "2026-11-25",
+  "latestDt": "20261125",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 3081238,
+      "audienceAcc": 3104399,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261124",
-      "days": 59,
+      "lastSeenAt": "20261125",
+      "days": 60,
       "bestRank": 1,
       "rank": 3,
-      "audienceDay": 6000,
+      "audienceDay": 23150,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -53,115 +53,23 @@
       "showing": true
     },
     {
-      "movieCd": "20267697",
-      "title": "명탐정 코난: 30호 살인 사건",
-      "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
-      "titleOriginal": "名探偵コナン 30号殺人事件",
-      "openedAt": "2026-11-05",
-      "audienceAcc": 202979,
-      "genres": [
-        "애니메이션",
-        "액션",
-        "미스터리"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261105",
-      "lastSeenAt": "20261124",
-      "days": 20,
-      "bestRank": 1,
-      "rank": 10,
-      "audienceDay": 1726,
-      "runtime": 93,
-      "directors": [
-        "카마나카 노부하루"
-      ],
-      "cast": [
-        "타카야마 미나미",
-        "야마구치 캇페이"
-      ],
-      "producers": [],
-      "distributors": [
-        "(주)씨제이이엔엠"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20267697.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "‘토토 타워’가 디자인된 1만 엔 신권 지폐가 발행되어 세상이 떠들썩한 가운데, 코난과 어린이 탐정단, 아가사 박사, 란과 소노코는 지폐 인쇄국 나가노 공장을 방문한다. 그 무렵, 경시청에서는 살인 사건 현장에서 발견된 신권 위조지폐로 인해 수사본부가 꾸려지고, 일본에서 발견된 30번째 위조지폐라는 점으로 인해 통칭 ‘30호 사건’으로 명명된다. 신권의 위조지폐 사건이 보도되면서 전국이 혼란해진 가운데 코난은 위조지폐가 인쇄된 것으로 추정되는 오사카의 지폐 인쇄국으로 향하고 거기서 헤이지가 수사에 합류한다. 그 외 시즈오카현과 가나가와현 등 각 지역에 위치한 지폐 인쇄국의 조사를 위해, 나가노현경의 야마토 칸스케, 모로후시 타카아키, 우에하라 유이 그리고 시즈오카현경의 요코미조 산고, 가나가와현경의 요코미조 쥬고 및 군마현경, 오사카부 경찰, 교토부 경찰까지 전국 경찰청에 이어 공안 후루야 레이, FBI 아카이 슈이치가 총출동해 국가적 위기에 맞선다! 통칭 30호, 신권 위조지폐 사건 발생! 전대미문 사건을 수사하기 위해 전원 출동! 국가적 위기에 맞서라!",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1777750,
-      "score": 6.5,
-      "scoreBy": "TMDB",
-      "voteCount": 2,
-      "showing": true
-    },
-    {
-      "movieCd": "20259894",
-      "title": "최종면접",
-      "titleEn": "Final Interview",
-      "titleOriginal": "",
-      "openedAt": "2026-11-04",
-      "audienceAcc": 330291,
-      "genres": [
-        "미스터리"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20261029",
-      "lastSeenAt": "20261124",
-      "days": 23,
-      "bestRank": 1,
-      "rank": 8,
-      "audienceDay": 2686,
-      "runtime": 107,
-      "directors": [
-        "김정훈"
-      ],
-      "cast": [
-        "조이현",
-        "김재원",
-        "신승호",
-        "강유석",
-        "곽동연",
-        "배강희"
-      ],
-      "producers": [
-        "커버넌트픽처스(주)"
-      ],
-      "distributors": [
-        "(주)넥스트엔터테인먼트월드(NEW)"
-      ],
-      "rating": "15세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20259894.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "치열한 경쟁률을 뚫고 최종면접에 오른 6명의 지원자. 한 달간 팀 토론을 준비하며 전원 합격을 꿈꾸던 이들에게 제한시간 2시간 동안 단 1명의 합격자를 직접 뽑으라는 과제가 주어진다. 관찰 카메라의 압박 속에 합격자를 가려내기 위한 토론과 투표를 이어가던 중 그들은 각자의 이름이 적힌 의문의 봉투를 발견한다. 봉투가 열릴 때마다 진실을 알 수 없는 비밀들이 공개되고, 공정한 경쟁을 약속했던 최종면접은 걷잡을 수 없는 폭로전으로 치닫는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 1545057,
-      "score": null,
-      "scoreBy": "",
-      "voteCount": null,
-      "showing": true
-    },
-    {
       "movieCd": "20247221",
       "title": "폭설",
       "titleEn": "White Blast",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 499716,
+      "audienceAcc": 543613,
       "genres": [
         "미스터리",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261112",
-      "lastSeenAt": "20261124",
-      "days": 8,
+      "lastSeenAt": "20261125",
+      "days": 9,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 37575,
+      "audienceDay": 43865,
       "runtime": 88,
       "directors": [
         "박선우",
@@ -200,18 +108,18 @@
       "titleEn": "Fall 2: Deadpoint",
       "titleOriginal": "",
       "openedAt": "2026-11-11",
-      "audienceAcc": 251694,
+      "audienceAcc": 255363,
       "genres": [
         "스릴러",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261124",
-      "days": 14,
+      "lastSeenAt": "20261125",
+      "days": 15,
       "bestRank": 1,
-      "rank": 4,
-      "audienceDay": 5201,
+      "rank": 10,
+      "audienceDay": 3669,
       "runtime": 98,
       "directors": [
         "마이클 스피어리그",
@@ -242,47 +150,50 @@
       "showing": true
     },
     {
-      "movieCd": "20264498",
-      "title": "하트 오브 비스트",
-      "titleEn": "Heart of the Beast",
+      "movieCd": "20244970",
+      "title": "슬픈 열대",
+      "titleEn": "Tristes Tropiques",
       "titleOriginal": "",
-      "openedAt": "2026-10-28",
-      "audienceAcc": 476795,
+      "openedAt": "2026-11-25",
+      "audienceAcc": 33501,
       "genres": [
-        "드라마",
         "액션"
       ],
       "type": "영화",
-      "firstSeenAt": "20261028",
-      "lastSeenAt": "20261124",
-      "days": 24,
-      "bestRank": 1,
-      "rank": 9,
-      "audienceDay": 1978,
-      "runtime": 101,
+      "firstSeenAt": "20261125",
+      "lastSeenAt": "20261125",
+      "days": 1,
+      "bestRank": 2,
+      "rank": 2,
+      "audienceDay": 31484,
+      "runtime": 107,
       "directors": [
-        "데이비드 에이어"
+        "박훈정"
       ],
       "cast": [
-        "브래드 피트",
-        "J.K. 시몬스"
+        "이신영",
+        "박유림",
+        "김명민",
+        "박해수",
+        "임백굉",
+        "진이문"
       ],
-      "producers": [],
+      "producers": [
+        "(주)영화사 금월",
+        "(주)스튜디오앤뉴"
+      ],
       "distributors": [
-        "롯데컬처웍스(주)롯데엔터테인먼트"
+        "(주)마인드마크"
       ],
-      "rating": "12세이상관람가",
+      "rating": "청소년관람불가",
       "koficDetailFetched": true,
       "koficDetailVersion": 3,
-      "poster": "assets/posters/20264498.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "비행기 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부대원 ‘제임스’와 그의 은퇴한 군견 ‘오딘’이 매 순간 닥쳐오는 죽음의 위협 속에서 오직 서로에게만 의지한 채 처절한 사투를 벌이는 어드벤처 생존 드라마",
+      "showing": true,
+      "synopsis": "버려진 아이들을 킬러로 키워낸 조직 ‘슬픈 열대’의 절대자 ‘사부’가 살해당했다. 정글을 지배하던 공포의 대상이 사라지자, 형제처럼 자란 조직원들 사이에 균열과 의심이 걷잡을 수 없이 번져가고 그 틈을 타 오랜 동업자들마저 그의 빈자리를 차지하기 위해 움직이기 시작하는데...",
       "synopsisCredit": "TMDB",
-      "tmdbId": 1263337,
-      "score": 7.3,
-      "scoreBy": "TMDB",
-      "voteCount": 358,
-      "showing": true
+      "tmdbId": 1317410,
+      "poster": "assets/posters/20244970.webp",
+      "posterCredit": "TMDB"
     },
     {
       "movieCd": "20268264",
@@ -290,17 +201,17 @@
       "titleEn": "LIM YOUNG WOONGㅣIM HERO THE STADIUM 2",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 68892,
+      "audienceAcc": 72734,
       "genres": [
         "공연"
       ],
       "type": "영화",
       "firstSeenAt": "20261118",
-      "lastSeenAt": "20261124",
-      "days": 7,
+      "lastSeenAt": "20261125",
+      "days": 8,
       "bestRank": 2,
-      "rank": 5,
-      "audienceDay": 3834,
+      "rank": 9,
+      "audienceDay": 3842,
       "runtime": 144,
       "directors": [
         "오윤동",
@@ -336,7 +247,7 @@
       "titleEn": "The Hunger Games: Sunrise on the Reaping",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 107499,
+      "audienceAcc": 114701,
       "genres": [
         "액션",
         "스릴러",
@@ -344,11 +255,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261118",
-      "lastSeenAt": "20261124",
-      "days": 7,
+      "lastSeenAt": "20261125",
+      "days": 8,
       "bestRank": 2,
-      "rank": 2,
-      "audienceDay": 9034,
+      "rank": 5,
+      "audienceDay": 7198,
       "runtime": 158,
       "directors": [
         "프란시스 로렌스"
@@ -382,6 +293,321 @@
       "showing": true
     },
     {
+      "movieCd": "20264608",
+      "title": "헥스: 마녀왕국",
+      "titleEn": "HEXED",
+      "titleOriginal": "",
+      "openedAt": "2026-11-25",
+      "audienceAcc": 23267,
+      "genres": [
+        "애니메이션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261125",
+      "lastSeenAt": "20261125",
+      "days": 1,
+      "bestRank": 4,
+      "rank": 4,
+      "audienceDay": 22163,
+      "runtime": 109,
+      "directors": [
+        "폰 비라선손",
+        "제이슨 핸드",
+        "조시 트리니다드"
+      ],
+      "cast": [
+        "헤일리 스테인펠드",
+        "라시다 존스"
+      ],
+      "producers": [],
+      "distributors": [
+        "월트디즈니컴퍼니코리아 유한책임회사"
+      ],
+      "rating": "전체관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "엄마에게도, 학교에서도 남들과 조금 다른 특별한(?) 아이로 불리는 소녀 ‘빌리’는 어느 날, 우연히 마법 제어 팔찌가 풀리면서 자신도 몰랐던 마법의 힘을 깨우게 되고 지금껏 본 적 없는 마녀들의 세계 ‘헥스’로 향하게 된다. 무엇이든 할 수 있고, 될 수 있는 세계 ‘헥스’에 빠져든 ‘빌리’. 하지만 자신의 정체를 둘러싼 예언과 엄마의 비밀을 알게 되고, 막강한 마법을 지닌 세력까지 ‘빌리’ 모녀를 위협하기 시작하는데… 과연 ‘빌리’는 자신에게 주어진 특별한 운명을 받아들이고 위기에 빠진 ‘헥스’와 엄마를 구할 수 있을까!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1538497,
+      "score": 6.3,
+      "scoreBy": "TMDB",
+      "voteCount": 12,
+      "poster": "assets/posters/20264608.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20263271",
+      "title": "미트 페어런츠 4",
+      "titleEn": "Focker In-Law",
+      "titleOriginal": "",
+      "openedAt": "2026-11-25",
+      "audienceAcc": 6846,
+      "genres": [
+        "코미디"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261125",
+      "lastSeenAt": "20261125",
+      "days": 1,
+      "bestRank": 6,
+      "rank": 6,
+      "audienceDay": 6321,
+      "runtime": 105,
+      "directors": [
+        "존 햄버그"
+      ],
+      "cast": [
+        "로버트 드 니로",
+        "벤 스틸러",
+        "아리아나 그란데",
+        "오웬 윌슨"
+      ],
+      "producers": [],
+      "distributors": [
+        "롯데컬처웍스(주)롯데엔터테인먼트"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "전직 중앙정보국 요원인 깐깐한 장인 잭 번스의 혹독한 검증을 간신히 통과하고 평화를 되찾았던 그렉 포커. 세월이 흘러 어느덧 성인이 된 아들 헨리가 연방수사국 인질 협상가 출신의 당찬 여자친구 올리비아 존스를 집으로 데려오면서 조용하던 가족에게 다시금 파란이 일어난다. 헨리가 가족들 앞에서 올리비아에게 청혼하겠다고 폭탄선언을 하자, 사람의 심리를 교묘하게 조종하도록 훈련받은 그녀가 순진한 아들과는 전혀 어울리지 않는다고 판단한 그렉은 깊은 의심과 불안에 휩싸인다. 설상가상으로 장인인 잭마저 거침없는 성격의 올리비아를 유독 마음에 들어 하면서 집안의 분위기는 걷잡을 수 없는 혼란으로 치닫기 시작한다. 과거 자신이 그토록 두려워했던 강압적인 장인의 모습을 스스로 닮아가는 가운데, 그렉은 과연 아들의 결혼을 무사히 받아들일 수 있을까?",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1400336,
+      "score": 7.3,
+      "scoreBy": "TMDB",
+      "voteCount": 7,
+      "poster": "assets/posters/20263271.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20158492",
+      "title": "진격의 거인: 자유의 날개",
+      "titleEn": "Attack on Titan: The Wings of Freedom",
+      "titleOriginal": "進撃の巨人 後編～自由の翼～",
+      "openedAt": "2015-12-10",
+      "audienceAcc": 12431,
+      "genres": [
+        "애니메이션",
+        "판타지"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261125",
+      "lastSeenAt": "20261125",
+      "days": 1,
+      "bestRank": 7,
+      "rank": 7,
+      "audienceDay": 6171,
+      "runtime": 120,
+      "directors": [
+        "아라키 테츠로"
+      ],
+      "cast": [
+        "카지 유키",
+        "이시카와 유이",
+        "이노우에 마리나",
+        "카미야 히로시",
+        "오노 다이스케",
+        "박로미"
+      ],
+      "producers": [],
+      "distributors": [
+        "씨제이 씨지브이(CJ CGV)(주)",
+        "(주)박수엔터테인먼트"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "거인이 모든 것을 지배하는 세계, 사람들의 평온한 일상은 무너졌다. “한 마리도 남김없이 쓸어버리겠어.” 그 각오와는 정반대로 갑자기 거인으로 변해버린 주인공 엘런. 자신이 누구인지 갈등하던 와중에 엘런은 그 능력을 써서 인류를 구하게 된다. 어떤 이는 그를 ‘구세주’라 칭송하고, 어떤 이는 그를 ‘악마’라 두려워한다. 다음으로 그들 앞에 나타난 것은 다른 거인들과는 명백히 다르게 지성을 가진 여성형 거인. 그녀는 대체 무엇인가... 엘런에게 숨겨진 능력의 비밀은...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 330081,
+      "score": 8.2,
+      "scoreBy": "TMDB",
+      "voteCount": 398,
+      "poster": "assets/posters/20158492.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20257409",
+      "title": "완벽한 집",
+      "titleEn": "My Home",
+      "titleOriginal": "",
+      "openedAt": "2026-11-25",
+      "audienceAcc": 5569,
+      "genres": [
+        "공포(호러)"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261125",
+      "lastSeenAt": "20261125",
+      "days": 1,
+      "bestRank": 8,
+      "rank": 8,
+      "audienceDay": 4198,
+      "runtime": 94,
+      "directors": [
+        "정용기"
+      ],
+      "cast": [
+        "장규리",
+        "배종옥",
+        "김민철"
+      ],
+      "producers": [
+        "(주)영화사테이크",
+        "주식회사 유엠아이엔터테인먼트",
+        "(주)스튜디오리온"
+      ],
+      "distributors": [
+        "(주)스튜디오더제이"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "졸업 유예와 기숙사 탈락으로 하루아침에 갈 곳을 잃은 대학생 ‘규빈’. 절박한 상황 속 우연한 기회로 서울 한복판에 있는 80평형 최고급 아파트에 사는 우아한 독거노인 ‘금림’의 룸메이트로 입주하게 된다. 꿈꿔본 적도 없는 완벽한 보금자리와 가족처럼 따뜻하게 대해주는 ‘금림’의 호의에 감동한 것도 잠시, 방에 설치한 홈캠에 정체불명의 움직임이 잡히고 밤마다 원인을 알 수 없는 기괴한 현상과 악몽에 시달리기 시작한다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1535897,
+      "poster": "assets/posters/20257409.webp",
+      "posterCredit": "TMDB"
+    },
+    {
+      "movieCd": "20267697",
+      "title": "명탐정 코난: 30호 살인 사건",
+      "titleEn": "Detective Conan: The Counterfeit Case of Ultra 30",
+      "titleOriginal": "名探偵コナン 30号殺人事件",
+      "openedAt": "2026-11-05",
+      "audienceAcc": 202979,
+      "genres": [
+        "애니메이션",
+        "액션",
+        "미스터리"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261105",
+      "lastSeenAt": "20261124",
+      "days": 20,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 93,
+      "directors": [
+        "카마나카 노부하루"
+      ],
+      "cast": [
+        "타카야마 미나미",
+        "야마구치 캇페이"
+      ],
+      "producers": [],
+      "distributors": [
+        "(주)씨제이이엔엠"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20267697.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "‘토토 타워’가 디자인된 1만 엔 신권 지폐가 발행되어 세상이 떠들썩한 가운데, 코난과 어린이 탐정단, 아가사 박사, 란과 소노코는 지폐 인쇄국 나가노 공장을 방문한다. 그 무렵, 경시청에서는 살인 사건 현장에서 발견된 신권 위조지폐로 인해 수사본부가 꾸려지고, 일본에서 발견된 30번째 위조지폐라는 점으로 인해 통칭 ‘30호 사건’으로 명명된다. 신권의 위조지폐 사건이 보도되면서 전국이 혼란해진 가운데 코난은 위조지폐가 인쇄된 것으로 추정되는 오사카의 지폐 인쇄국으로 향하고 거기서 헤이지가 수사에 합류한다. 그 외 시즈오카현과 가나가와현 등 각 지역에 위치한 지폐 인쇄국의 조사를 위해, 나가노현경의 야마토 칸스케, 모로후시 타카아키, 우에하라 유이 그리고 시즈오카현경의 요코미조 산고, 가나가와현경의 요코미조 쥬고 및 군마현경, 오사카부 경찰, 교토부 경찰까지 전국 경찰청에 이어 공안 후루야 레이, FBI 아카이 슈이치가 총출동해 국가적 위기에 맞선다! 통칭 30호, 신권 위조지폐 사건 발생! 전대미문 사건을 수사하기 위해 전원 출동! 국가적 위기에 맞서라!",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1777750,
+      "score": 6.5,
+      "scoreBy": "TMDB",
+      "voteCount": 2,
+      "showing": false
+    },
+    {
+      "movieCd": "20259894",
+      "title": "최종면접",
+      "titleEn": "Final Interview",
+      "titleOriginal": "",
+      "openedAt": "2026-11-04",
+      "audienceAcc": 330291,
+      "genres": [
+        "미스터리"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261029",
+      "lastSeenAt": "20261124",
+      "days": 23,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 107,
+      "directors": [
+        "김정훈"
+      ],
+      "cast": [
+        "조이현",
+        "김재원",
+        "신승호",
+        "강유석",
+        "곽동연",
+        "배강희"
+      ],
+      "producers": [
+        "커버넌트픽처스(주)"
+      ],
+      "distributors": [
+        "(주)넥스트엔터테인먼트월드(NEW)"
+      ],
+      "rating": "15세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20259894.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "치열한 경쟁률을 뚫고 최종면접에 오른 6명의 지원자. 한 달간 팀 토론을 준비하며 전원 합격을 꿈꾸던 이들에게 제한시간 2시간 동안 단 1명의 합격자를 직접 뽑으라는 과제가 주어진다. 관찰 카메라의 압박 속에 합격자를 가려내기 위한 토론과 투표를 이어가던 중 그들은 각자의 이름이 적힌 의문의 봉투를 발견한다. 봉투가 열릴 때마다 진실을 알 수 없는 비밀들이 공개되고, 공정한 경쟁을 약속했던 최종면접은 걷잡을 수 없는 폭로전으로 치닫는데...",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1545057,
+      "score": null,
+      "scoreBy": "",
+      "voteCount": null,
+      "showing": false
+    },
+    {
+      "movieCd": "20264498",
+      "title": "하트 오브 비스트",
+      "titleEn": "Heart of the Beast",
+      "titleOriginal": "",
+      "openedAt": "2026-10-28",
+      "audienceAcc": 476795,
+      "genres": [
+        "드라마",
+        "액션"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261028",
+      "lastSeenAt": "20261124",
+      "days": 24,
+      "bestRank": 1,
+      "rank": null,
+      "audienceDay": null,
+      "runtime": 101,
+      "directors": [
+        "데이비드 에이어"
+      ],
+      "cast": [
+        "브래드 피트",
+        "J.K. 시몬스"
+      ],
+      "producers": [],
+      "distributors": [
+        "롯데컬처웍스(주)롯데엔터테인먼트"
+      ],
+      "rating": "12세이상관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "poster": "assets/posters/20264498.webp",
+      "posterCredit": "TMDB",
+      "synopsis": "비행기 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부대원 ‘제임스’와 그의 은퇴한 군견 ‘오딘’이 매 순간 닥쳐오는 죽음의 위협 속에서 오직 서로에게만 의지한 채 처절한 사투를 벌이는 어드벤처 생존 드라마",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 1263337,
+      "score": 7.3,
+      "scoreBy": "TMDB",
+      "voteCount": 358,
+      "showing": false
+    },
+    {
       "movieCd": "20167904",
       "title": "라라랜드",
       "titleEn": "LA LA LAND",
@@ -398,8 +624,8 @@
       "lastSeenAt": "20261124",
       "days": 14,
       "bestRank": 3,
-      "rank": 6,
-      "audienceDay": 3464,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 127,
       "directors": [
         "데이미언 셔젤"
@@ -426,7 +652,7 @@
       "score": 7.9,
       "scoreBy": "TMDB",
       "voteCount": 18723,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20265321",
@@ -443,8 +669,8 @@
       "lastSeenAt": "20261124",
       "days": 5,
       "bestRank": 7,
-      "rank": 7,
-      "audienceDay": 3290,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 118,
       "directors": [
         "타케무라 켄타로"
@@ -468,7 +694,7 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20267846",
@@ -2077,54 +2303,6 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": false
-    },
-    {
-      "movieCd": "20266766",
-      "title": "어벤져스: 엔드게임 앙코르",
-      "titleEn": "Avengers: Endgame Encore",
-      "titleOriginal": "",
-      "openedAt": "2026-09-23",
-      "audienceAcc": 169898,
-      "genres": [
-        "액션",
-        "SF"
-      ],
-      "type": "영화",
-      "firstSeenAt": "20260923",
-      "lastSeenAt": "20261010",
-      "days": 13,
-      "bestRank": 5,
-      "rank": null,
-      "audienceDay": null,
-      "runtime": 183,
-      "directors": [
-        "안소니 루소",
-        "조 루소"
-      ],
-      "cast": [
-        "로버트 다우니 주니어",
-        "크리스 에반스",
-        "스칼렛 요한슨",
-        "마크 러팔로",
-        "크리스 헴스워스",
-        "제레미 레너"
-      ],
-      "producers": [],
-      "distributors": [
-        "월트디즈니컴퍼니코리아 유한책임회사"
-      ],
-      "rating": "12세이상관람가",
-      "koficDetailFetched": true,
-      "koficDetailVersion": 3,
-      "poster": "assets/posters/20266766.webp",
-      "posterCredit": "TMDB",
-      "synopsis": "어벤져스의 패배 이후 지구는 초토화됐고 남은 절반의 사람들은 정신적 고통을 호소하며 하루하루를 근근이 버텨나간다. 와칸다에서 싸우다 생존한 히어로들과 우주의 타이탄 행성에서 싸우다 생존한 히어로들이 뿔뿔이 흩어졌는데, 아이언맨과 네뷸라는 우주를 떠돌고 있고 지구에 남아 있는 어벤져스 멤버들은 닉 퓨리가 마지막에 신호를 보내다 만 송신기만 들여다보며 혹시 모를 우주의 응답을 기다리는 중이다. 애초 히어로의 삶을 잠시 내려놓고 가족과 시간을 보내던 호크아이 역시 헤아릴 수 없는 마음의 상처를 입은 채 사라지고 마는데...",
-      "synopsisCredit": "TMDB",
-      "tmdbId": 299534,
-      "score": 8.2,
-      "scoreBy": "TMDB",
-      "voteCount": 28819,
       "showing": false
     }
   ]
