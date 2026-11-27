@@ -2,8 +2,8 @@
   "note": "일별 박스오피스를 작품 단위로 누적한 목록입니다. 콘텐츠ZONE 의 영화·애니 탭에서 씁니다.",
   "source": "영화진흥위원회 오픈API 일별 박스오피스",
   "sourceUrl": "https://www.kobis.or.kr/kobisopenapi/",
-  "updatedAt": "2026-11-26",
-  "latestDt": "20261126",
+  "updatedAt": "2026-11-27",
+  "latestDt": "20261127",
   "keepDays": 45,
   "movies": [
     {
@@ -12,17 +12,17 @@
       "titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "titleOriginal": "映画ちいかわ 人魚の島のひみつ",
       "openedAt": "2026-09-30",
-      "audienceAcc": 3109804,
+      "audienceAcc": 3116463,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20260919",
-      "lastSeenAt": "20261126",
-      "days": 61,
+      "lastSeenAt": "20261127",
+      "days": 62,
       "bestRank": 1,
       "rank": 5,
-      "audienceDay": 5415,
+      "audienceDay": 6677,
       "runtime": 98,
       "directors": [
         "오이카와 케이"
@@ -58,18 +58,18 @@
       "titleEn": "White Blast",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 577651,
+      "audienceAcc": 623620,
       "genres": [
         "미스터리",
         "드라마"
       ],
       "type": "영화",
       "firstSeenAt": "20261112",
-      "lastSeenAt": "20261126",
-      "days": 10,
+      "lastSeenAt": "20261127",
+      "days": 11,
       "bestRank": 1,
       "rank": 1,
-      "audienceDay": 34037,
+      "audienceDay": 45866,
       "runtime": 88,
       "directors": [
         "박선우",
@@ -108,18 +108,18 @@
       "titleEn": "Fall 2: Deadpoint",
       "titleOriginal": "",
       "openedAt": "2026-11-11",
-      "audienceAcc": 258298,
+      "audienceAcc": 262199,
       "genres": [
         "스릴러",
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261111",
-      "lastSeenAt": "20261126",
-      "days": 16,
+      "lastSeenAt": "20261127",
+      "days": 17,
       "bestRank": 1,
-      "rank": 8,
-      "audienceDay": 2935,
+      "rank": 7,
+      "audienceDay": 3901,
       "runtime": 98,
       "directors": [
         "마이클 스피어리그",
@@ -155,17 +155,17 @@
       "titleEn": "Tristes Tropiques",
       "titleOriginal": "",
       "openedAt": "2026-11-25",
-      "audienceAcc": 54948,
+      "audienceAcc": 75550,
       "genres": [
         "액션"
       ],
       "type": "영화",
       "firstSeenAt": "20261125",
-      "lastSeenAt": "20261126",
-      "days": 2,
+      "lastSeenAt": "20261127",
+      "days": 3,
       "bestRank": 2,
       "rank": 2,
-      "audienceDay": 21436,
+      "audienceDay": 20597,
       "runtime": 107,
       "directors": [
         "박훈정"
@@ -204,17 +204,17 @@
       "titleEn": "LIM YOUNG WOONGㅣIM HERO THE STADIUM 2",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 76227,
+      "audienceAcc": 79372,
       "genres": [
         "공연"
       ],
       "type": "영화",
       "firstSeenAt": "20261118",
-      "lastSeenAt": "20261126",
-      "days": 9,
+      "lastSeenAt": "20261127",
+      "days": 10,
       "bestRank": 2,
-      "rank": 7,
-      "audienceDay": 3493,
+      "rank": 8,
+      "audienceDay": 3146,
       "runtime": 144,
       "directors": [
         "오윤동",
@@ -250,7 +250,7 @@
       "titleEn": "The Hunger Games: Sunrise on the Reaping",
       "titleOriginal": "",
       "openedAt": "2026-11-18",
-      "audienceAcc": 120164,
+      "audienceAcc": 127836,
       "genres": [
         "액션",
         "스릴러",
@@ -258,11 +258,11 @@
       ],
       "type": "영화",
       "firstSeenAt": "20261118",
-      "lastSeenAt": "20261126",
-      "days": 9,
+      "lastSeenAt": "20261127",
+      "days": 10,
       "bestRank": 2,
       "rank": 4,
-      "audienceDay": 5464,
+      "audienceDay": 7674,
       "runtime": 158,
       "directors": [
         "프란시스 로렌스"
@@ -301,17 +301,17 @@
       "titleEn": "HEXED",
       "titleOriginal": "",
       "openedAt": "2026-11-25",
-      "audienceAcc": 36803,
+      "audienceAcc": 52793,
       "genres": [
         "애니메이션"
       ],
       "type": "영화",
       "firstSeenAt": "20261125",
-      "lastSeenAt": "20261126",
-      "days": 2,
+      "lastSeenAt": "20261127",
+      "days": 3,
       "bestRank": 3,
       "rank": 3,
-      "audienceDay": 13439,
+      "audienceDay": 15960,
       "runtime": 109,
       "directors": [
         "폰 비라선손",
@@ -345,17 +345,17 @@
       "titleEn": "Focker In-Law",
       "titleOriginal": "",
       "openedAt": "2026-11-25",
-      "audienceAcc": 12098,
+      "audienceAcc": 16863,
       "genres": [
         "코미디"
       ],
       "type": "영화",
       "firstSeenAt": "20261125",
-      "lastSeenAt": "20261126",
-      "days": 2,
+      "lastSeenAt": "20261127",
+      "days": 3,
       "bestRank": 6,
       "rank": 6,
-      "audienceDay": 5252,
+      "audienceDay": 4765,
       "runtime": 105,
       "directors": [
         "존 햄버그"
@@ -389,18 +389,18 @@
       "titleEn": "Attack on Titan: The Wings of Freedom",
       "titleOriginal": "進撃の巨人 後編～自由の翼～",
       "openedAt": "2015-12-10",
-      "audienceAcc": 14529,
+      "audienceAcc": 17027,
       "genres": [
         "애니메이션",
         "판타지"
       ],
       "type": "영화",
       "firstSeenAt": "20261125",
-      "lastSeenAt": "20261126",
-      "days": 2,
+      "lastSeenAt": "20261127",
+      "days": 3,
       "bestRank": 7,
       "rank": 10,
-      "audienceDay": 2098,
+      "audienceDay": 2498,
       "runtime": 120,
       "directors": [
         "아라키 테츠로"
@@ -432,6 +432,55 @@
       "showing": true
     },
     {
+      "movieCd": "20050082",
+      "title": "이터널 선샤인",
+      "titleEn": "Eternal Sunshine",
+      "titleOriginal": "Eternal Sunshine Of The Spotless Mind",
+      "openedAt": "2005-11-10",
+      "audienceAcc": 606327,
+      "genres": [
+        "멜로/로맨스"
+      ],
+      "type": "영화",
+      "firstSeenAt": "20261127",
+      "lastSeenAt": "20261127",
+      "days": 1,
+      "bestRank": 9,
+      "rank": 9,
+      "audienceDay": 2565,
+      "runtime": 107,
+      "directors": [
+        "미셸 공드리"
+      ],
+      "cast": [
+        "짐 캐리",
+        "케이트 윈슬렛",
+        "커스틴 던스트",
+        "마크 러팔로",
+        "일라이저 우드"
+      ],
+      "producers": [
+        "포커스피쳐스"
+      ],
+      "distributors": [
+        "롯데컬처웍스(주)롯데시네마",
+        "(주)노바미디어",
+        "코리아픽쳐스(주)"
+      ],
+      "rating": "15세관람가",
+      "koficDetailFetched": true,
+      "koficDetailVersion": 3,
+      "showing": true,
+      "synopsis": "조엘은 아픈 기억만을 지워준다는 라쿠나사를 찾아가 헤어진 연인 클레멘타인의 기억을 지우기로 결심한다. 기억이 사라져 갈수록 조엘은 사랑이 시작되던 순간, 행복한 기억들, 가슴 속에 각인된 추억들을 지우기 싫어지기만 하는데... 당신을 지우면 이 아픔도 사라질까요? 사랑은 그렇게 다시 기억된다.",
+      "synopsisCredit": "TMDB",
+      "tmdbId": 38,
+      "score": 8.1,
+      "scoreBy": "TMDB",
+      "voteCount": 17040,
+      "poster": "assets/posters/20050082.webp",
+      "posterCredit": "TMDB"
+    },
+    {
       "movieCd": "20257409",
       "title": "완벽한 집",
       "titleEn": "My Home",
@@ -446,8 +495,8 @@
       "lastSeenAt": "20261126",
       "days": 2,
       "bestRank": 8,
-      "rank": 9,
-      "audienceDay": 2636,
+      "rank": null,
+      "audienceDay": null,
       "runtime": 94,
       "directors": [
         "정용기"
@@ -476,7 +525,7 @@
       "score": null,
       "scoreBy": "",
       "voteCount": null,
-      "showing": true
+      "showing": false
     },
     {
       "movieCd": "20267697",
